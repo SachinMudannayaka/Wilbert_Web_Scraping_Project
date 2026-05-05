@@ -1,0 +1,572 @@
+{
+    "UniqueIdentity": "AR0989",
+    "region": "Global Inventories",
+    "Jurisdiction": "JP",
+    "category": "New Chemical Notification",
+    "title": "Japan. Class II Specified Chemical Substances (as amended through 12 September 1990)",
+    "casKey": "cas_rn",
+    "dateAndTime": "2025-07-04 07:07:35",
+    "errors": [],
+    "data": [
+        {
+            "no": "1",
+            "class_Ⅱ_specified_chemical_substance_name": "Trichloroethylene",
+            "cas_rn": "79-01-6",
+            "miti_number": "2-105",
+            "sha_hash": "ff8d7de1a15a3fff1c3ad051440a3c789e1003d9892f1d07bb4d0fe82fc27f93"
+        },
+        {
+            "no": "2",
+            "class_Ⅱ_specified_chemical_substance_name": "Tetrachloroethylene",
+            "cas_rn": "127-18-4",
+            "miti_number": "2-114",
+            "sha_hash": "22397292281ae9d24dfd704b120c1c48d703f6b3bfba4186b60b9de56cffad08"
+        },
+        {
+            "no": "3",
+            "class_Ⅱ_specified_chemical_substance_name": "Carbon tetrachloride",
+            "cas_rn": "56-23-5",
+            "miti_number": "2-38",
+            "sha_hash": "a5658ba3080da84feea2c2162c1b69028854b7beaf60d213d6d81296156c4125"
+        },
+        {
+            "no": "4",
+            "class_Ⅱ_specified_chemical_substance_name": "Triphenyltin N,N-dimethyldithiocarbamate",
+            "cas_rn": "1803-12-9",
+            "miti_number": "3-2586",
+            "sha_hash": "3faa6d28700f7d993eccae06176010bcd907d713efeaa5e613e0fbc798a51509"
+        },
+        {
+            "no": "5",
+            "class_Ⅱ_specified_chemical_substance_name": "Triphenyltin fluoride",
+            "cas_rn": "379-52-2",
+            "miti_number": "3-2587",
+            "sha_hash": "efa006cfba5ee4aca7dd76b704078644ad150df5851a59b2b832f38173786f48"
+        },
+        {
+            "no": "6",
+            "class_Ⅱ_specified_chemical_substance_name": "Triphenyltin acetate",
+            "cas_rn": "900-95-8",
+            "miti_number": "3-2597",
+            "sha_hash": "241481bc4554a87eb3d593cad663849e0f47e421c402214aeb31ec6b5a592af1"
+        },
+        {
+            "no": "7",
+            "class_Ⅱ_specified_chemical_substance_name": "Triphenyltin chloride",
+            "cas_rn": "639-58-7",
+            "miti_number": "3-2598",
+            "sha_hash": "2e862c6a999b63b29d76eade522cbb600c0af67cc5d6b90bc04ed1f2471acdcc"
+        },
+        {
+            "no": "8",
+            "class_Ⅱ_specified_chemical_substance_name": "Triphenyltin hydroxide",
+            "cas_rn": "76-87-9",
+            "miti_number": "3-3412",
+            "sha_hash": "74c45353ce28cb33bf708c5623865358fb20f81705290715d89bf8168bcf7bac"
+        },
+        {
+            "no": "9",
+            "class_Ⅱ_specified_chemical_substance_name": "Triphenyltin salt of fatty acid (only those containing 9,10 or 11 carbon atoms in the fatty acid)",
+            "cas_rn": "18380-71-7",
+            "miti_number": "3-3414",
+            "sha_hash": "39ecf68b1f4c7aa1f45f2a0cbf017808f144bb11335b0b5b8dc6ea66d1326232"
+        },
+        {
+            "no": "9",
+            "class_Ⅱ_specified_chemical_substance_name": "Triphenyltin salt of fatty acid (only those containing 9,10 or 11 carbon atoms in the fatty acid)",
+            "cas_rn": "18380-72-8",
+            "miti_number": "3-3414",
+            "sha_hash": "34213a24e9888d8525262fee29ecdff399079924509859a4dcc3ace73639fa83"
+        },
+        {
+            "no": "9",
+            "class_Ⅱ_specified_chemical_substance_name": "Triphenyltin salt of fatty acid (only those containing 9,10 or 11 carbon atoms in the fatty acid)",
+            "cas_rn": "47672-31-1",
+            "miti_number": "3-3414",
+            "sha_hash": "2dcd03096e0e0d2312fd9627ab8e694cf5e977a4eee98d0576b3e1ffd898c604"
+        },
+        {
+            "no": "9",
+            "class_Ⅱ_specified_chemical_substance_name": "Triphenyltin salt of fatty acid (only those containing 9,10 or 11 carbon atoms in the fatty acid)",
+            "cas_rn": "94850-90-5",
+            "miti_number": "3-3414",
+            "sha_hash": "812e6216acfeb83dea04d0a8fd94b85d9f78ce995826f43f63de5cb23ee8226a"
+        },
+        {
+            "no": "10",
+            "class_Ⅱ_specified_chemical_substance_name": "Triphenyltin chloroacetate",
+            "cas_rn": "7094-94-2",
+            "miti_number": "3-2593",
+            "sha_hash": "8d5aab5c4542d519a65b2d9a27f76ad1d5bc54c55aadc58869c2cd48af4213ce"
+        },
+        {
+            "no": "11",
+            "class_Ⅱ_specified_chemical_substance_name": "Tributyltin methacrylate",
+            "cas_rn": "2155-70-6",
+            "miti_number": "2-2029",
+            "sha_hash": "12be6eae55f34fb70d9ce74dc87440a69dbd3f7dbd6fabbed968c9059bd32bbc"
+        },
+        {
+            "no": "12",
+            "class_Ⅱ_specified_chemical_substance_name": "Bis(tributyltin) fumarate",
+            "cas_rn": "6454-35-9",
+            "miti_number": "2-2030",
+            "sha_hash": "dbce6360860528344795689fc15959994a2f5b22d9aab6f71731ff9032e6f930"
+        },
+        {
+            "no": "12",
+            "class_Ⅱ_specified_chemical_substance_name": "Bis(tributyltin) fumarate",
+            "cas_rn": "24291-45-0",
+            "miti_number": "-",
+            "sha_hash": "42b1c26379e54cb7df6d508b2fa7c96d08180332a99cb1e60e5edfa4a10c2565"
+        },
+        {
+            "no": "13",
+            "class_Ⅱ_specified_chemical_substance_name": "Tributyltin fluoride",
+            "cas_rn": "1983-10-4",
+            "miti_number": "2-2026",
+            "sha_hash": "52ff40919d4596fc6ac498107634600fb3df9c902ef3cdf9dc44192980d2abc6"
+        },
+        {
+            "no": "13",
+            "class_Ⅱ_specified_chemical_substance_name": "Tributyltin fluoride",
+            "cas_rn": "1983-10-4",
+            "miti_number": "2-2231",
+            "sha_hash": "e87fe2c13ffce05ec5d6a862ffb1ea1b641281889997d42a5d075a5ee99e1ece"
+        },
+        {
+            "no": "14",
+            "class_Ⅱ_specified_chemical_substance_name": "Bis(tributyltin) 2,3-dibromosuccinate",
+            "cas_rn": "31732-71-5",
+            "miti_number": "2-2240",
+            "sha_hash": "29f7523d4772003fc8f7ba1dbb539945809623a72e05df9f843b3316563836cc"
+        },
+        {
+            "no": "14",
+            "class_Ⅱ_specified_chemical_substance_name": "Bis(tributyltin) 2,3-dibromosuccinate",
+            "cas_rn": "56323-17-2",
+            "miti_number": "2-2240",
+            "sha_hash": "9d5f2ae278acb359239f2fb5cf562983f7952042940205bf8df19a4c2be54a2f"
+        },
+        {
+            "no": "15",
+            "class_Ⅱ_specified_chemical_substance_name": "Tributyltin acetate",
+            "cas_rn": "56-36-0",
+            "miti_number": "2-2264",
+            "sha_hash": "c6deef92797fa81e9b4d2a5d74f2296dedf506b3cbd388446ed59797d7afef32"
+        },
+        {
+            "no": "15",
+            "class_Ⅱ_specified_chemical_substance_name": "Tributyltin acetate",
+            "cas_rn": "56-36-0",
+            "miti_number": "2-2245",
+            "sha_hash": "3d4f9f0bc861d8fd9fa4062139018a8ec02d6b25893940cee1b86945a7a71e5a"
+        },
+        {
+            "no": "16",
+            "class_Ⅱ_specified_chemical_substance_name": "Tributyltin laurate",
+            "cas_rn": "3090-36-6",
+            "miti_number": "2-3028",
+            "sha_hash": "68922ef6552fbd6a46df3c367f320079302adc8b0863240749bb875e09913d5b"
+        },
+        {
+            "no": "17",
+            "class_Ⅱ_specified_chemical_substance_name": "Bis(tributyltin) phthalate",
+            "cas_rn": "4782-29-0",
+            "miti_number": "3-2596",
+            "sha_hash": "10515165673ac0cdf6c868fdda7bf43b43edbda2c5aef55ea95af25b0481d970"
+        },
+        {
+            "no": "18",
+            "class_Ⅱ_specified_chemical_substance_name": "Copolymer of alkyl acrylate, methyl methacrylate and tributyltin methacrylate (only those containing 8 carbon atoms in alkyl group of alkyl acrylate)",
+            "cas_rn": "67772-01-4",
+            "miti_number": "6-1362",
+            "sha_hash": "743e22c547852b47abc2e75e44845cd6e7fcb26d373b64000e62cdc9230e07bb"
+        },
+        {
+            "no": "19",
+            "class_Ⅱ_specified_chemical_substance_name": "Tributyltin sulfamate",
+            "cas_rn": "6517-25-5",
+            "miti_number": "2-2241",
+            "sha_hash": "86c8a2d1be46ae0d7f194dade5054e0468a816bfcbc16db561a87fc9c715fae6"
+        },
+        {
+            "no": "20",
+            "class_Ⅱ_specified_chemical_substance_name": "Bis(tributyltin) maleate",
+            "cas_rn": "14275-57-1",
+            "miti_number": "2-2256",
+            "sha_hash": "a7b52b4dc27ff0cad57eb9381815dbb3de9fce2cf735b307be46863adbe7f174"
+        },
+        {
+            "no": "21",
+            "class_Ⅱ_specified_chemical_substance_name": "Tributyltin chloride",
+            "cas_rn": "1461-22-9",
+            "miti_number": "2-3012",
+            "sha_hash": "0baa72b7ee756812cb71ab27b4de2e73ca7558d83faf7d7f4a88e6bd00052232"
+        },
+        {
+            "no": "22",
+            "class_Ⅱ_specified_chemical_substance_name": "Mixture of tributyltin cyclopentanecarboxylate and its analogous compounds (Synonym: Tributyltin naphthenate)",
+            "cas_rn": "85409-17-2",
+            "miti_number": "9-1765",
+            "sha_hash": "661a30e3efadb068128b5fd7f005ab546aabe488ad798fbd21b06f5b2a261a22"
+        },
+        {
+            "no": "23",
+            "class_Ⅱ_specified_chemical_substance_name": "Mixture of tributyltin 1,2,3,4,4a,4b,5,6,10,10a-decahydro-7-isopropyl-1,4a-dimethyl-1-phenanthrenecarboxylate and its analogous compounds (Synonym: Tributyltin salt of rosin)",
+            "cas_rn": "26239-64-5",
+            "miti_number": "9-2555",
+            "sha_hash": "44ceeec589ac98b0bebc065693a4ddb972544a3a1caae9d41751d082e8eb9513"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "93-32-3",
+            "miti_number": "3-589",
+            "sha_hash": "7280e4ae1092609d220e9e809e4d2f277966bb7a4ad6986b2f9e517f9ead157b"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "93-32-3",
+            "miti_number": "7-172",
+            "sha_hash": "d97d2eeb6a3ef694a36271d9ea17f9210d46c69081efaabf0db7caab32c8b598"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "104-35-8",
+            "miti_number": "3-589",
+            "sha_hash": "9834ae4488b4a55cd6e4fd07282c26126c8502833e3d538c56ba1057c6e1bc7f"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "104-35-8",
+            "miti_number": "7-172",
+            "sha_hash": "27300b4fd227d0db670257122350e8644277fb2eb31850e9d0659972dd0a7e77"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "7311-27-5",
+            "miti_number": "7-172",
+            "sha_hash": "8719edc02dd8155b9d0da27cb0b4159e39bda166e77099115bdcd626d8dd0cca"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "9016-45-9",
+            "miti_number": "7-172",
+            "sha_hash": "9d8dd7f3e1e8e5de9154e2c37d28d7800e56c08b2e1f0d4f3dd22c8bd5324cac"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "9021-03-8",
+            "miti_number": "7-172",
+            "sha_hash": "b3a64a983a268923b88c92d0810b293ca84ff1b064904b85b20131a470cc3658"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "14409-72-4",
+            "miti_number": "7-172",
+            "sha_hash": "ae0b88679e0aba206201ad9cb86fe40d3147a71bfe73fd684459fd5552e08d3b"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "20427-84-3",
+            "miti_number": "7-172",
+            "sha_hash": "6f7bdac201f9553eb18244adf6d2f941c59d7432eeed07d535e8be30377f2498"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "20636-48-0",
+            "miti_number": "7-172",
+            "sha_hash": "4cf425a66cb1265aeaa663e585a91c5c0ee82b80c8c8807339e29fa27efdfc28"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "26027-38-3",
+            "miti_number": "7-172",
+            "sha_hash": "b67657ea427e6909d01d1d26c632dec2a487addc74b19530f9971a30a6695a9c"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "26264-02-8",
+            "miti_number": "7-172",
+            "sha_hash": "30844359b6b7756e7872f8967519df2d0de4aed148fb55c4eb192892c2304774"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "26571-11-9",
+            "miti_number": "7-172",
+            "sha_hash": "3e6a37c7871afe363c9e1f1115b687cdba798f7df1e0c8b8df1035f92a5c2a05"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "27176-93-8",
+            "miti_number": "7-172",
+            "sha_hash": "c9df1e801c1d144bd512b0527c6d5604ceebac97e6db095cecb7cff9d1703a19"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "27176-97-2",
+            "miti_number": "7-172",
+            "sha_hash": "f8728fc00fce3c75ef64d9cb4763a57115c51c7118d9b5e28ff84bf927b12c4f"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "27177-01-1",
+            "miti_number": "7-172",
+            "sha_hash": "2355c533d08ce3462b9c512ff8b4464a14b7c5cbf2729eefa8d68b450402fef7"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "27177-03-3",
+            "miti_number": "7-172",
+            "sha_hash": "26fe5d8a533d6714db4d550cab38a38b35603101bf98aa8ea7893d71aad9c4a0"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "27177-05-5",
+            "miti_number": "7-172",
+            "sha_hash": "778b6d3b1cf2c9dfc74b93efcf52411e5975ca7836c7a448575448751923c09f"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "27177-08-8",
+            "miti_number": "7-172",
+            "sha_hash": "22cd1f9c3a7f785feb726d9e62272bd8bed017712092cc7bbd443317efcaa7c1"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "27942-26-3",
+            "miti_number": "7-172",
+            "sha_hash": "041f9534211ad94ea265e7c04988e175a44d2eb5523e63c251c70b986227ff9a"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "27942-27-4",
+            "miti_number": "7-172",
+            "sha_hash": "5ee6d5ea2ae4a62eb67cf8204ff694c3de9f0145bfa5d8a8d2590cc29e1ba869"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "27986-36-3",
+            "miti_number": "3-589",
+            "sha_hash": "29bf32df2a008c34922f648473054d759b097541803719bcc44e5144c724bffb"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "27986-36-3",
+            "miti_number": "7-172",
+            "sha_hash": "fe6b8b65b7e23e69c4bdd1616ede8b6b0a3e48377740fc4057f3239fb2198991"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "34166-38-6",
+            "miti_number": "7-172",
+            "sha_hash": "b9213b5b1c83fd8710115e40dcc52d8236eb0e3f143321f2ab1693830580f665"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "37205-87-1",
+            "miti_number": "7-172",
+            "sha_hash": "1d20dd93038b60b03c3846ed9f28246602ad1db4c04bae388a6cae7ce8fb8d22"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "41506-14-3",
+            "miti_number": "7-172",
+            "sha_hash": "b9b76e3e7e113b894f65f273acb410201f63cce888e6cd68a8f13fb3c712708a"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "51437-95-7",
+            "miti_number": "7-172",
+            "sha_hash": "4a03562137cba8ec9ec3032b546f2971be157c9b00e2a0c7525862cd614740b9"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "51938-25-1",
+            "miti_number": "7-172",
+            "sha_hash": "053a359060c3235969051699b9729687bd743128a6603557fc06920f35d3a891"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "57321-10-5",
+            "miti_number": "7-172",
+            "sha_hash": "ea50dc9b36440436bebc2238a0df7bac8b7110f7287bbd249cfe7bf44db8fddf"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "65455-66-5",
+            "miti_number": "7-172",
+            "sha_hash": "00a974a33048326244f9991844c4007d012949cad24c46edd73172ffbcfbc2f5"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "65455-69-8",
+            "miti_number": "7-172",
+            "sha_hash": "2d8845afbcd3bbc975b8a125f221deddb7431ce1e75ffd20df1ac7f08512c6d0"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "65455-72-3",
+            "miti_number": "7-172",
+            "sha_hash": "5dfdca855d210948ae86804d486eb2e918d767bcacc852ce42b63f40cf429d23"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "68412-54-4",
+            "miti_number": "7-172",
+            "sha_hash": "72c5ae2dff13947c5bde1de659924cf10081247353b57ac28aaa82330a21aab9"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "74342-10-2",
+            "miti_number": "7-172",
+            "sha_hash": "7174e6108c81930b3214faec54c5d7556e9e9627eb7cd3cb90d1ee5e309d3b69"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "84562-92-5",
+            "miti_number": "7-172",
+            "sha_hash": "b43cff8eb8a484eb4baeaae0e02fca3f0f88bc92d18fff5347571a4198386473"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "85005-55-6",
+            "miti_number": "7-172",
+            "sha_hash": "415095b1f9e5bfc1985d89d31282685ca140718523e406ce8d3e6d42829e3682"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "85005-55-6",
+            "miti_number": "3-589",
+            "sha_hash": "37088c53c860b8a45516e416fe13e8a0b54935811e4fa43f58a599f270c400e2"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "91648-64-5",
+            "miti_number": "7-172",
+            "sha_hash": "c5086c2cc5532d66f4300ec93609b99608af6bf6dcbd886e7f3a38107a84ab3f"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "91673-24-4",
+            "miti_number": "7-172",
+            "sha_hash": "525706b384da72793daf1b5e8a16caa1df5064b71b3856e379bdab9b9116c5bb"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "127087-87-0",
+            "miti_number": "7-172",
+            "sha_hash": "e1f2f4ceeaca61925f1a7826ed320df0bde7b2f27c51892a7d90c7a6ce56a5d4"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "155679-84-8",
+            "miti_number": "7-172",
+            "sha_hash": "36ae496a3e7c5321cc663257f9ba384b63acb11fba66db325672cfbf2a2484fa"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "156609-10-8",
+            "miti_number": "7-172",
+            "sha_hash": "9fbbd913e7614dcd6f55794e104203bdf1722ffe7863ef4bbff119d8c72e4b95"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "156818-89-2",
+            "miti_number": "7-172",
+            "sha_hash": "c1c06b6ee9c52ad2964cf039e22307e87be9abc79e62f0f12208752d667c28f3"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "156818-90-5",
+            "miti_number": "7-172",
+            "sha_hash": "d24a412a6afd683e5520e248e2faca85c1b68a86e60ced297d318e0104a83f7a"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "158054-23-0",
+            "miti_number": "3-589",
+            "sha_hash": "1b01ebe2442850678b6de9ad316787ddff2da07d3c3578edc2b6cf4d7a5fc28c"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "158054-23-0",
+            "miti_number": "7-172",
+            "sha_hash": "44dad24352c7d7472e3880bc069aa057a104386a6bfc97c9c70fc04d0504e8bc"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "244149-17-5",
+            "miti_number": "7-172",
+            "sha_hash": "fd9b99f4897e64544a8417ba72a314a07adc1dc2e2e0f73ca202cce0ef60f1ea"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "1119449-37-4",
+            "miti_number": "7-172",
+            "sha_hash": "95904761da515240d8f170ed179ce2582c43e9ebdb52d1b5d573f670ca57f517"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "1119449-37-4",
+            "miti_number": "3-589",
+            "sha_hash": "e75a8879996b7813360f0b5f4a60463e1c05b2ddbd12278f08896b18a5d67b00"
+        },
+        {
+            "no": "24",
+            "class_Ⅱ_specified_chemical_substance_name": "Poly(oxyethylene) alkylphenyl ether (limited to those the alkyl group is C=9)",
+            "cas_rn": "1119449-38-5",
+            "miti_number": "7-172",
+            "sha_hash": "e2a88bb9729b8cc13599637077ea94ec0419f42ffe35e7aad274181aec032088"
+        }
+    ]
+}

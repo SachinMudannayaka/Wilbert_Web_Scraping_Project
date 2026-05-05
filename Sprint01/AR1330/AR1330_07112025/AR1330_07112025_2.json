@@ -1,0 +1,183 @@
+{
+    "UniqueIdentity": "AR1330",
+    "region": "North America",
+    "Jurisdiction": "US",
+    "category": "Workplace Safety (OELs, BELs, GLP)",
+    "title": "Oregon. Oregon Rules for Air Contaminants, Tables Z-1, Z-2, Z-3 (OAR 437-002-0382; 29 October 2019)",
+    "casKey": null,
+    "dateAndTime": "2025-07-11 11:57:40",
+    "errors": [],
+    "data": [
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Silica: Crystalline",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/silica-crystalline-a-quartz-and-cristobalite/",
+            "sha_hash": "06629e0ed1cb5e9939121258d280bba74467135d8df1b1132e51d8bd108074de"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Quartz (Respirable)⁽ˡ⁾",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "250⁽ʰ⁾\n(%SiO₂+5)",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "10 mg/m³⁽ᵏ⁾\n(%SiO₂+2)",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "See Annotated Z-1",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "See Annotated Z-1",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "",
+            "sha_hash": "bc859f276c7336562e51b493e6906e8fb4a11917725e50dc5654d2a5f8544a62"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Cristobalite⁽ˡ⁾",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "See Annotated Z-1",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "See Annotated Z-1",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "See Annotated Z-1",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "",
+            "sha_hash": "683e720948a6c7bfe871179d2a625b2fb404843e41242d72b36fa887d511e3ac"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Tridymite⁽ˡ⁾",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "See Annotated Z-1",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "See Annotated Z-1",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "See Annotated Z-1",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "",
+            "sha_hash": "3f7577deabcdef057c6ebb116d167a1c640749ecd95af09e7a2718819ffb43f7"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Amorphous, including natural diatomaceous earth",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "20",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "80 mg/m³\n(%SiO₂)",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "6 (total)\n\t\t\t3 (resp.)",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "6",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "",
+            "sha_hash": "95f0a379f0f0df48ca2a3cb3927502ae6806b2f7fbf516425a02c3b6358faca1"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Silicates (less than 1% crystalline silica):",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "",
+            "sha_hash": "96f88c3359d093ac12a58af75fb5b77fcf4a58de78d6df808d68fc8c6ad99680"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Mica",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "20",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "3 (resp.)",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "3 (resp.)",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/mica/",
+            "sha_hash": "15cd728696bea3a31872136414bd88a6c7ae4ab0fe647dcfae6a9161168aac77"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Soapstone",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "20",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "6 (total)\n\t\t\t3 (resp.)",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "6 (total)\n\t\t\t3 (resp.)",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "",
+            "sha_hash": "61642d70b51e9156a6bf23318a4f402cf780897e73015d98c127e6b5609c0b48"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Talc (not containing asbestos)",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "20⁽ⁱ⁾",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "2 (resp.)",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "2 (resp.)",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/talc/",
+            "sha_hash": "499fc8e1f5dcfcbc7e39a8f7f144db3354ae04d5396af9e4fee548681e1a6dc2"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Talc (containing asbestos)",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "Use asbestos limit",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "See Section 5208",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "Use asbestos limit\n\t\t\tCa\n\t\t\t0.1 f/cm³",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "",
+            "sha_hash": "f562e389d5417e3224bd3094ed21f783db6567227edddc3d62ec15fab750fd3e"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Tremolite, asbestiform",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "See 29 CFR 1910.1001",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "Ca\n\t\t\t0.1 f/cm³\nSee Appendix A\nSee Appendix C",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "",
+            "sha_hash": "9a0b61af516e504f3c47a175290aeedd8a6d4d5e2254a309bcf803ff90c1ac0f"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Portland cement",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "50",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "See PNOR",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "10 (total)\n\t\t\t5 (resp.)",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/portland-cement/",
+            "sha_hash": "f2576bef604a9245d9e86fd6376647ddc131a3ee38597930a1a165580a28dba9"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Graphite (Natural)",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "15",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "2.5 (resp.)",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "2.5 (resp.)",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/graphite-all-forms-except-graphite-fibers/",
+            "sha_hash": "6e74b2621fea0ee5183ca452eb5365898e892553fa71291e713684f7765c21ea"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Coal Dust:",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "1\nSee Appendix C",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/coal-dust/",
+            "sha_hash": "61574be3f605837d452f917d6ecdd5f0a63e1b443ae55e08c109b96ebf749b0a"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Respirable fraction less than 5% SiO₂",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "2.4 mg/m³ ⁽ᵏ⁾",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "0.9 (bituminous)",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/coal-dust/",
+            "sha_hash": "1ee2519af5fe1e97256a63a9be0ecd104a4cb6456553add5031f70f9afc33b49"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Respirable fraction greater than 5% SiO₂",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "10 mg/m³ ⁽ᵏ⁾\n(%SiO₂+2)",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "0.1 (bituminous)",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/coal-dust/",
+            "sha_hash": "314a57cfabaa7cf88e108f33ce78577f7b83f1930bffdda4a16bfaab1499ec29"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Inert or Nuisance Dust: ⁽ʲ⁾",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "",
+            "sha_hash": "cdf16edff928afe35e1f0376185c546f9d600c3431d19b4c662422e19e257ed4"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Respirable fraction",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "15",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "5 mg/m³",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "5 (See PNOR)",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "See Appendix D",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "",
+            "sha_hash": "a2e18d89fc34998f8c48a39e99fd45c5a45073b7e37eb607407792345d7bdf6c"
+        },
+        {
+            "Regulatory_Limits_OSHA_PEL_Substance": "Total Dust",
+            "Regulatory_Limits_OSHA_PEL_mppcf": "50",
+            "Regulatory_Limits_OSHA_PEL_mg/m3": "15 mg/m³",
+            "Regulatory_Limits_Cal/OSHA_PEL_8-hour_TWA_mg/m3": "10 (See PNOR)",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA_mg/m3": "See Appendix D",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "",
+            "sha_hash": "171e93631d395a3b4c7b09893ead078b86e69d8c1c629182cddb81a5daa50113"
+        }
+    ]
+}

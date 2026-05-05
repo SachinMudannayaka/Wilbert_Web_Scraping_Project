@@ -1,0 +1,1299 @@
+{
+    "UniqueIdentity": "AR0367",
+    "region": "North America",
+    "Jurisdiction": "CA",
+    "category": "Workplace Safety (OELs, BELs, GLP)",
+    "title": "Canada. Ontario OELs (Reg. 833, Control of Exposure to Biological or Chemical Agents, as amended through 4 January 2020)",
+    "casKey": "Agent_[CAS No.]",
+    "dateAndTime": "2025-07-02 10:33:16",
+    "errors": [],
+    "data": [
+        {
+            "Listing": "1.",
+            "FLE": "4.",
+            "Agent_[CAS_No.]": "*Acrylonitrile [107-13-1]",
+            "TWA": "2 ppm",
+            "STEL": "C 10 ppm",
+            "NOTATION": "Skin",
+            "sha_hash": "6a6eee7572d22de5fd55f9b963cb508418bb55b840dd656296da7180dcf64663"
+        },
+        {
+            "Listing": "2a.",
+            "FLE": "50a.",
+            "Agent_[CAS_No.]": "Revoked:  O. Reg. 287/17, s. 3 (1)",
+            "TWA": "",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "2c3a6ffe8bed9607134a0d21cc86a5153e4004aa8d5a02dd9a11af57635ef618"
+        },
+        {
+            "Listing": "2b.",
+            "FLE": "50b.",
+            "Agent_[CAS_No.]": "Revoked:  O. Reg. 287/17, s. 3 (1)",
+            "TWA": "",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "e8e2d14f6c098427170ed5ae2176139b2b43f71e16532088d6efc77861b93906"
+        },
+        {
+            "Listing": "3.",
+            "FLE": "7.",
+            "Agent_[CAS_No.]": "*Arsenic, elemental arsenic and inorganic compounds [7440-38-2], and organic compounds (only where both inorganic and organic compounds are present), as As.",
+            "TWA": "0.01 mg/m3",
+            "STEL": "0.05 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "983ee76b1a80058cda829e2234c831dc89c545b50c82261ac051a5384e983f2b"
+        },
+        {
+            "Listing": "4a.",
+            "FLE": "5a.",
+            "Agent_[CAS_No.]": "*Asbestos – All forms [1332-21-4]",
+            "TWA": "0.1 f/cc (F)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "9c5395f6f4dc0395944dbcf7dde38778563acd024d8a47ff17c6e9b409d4e90c"
+        },
+        {
+            "Listing": "4b.",
+            "FLE": "5b.",
+            "Agent_[CAS_No.]": "*Asbestos – Actinolite [77536-66-4]",
+            "TWA": "0.1 f/cc (F)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "5e4b42f31b277f7f9809481b9c86af7a038f5c5af129772882f74a3f4d36bc7a"
+        },
+        {
+            "Listing": "4c.",
+            "FLE": "5c.",
+            "Agent_[CAS_No.]": "*Asbestos – Amosite [12172-73-5]",
+            "TWA": "0.1 f/cc (F)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "9580a751730f2c468a1a12bff972e1342d2e209063d7d6a04b5e013eb4996a48"
+        },
+        {
+            "Listing": "4d.",
+            "FLE": "5d.",
+            "Agent_[CAS_No.]": "*Asbestos – Anthophyllite [77536-67-5]",
+            "TWA": "0.1 f/cc (F)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "40ff75ad1b20c099051a4e0e29af74f232956c2d4827c12ee559592c85b62a3b"
+        },
+        {
+            "Listing": "4e.",
+            "FLE": "5e.",
+            "Agent_[CAS_No.]": "*Asbestos – Chrysotile [132207-32-0]",
+            "TWA": "0.1 f/cc (F)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "f28445ecdfef92dc32275b6de3f6eec9b85ed747da6f0fe3aa2447fccbaf923e"
+        },
+        {
+            "Listing": "4f.",
+            "FLE": "5f.",
+            "Agent_[CAS_No.]": "*Asbestos – Crocidolite [12001-28-4]",
+            "TWA": "0.1 f/cc (F)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "a39838167eee880b478488283062c278c3997dc913f2e41fb087cd816216b03a"
+        },
+        {
+            "Listing": "4g.",
+            "FLE": "5g.",
+            "Agent_[CAS_No.]": "*Asbestos – Tremolite [77536-68-6]",
+            "TWA": "0.1 f/cc (F)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "9eb66f2f7fb73889cddd53819d8629ce9639bb7ec2841eac1c4698d96b8a89ae"
+        },
+        {
+            "Listing": "5.",
+            "FLE": "10.",
+            "Agent_[CAS_No.]": "Benzaldehyde [100-52-7]",
+            "TWA": "",
+            "STEL": "4 ppm, or 17 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "59a89d364b6379b6b976af7f469f61abcf9a1ef452fe361c0687e633e0c40f61"
+        },
+        {
+            "Listing": "6.",
+            "FLE": "11.",
+            "Agent_[CAS_No.]": "*Benzene [71-43-2]",
+            "TWA": "0.5 ppm",
+            "STEL": "2.5 ppm",
+            "NOTATION": "Skin",
+            "sha_hash": "479c14c1006335bce472a36ad33d9a8dbc38a0242da7bae53bff59987b7837e2"
+        },
+        {
+            "Listing": "7.",
+            "FLE": "12.",
+            "Agent_[CAS_No.]": "Revoked:  O. Reg. 287/17, s. 3 (1)",
+            "TWA": "",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "189fb9d29df2796fb48fa19d601b5aebb0de71c5845022f887d92444bd7761b1"
+        },
+        {
+            "Listing": "8.",
+            "FLE": "19.",
+            "Agent_[CAS_No.]": "Calcium chloride [10043-52-4]",
+            "TWA": "5 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "b61837ffa43893569bcc9daaf293e649c56ee21abda2b08b426af515304a506e"
+        },
+        {
+            "Listing": "9.",
+            "FLE": "15.",
+            "Agent_[CAS_No.]": "Carbon tetrachloride [56-23-5]",
+            "TWA": "2 ppm",
+            "STEL": "3 ppm",
+            "NOTATION": "Skin",
+            "sha_hash": "f03a6fa386ec42cf33d42da56d6d0ca6cb72765b40bb8880e34b6624b7c5f009"
+        },
+        {
+            "Listing": "10.",
+            "FLE": "16.",
+            "Agent_[CAS_No.]": "Charcoal, except activated [16291-96-6]",
+            "TWA": "10 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "6c26db39a8ca2913294dae287b20c50acb14fbf58279735367e08ce7414083a7"
+        },
+        {
+            "Listing": "11.",
+            "FLE": "66.",
+            "Agent_[CAS_No.]": "Chlorinated diphenyl oxides [55720-99-5]",
+            "TWA": "0.5 mg/m3",
+            "STEL": "2 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "b911da1afadf0a4595a680002cf44ba5f229dbd2b7c06781948cde9e98eee0d7"
+        },
+        {
+            "Listing": "12.",
+            "FLE": "17.",
+            "Agent_[CAS_No.]": "o-Chlorobenzaldehyde [89-98-5]",
+            "TWA": "",
+            "STEL": "4 ppm, or 23 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "9ab76121172c333fb472b3057819f7f63fa0c958458e52d578d07ce08c38ecd8"
+        },
+        {
+            "Listing": "13a.",
+            "FLE": "14a.",
+            "Agent_[CAS_No.]": "Chlorodiphenyl (42 per cent chlorine) [53469-21-9]",
+            "TWA": "See listing for Polychlorinated Biphenyls (PCBs)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "564d8ed71662668d86ae0f2d88eead3aae0f921136db2f812775000c50372f11"
+        },
+        {
+            "Listing": "13b.",
+            "FLE": "14b.",
+            "Agent_[CAS_No.]": "Chlorodiphenyl (54 per cent chlorine) [11097-69-1]",
+            "TWA": "See listing for Polychlorinated Biphenyls (PCBs)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "653347d542a8cbf1bb9b099b945e6d20e7da45b0dfa1d5aff551d54a244121a3"
+        },
+        {
+            "Listing": "14.",
+            "FLE": "22.",
+            "Agent_[CAS_No.]": "N-Cocomorpholine [1541-81-7]",
+            "TWA": "5 ppm, or 52 mg/m3",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "5d74579efb76a5d6388366288e5ac410295c1c75ce9e8c0c3c985b84e37c4dfa"
+        },
+        {
+            "Listing": "15.",
+            "FLE": "46.",
+            "Agent_[CAS_No.]": "*Coke Oven Emissions1",
+            "TWA": "0.15 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "3c4c8d64600304f29953cd669aa247c921c33e559bf5f039d1aa7ab0e309485e"
+        },
+        {
+            "Listing": "16.",
+            "FLE": "87.",
+            "Agent_[CAS_No.]": "Coumarone-Indene Resins (total dust) [63393-89-5]",
+            "TWA": "5 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "101eab1b92ea8a77bdd05d10f706ddc5caf7be1fb768bc5072d5768b909d4777"
+        },
+        {
+            "Listing": "17.",
+            "FLE": "24.",
+            "Agent_[CAS_No.]": "Cymene (sum of o-, m- and p-isomers) [25155-15-1]",
+            "TWA": "50 ppm, or 274 mg/m3",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "eb1a38ed1dedc84d4b73b3850a66e6b4055c7c91d272145c12f4dfa8d84a231e"
+        },
+        {
+            "Listing": "18.",
+            "FLE": "28.",
+            "Agent_[CAS_No.]": "1,1-Dichloroethene [75-35-4]",
+            "TWA": "1 ppm, or 4 mg/m3",
+            "STEL": "20 ppm, or 80 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "5c1508ea02c5024d51d40794f4611f3c7f0798e51d21949a79a6f23356e1707a"
+        },
+        {
+            "Listing": "19.",
+            "FLE": "29.",
+            "Agent_[CAS_No.]": "1,3-Dichloro-2-Propanol [96-23-1]",
+            "TWA": "",
+            "STEL": "1 ppm, or 5 mg/m3",
+            "NOTATION": "Skin",
+            "sha_hash": "de3f3a0347e473a5c5ed4fee797806288b3309fa657da3225112a5e6f6dad73a"
+        },
+        {
+            "Listing": "20.",
+            "FLE": "40.",
+            "Agent_[CAS_No.]": "Diethylene glycol monoethyl ether [111- 90-0]",
+            "TWA": "30 ppm, or 165 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "4f9221e049ba5cbd319fd54a31963d47f03bc2287142bc4cbf6977abf169477d"
+        },
+        {
+            "Listing": "21.",
+            "FLE": "74.",
+            "Agent_[CAS_No.]": "Di(2-ethylhexyl)phthalate (DEHP) [117-81-7]",
+            "TWA": "3 mg/m3",
+            "STEL": "5 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "81902eefc6f6a66307401de497eac6f91164a305dd42a8158cc30e41ed788f96"
+        },
+        {
+            "Listing": "22.",
+            "FLE": "73.",
+            "Agent_[CAS_No.]": "Diisodecyl phthalate [26761-40-0]",
+            "TWA": "5 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "75a9cded98c851a110f8a883e932146a1b525ed2e86ec54d33b3d8dd37405ec9"
+        },
+        {
+            "Listing": "23.",
+            "FLE": "30.",
+            "Agent_[CAS_No.]": "3-(Dimethylamino) propylamine [109-55-7]",
+            "TWA": "0.5 ppm, or 2 mg/m3",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "bde4517e02e62c76e7a920108fb4f2685e92bb39d0c0e3cadcf743dc4b18e8ea"
+        },
+        {
+            "Listing": "24.",
+            "FLE": "31.",
+            "Agent_[CAS_No.]": "N, N-Dimethyl-cyclohexylamine [98-94-2]",
+            "TWA": "",
+            "STEL": "5 ppm, or 26 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "754450ff7df1aa7cbb35c2273d6858ec6fec38fe60f9398924666e7f9ddf25b1"
+        },
+        {
+            "Listing": "25.",
+            "FLE": "32.",
+            "Agent_[CAS_No.]": "N, N-Dimethyl-ethanolamine [108-01-0]",
+            "TWA": "3 ppm, or 11 mg/m3",
+            "STEL": "6 ppm, or 22 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "f845145d93356ee94040029231976fe1bcc15f6d67e9fdb195aaee5fb6e27d33"
+        },
+        {
+            "Listing": "26.",
+            "FLE": "103.",
+            "Agent_[CAS_No.]": "Dimethyl terephthalate [120-61-6]",
+            "TWA": "5 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "3b1014ea9ab7d94b0b0659b3f602241bd6f6abdcfadcf32f7061ef166e17578b"
+        },
+        {
+            "Listing": "27.",
+            "FLE": "18.",
+            "Agent_[CAS_No.]": "Dimethyl 2,3,5,6-tetracholoroterephthalate [1861-32-1]",
+            "TWA": "5 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "0104b6cf656d5d0b22658394c7ebf01b5e86e71d8e93fe7e7ef359ca75f873f8"
+        },
+        {
+            "Listing": "28.",
+            "FLE": "59.",
+            "Agent_[CAS_No.]": "Dipropylene glycol monomethyl ether acetate [88917-22-0]",
+            "TWA": "100 ppm, or 776 mg/m3",
+            "STEL": "150 ppm, or 1,164 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "7a74120ce2955b686809ff34c65e1253a405b3df4beaa3eedea6f8d0eb66c3e8"
+        },
+        {
+            "Listing": "29.",
+            "FLE": "34.",
+            "Agent_[CAS_No.]": "Diquat [2764-72-9; 85-00-7; 6385-62-2]",
+            "TWA": "0.5 mg/m3, or 0.1 mg/m3(R)",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "1b59905c2ccd6402018a03eb5d3e2e95a202913a39ca3db6cc51e72f7ec1dfbe"
+        },
+        {
+            "Listing": "30.",
+            "FLE": "35.",
+            "Agent_[CAS_No.]": "Enflurane [13838-16-9]",
+            "TWA": "2 ppm, or 16 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "45505a489637d5e4aa3c10250cdd21534f62e2991fac64a01c2ae3833909fe6d"
+        },
+        {
+            "Listing": "31.",
+            "FLE": "42.",
+            "Agent_[CAS_No.]": "Ethyl-3-ethoxy propionate[763-69-9]",
+            "TWA": "50 ppm, or 300 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "5f0ba4dcd0d798a148edc53ec79ba73b77e1c63a6d87f8dafe5e8ba8fbf704dc"
+        },
+        {
+            "Listing": "32.",
+            "FLE": "26.",
+            "Agent_[CAS_No.]": "Ethylene dibromide [106-93-4]",
+            "TWA": "(L)",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "67aa5150b6c427b3f8185fcce92e9531d1b22ffc31942dc137cf6b08ce290d91"
+        },
+        {
+            "Listing": "33.",
+            "FLE": "39.",
+            "Agent_[CAS_No.]": "Ethylene glycol dimethyl ether [110-71-4]",
+            "TWA": "5 ppm, or 18 mg/m3",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "9ac8a9e5f16bdd6b065fe6bd29e4a5bf3bc41911ab9032982c074e504f51159c"
+        },
+        {
+            "Listing": "34.",
+            "FLE": "41.",
+            "Agent_[CAS_No.]": "Ethylene glycol mono-n-propyl ether [2807-30-9]",
+            "TWA": "25 ppm, or 110 mg/m3",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "179d3b55c9dc92dafcc02ec28daa18543c25669deb052dd4348e50a553998b6a"
+        },
+        {
+            "Listing": "35.",
+            "FLE": "63.",
+            "Agent_[CAS_No.]": "Ethylene glycol mononitrate[16051-48-2]",
+            "TWA": "0.05 ppm, or 0.22 mg/m3",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "789875c9920d511139ab9c595132fc84f3a8f3bfcdb3c4d1fd9c9e683f83dcd9"
+        },
+        {
+            "Listing": "36.",
+            "FLE": "67.",
+            "Agent_[CAS_No.]": "*Ethylene oxide [75-21-8]",
+            "TWA": "1 ppm, or 1.8 mg/m3",
+            "STEL": "10 ppm, or 18 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "ed5c3ffe7c2305f1a171a7fd3f99872cc702b9ae652799d60655e3f6de508175"
+        },
+        {
+            "Listing": "37.",
+            "FLE": "57.",
+            "Agent_[CAS_No.]": "Ethyl methacrylate [97-63-2]",
+            "TWA": "50 ppm",
+            "STEL": "100 ppm",
+            "NOTATION": "",
+            "sha_hash": "284e4a2f49ba95f650103316e330069e7fdb1f96c7a416713f1fcdcd60263c25"
+        },
+        {
+            "Listing": "38.",
+            "FLE": "79.",
+            "Agent_[CAS_No.]": "Flour dust",
+            "TWA": "See listing for Wheat Flour Dust (total dust)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "c789b8353e3ead43ea0787c4a8194ec3ca380d9d49a2058b932958b727bb9500"
+        },
+        {
+            "Listing": "39.",
+            "FLE": "44.",
+            "Agent_[CAS_No.]": "Forane [26675-46-7]",
+            "TWA": "2 ppm, or 15 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "0c87ea2bc45e29f49473791b7921061c1e617ac9f005498895010bf59c6a6a53"
+        },
+        {
+            "Listing": "40.",
+            "FLE": "45.",
+            "Agent_[CAS_No.]": "Formaldehyde [50-00-0]",
+            "TWA": "",
+            "STEL": "STEL 1 ppm, or C 1.5 ppm",
+            "NOTATION": "",
+            "sha_hash": "b3651a79c152c7d99627e53d27264dd042262044040d4aaf64d0de31ea53efb7"
+        },
+        {
+            "Listing": "41.",
+            "FLE": "47.",
+            "Agent_[CAS_No.]": "Halothane [151-67-7]",
+            "TWA": "2 ppm, or 16 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "c04d00354b372f7684ba4958e2ac5c954a4cff26c6830ab291df9815a78cfd00"
+        },
+        {
+            "Listing": "42.",
+            "FLE": "1.",
+            "Agent_[CAS_No.]": "Heptyl acetate [112-06-1]",
+            "TWA": "50 ppm, or 320 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "058623b27a723bdd1082283429db3748a237e0fa1bbf6dafea6a0b12e8bb47ee"
+        },
+        {
+            "Listing": "43.",
+            "FLE": "48.",
+            "Agent_[CAS_No.]": "Hexamethylenetetramine (HMT) [100-97-0]",
+            "TWA": "",
+            "STEL": "0.35 ppm, or 2 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "6b7e4a2662431a50e0817459f72de0ba802cef640656128e85f6f01327ccceec"
+        },
+        {
+            "Listing": "44.",
+            "FLE": "49.",
+            "Agent_[CAS_No.]": "Hexamethyl phosphoramide [680-31-9]",
+            "TWA": "(L)",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "3e00ff20cb4a29c4f97abdf8571a2287add7606fc0b2898d1bf519e306065f0a"
+        },
+        {
+            "Listing": "45.",
+            "FLE": "2.",
+            "Agent_[CAS_No.]": "Hexyl acetate (isomeric mixture) [88230-35-7]",
+            "TWA": "50 ppm, or 294 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "805e205d476d7adf67e98c1fedf63f38094743ec6cc4a403d4bd35c4dd4859cb"
+        },
+        {
+            "Listing": "46.",
+            "FLE": "97.",
+            "Agent_[CAS_No.]": "Hydrogen sulfide [7783-06-4]",
+            "TWA": "10 ppm",
+            "STEL": "15 ppm",
+            "NOTATION": "",
+            "sha_hash": "b07c3b398c08568122b159295ac073db76de73ce65764b1f68f5260c869be722"
+        },
+        {
+            "Listing": "47.",
+            "FLE": "104.",
+            "Agent_[CAS_No.]": "Hydrogenated terphenyls2\r [61788-32-7]",
+            "TWA": "0.5 ppm",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "aa58584ffe458eb73d80ec23d3a6fc2342e0b11c1be131453279a6b428484dc3"
+        },
+        {
+            "Listing": "48a.",
+            "FLE": "52a.",
+            "Agent_[CAS_No.]": "*Isocyanates, organic compounds – Toluene diisocyanate (TDI) [584-84-9] [91-08-7]",
+            "TWA": "0.005 ppm",
+            "STEL": "C 0.02 ppm",
+            "NOTATION": "",
+            "sha_hash": "936f2e7c10d61233df2ce8d980e5576114c5a8373175167a5c5f9316e25fe592"
+        },
+        {
+            "Listing": "48b.",
+            "FLE": "52b.",
+            "Agent_[CAS_No.]": "*Isocyanates, organic compounds – Methylene bisphenyl isocyanate (MDI) [101-68-8]",
+            "TWA": "0.005 ppm",
+            "STEL": "C 0.02 ppm",
+            "NOTATION": "",
+            "sha_hash": "fceb260a0600e81c337f57ae7ec7a9efa8b41c8d7114337e2db1ed384de7eba1"
+        },
+        {
+            "Listing": "48c.",
+            "FLE": "52c.",
+            "Agent_[CAS_No.]": "*Isocyanates, organic compounds – Hexamethylene diisocyanate (HDI) [822-06-0]",
+            "TWA": "0.005 ppm",
+            "STEL": "C 0.02 ppm",
+            "NOTATION": "",
+            "sha_hash": "53a29fd7f36acc89aacdd9a6299b41cd1d2c703f6e099db5064728d1c80da044"
+        },
+        {
+            "Listing": "48d.",
+            "FLE": "52d.",
+            "Agent_[CAS_No.]": "*Isocyanates, organic compounds – Isophorone diisocyanate (IPDI) [4098-71-9]",
+            "TWA": "0.005 ppm",
+            "STEL": "C 0.02 ppm",
+            "NOTATION": "",
+            "sha_hash": "a3a146e7e8616c2c7e96eeb41430fb9e4290fbbd6c36c17c200372ea2e09c9e3"
+        },
+        {
+            "Listing": "48e.",
+            "FLE": "52e.",
+            "Agent_[CAS_No.]": "*Isocyanates, organic compounds – Methylene bis (4-cyclohexylisocyanate) [5124-30-1]",
+            "TWA": "0.005 ppm",
+            "STEL": "C 0.02 ppm",
+            "NOTATION": "",
+            "sha_hash": "27418d6b8e4a4774e2401f88c70cd602c16c771a0381b20e622aa595f061c70c"
+        },
+        {
+            "Listing": "48f.",
+            "FLE": "52f.",
+            "Agent_[CAS_No.]": "*Isocyanates, organic compounds – Methyl Isocyanate [624-83-9]",
+            "TWA": "0.02 ppm",
+            "STEL": "0.06 ppm",
+            "NOTATION": "Skin",
+            "sha_hash": "484d4038b67712901ec0ae31d1c722009803f25cef7ca523cf066fed762c6f69"
+        },
+        {
+            "Listing": "48g.",
+            "FLE": "52g.",
+            "Agent_[CAS_No.]": "*Isocyanates, organic compounds – Ethyl isocyanate [109-90-0]",
+            "TWA": "0.02 ppm",
+            "STEL": "0.06 ppm",
+            "NOTATION": "Skin",
+            "sha_hash": "2df17774eeaf76a38871145920e6fc786695bead3dbc2d8bb52d79276a3f708d"
+        },
+        {
+            "Listing": "48h.",
+            "FLE": "52h.",
+            "Agent_[CAS_No.]": "*Isocyanates, organic compounds – Phenyl isocyanate [103-71-9]",
+            "TWA": "0.005 ppm",
+            "STEL": "0.015 ppm",
+            "NOTATION": "Skin",
+            "sha_hash": "2de6670da5cf29721ff6a773af8c4a793400f49dbe1cffc4e3f5a60e7b0f83e1"
+        },
+        {
+            "Listing": "49.",
+            "FLE": "53.",
+            "Agent_[CAS_No.]": "Isopropylaminoethanols [109-56-8] [121-93-7]",
+            "TWA": "",
+            "STEL": "400 ppm, or 1,900 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "5cb3d29b6839cb07be3edf5115a63b61c6e401e11c91a8db89ac469971ce54c3"
+        },
+        {
+            "Listing": "50.",
+            "FLE": "33.",
+            "Agent_[CAS_No.]": "Isosorbide dinitrate [87-33-2]",
+            "TWA": "0.2 mg/m3",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "68b9273bebdaffafee37b19e3a646e0fbd79a1e476a13cfc1cef7641f450bbb4"
+        },
+        {
+            "Listing": "51a.",
+            "FLE": "77a.",
+            "Agent_[CAS_No.]": "*Lead [7439-92-1], elemental lead, inorganic and organic compounds of lead, as Pb – except tetraethyl lead [78-00-2]",
+            "TWA": "0.05 mg/m3",
+            "STEL": "",
+            "NOTATION": "Skin (organic compounds)",
+            "sha_hash": "69ef35a34b0c49ae903ffcbd5eb86233ea6435a4aacaa546ccf8218c3e217e36"
+        },
+        {
+            "Listing": "51b.",
+            "FLE": "77b.",
+            "Agent_[CAS_No.]": "*Lead [7439-92-1] – Tetraethyl lead, as Pb [78-00-2]",
+            "TWA": "0.10 mg/m3",
+            "STEL": "0.30 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "d12d2849fcee418cebd6b6f6842a068c3abf887d1c8c0758ac8f8b74b814f226"
+        },
+        {
+            "Listing": "52a.",
+            "FLE": "21a.",
+            "Agent_[CAS_No.]": "*Lead chromate [7758-97-6] – as Pb (see listing for lead) [7439-92-1]",
+            "TWA": "0.05 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "d041eb740536bb45798c7224057c0f8c2de64c52e6fef8ef7eb8d44a75c2dd6b"
+        },
+        {
+            "Listing": "52b.",
+            "FLE": "21b.",
+            "Agent_[CAS_No.]": "*Lead chromate [7758-97-6] – as Cr",
+            "TWA": "0.012 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "4b805045fe0c5b5581a973a11c0ee6ce28628a11c9f0e54744b95cd5bb62eab5"
+        },
+        {
+            "Listing": "53.",
+            "FLE": "54.",
+            "Agent_[CAS_No.]": "Lincomycin [154-21-2]",
+            "TWA": "0.1 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "d84a5fc23bb3946342c95d5326493ce93be9620fd4a398308e5a4d06b64af332"
+        },
+        {
+            "Listing": "54a.",
+            "FLE": "51a.",
+            "Agent_[CAS_No.]": "Lithium hydroxide – Anhydrous [1310-65-2]",
+            "TWA": "",
+            "STEL": "1 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "ced87662ce9240cb3ba3c3a83a5e54df435f98d300facb0925519ac2fa65663c"
+        },
+        {
+            "Listing": "54b.",
+            "FLE": "51b.",
+            "Agent_[CAS_No.]": "Lithium hydroxide – Monohydrate [1310-66-3]",
+            "TWA": "",
+            "STEL": "1 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "d11c6f9f905395ea6d346a06f25d98870a53c790eba2f0ef0107ecaeca13ec76"
+        },
+        {
+            "Listing": "55.",
+            "FLE": "55.",
+            "Agent_[CAS_No.]": "Manganese [7439-96-5]",
+            "TWA": "0.2 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "4e3e02cff10881fb0a0bbbe44b37e994c5eef31068b6692d9bbc8adca19b9c48"
+        },
+        {
+            "Listing": "56a.",
+            "FLE": "56a.",
+            "Agent_[CAS_No.]": "*Mercury [7439-97-6], elemental mercury, inorganic and organic compounds of mercury, as Hg – All forms of except alkyl, as Hg",
+            "TWA": "0.025 mg/m3",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "a919f8b717b637e5bac0c23cf1932f8226d552bccefc720f975df063ba20308a"
+        },
+        {
+            "Listing": "56b.",
+            "FLE": "56b.",
+            "Agent_[CAS_No.]": "*Mercury [7439-97-6] – Alkyl compounds of, as Hg",
+            "TWA": "0.01 mg/m3",
+            "STEL": "0.03 mg/m3",
+            "NOTATION": "Skin",
+            "sha_hash": "ec56f91f2dc50f954fa8311b702915b811fa8698e9c456f3bb199f3210dedf15"
+        },
+        {
+            "Listing": "57.",
+            "FLE": "58.",
+            "Agent_[CAS_No.]": "Methoxyflurane [76-38-0]",
+            "TWA": "2 ppm, or 13 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "ef19a8237c69ef8f91b357611236e8c201f675e9aa01138182834472d19040de"
+        },
+        {
+            "Listing": "58.",
+            "FLE": "60.",
+            "Agent_[CAS_No.]": "Methyl n-amyl ketone [110-43-0]",
+            "TWA": "25 ppm, or 115 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "6536f59565c2a51f576cdc5799278d919a754c483acc17abebbd5e2ee1a4186e"
+        },
+        {
+            "Listing": "59.",
+            "FLE": "38.",
+            "Agent_[CAS_No.]": "Methyl tert-butyl ether (MTBE) [1634-04-4]",
+            "TWA": "40 ppm",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "527c301da344263b180caa8f7cf349d159ef67392870b4c87e1a2d542a2b0203"
+        },
+        {
+            "Listing": "60.",
+            "FLE": "61.",
+            "Agent_[CAS_No.]": "Methyl n-butyl ketone [591-78-6]",
+            "TWA": "1 ppm, or 4 mg/m3",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "41be059011a3b7ec958b1dd5e52819756c2de3b2da3b1ba2102fc79a12cbfb1d"
+        },
+        {
+            "Listing": "61.",
+            "FLE": "27.",
+            "Agent_[CAS_No.]": "4,4'-Methylene bis(2-chloroaniline) (MBOCA; MOCA®)[101-14-4]",
+            "TWA": "0.0005 ppm, or 0.005 mg/m3",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "e0cc7d26d92c5d58d4685fe291abf26479f1474e6f52cc23ff7c75a40b9e67bd"
+        },
+        {
+            "Listing": "62.",
+            "FLE": "25.",
+            "Agent_[CAS_No.]": "4,4'-Methylene dianiline [101-77-9]",
+            "TWA": "0.04 mg/m3",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "a1a69f0eb017fa3b134108582ba5a2a3dd59a93b5435b82b2f2a9e56d548604e"
+        },
+        {
+            "Listing": "63.",
+            "FLE": "62.",
+            "Agent_[CAS_No.]": "N-Methyl-2-pyrrolidone [872-50-4]",
+            "TWA": "400 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "553cfe9520e1bf2f73a2932bc09504b41f8f954183d5e0ed682b0ddff2d70ce4"
+        },
+        {
+            "Listing": "64.",
+            "FLE": "36.",
+            "Agent_[CAS_No.]": "Mineral Spirits",
+            "TWA": "525 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "6b90c0b0f193d9241696a2ee5b3a55a0c8ff545fe8c2de25d352fece6f7a87b5"
+        },
+        {
+            "Listing": "65.",
+            "FLE": "98.",
+            "Agent_[CAS_No.]": "Nepheline syenite (total dust) [37244-96-5]",
+            "TWA": "10 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "41e68ab7a9267d2677b579d17178007ab3eed150725aa64c568a39e5514f5758"
+        },
+        {
+            "Listing": "66a.",
+            "FLE": "64a.",
+            "Agent_[CAS_No.]": "Nickel – Elemental/metal [7440-02-0]",
+            "TWA": "1 mg/m3(I)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "22f93a5042a4043b88028a0835ae1446d0f8fb9f9d0e272abdd23888ae969c5f"
+        },
+        {
+            "Listing": "66b.",
+            "FLE": "64b.",
+            "Agent_[CAS_No.]": "Nickel – Insoluble compounds, as Ni [7440-02-0]",
+            "TWA": "0.2 mg/m3(I)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "b9e96b4594cad4625fecf2e566316085fbcecc85157733aabbc59cfa1e292169"
+        },
+        {
+            "Listing": "66c.",
+            "FLE": "64c.",
+            "Agent_[CAS_No.]": "Nickel – Soluble compounds, as Ni [7440-02-0]",
+            "TWA": "0.1 mg/m3(I)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "b9f873b9999d8042b4fd0c36df42488b0459a29418a3f5f82bf5ef56f55ee766"
+        },
+        {
+            "Listing": "66d.",
+            "FLE": "64d.",
+            "Agent_[CAS_No.]": "Nickel – Nickel subsulfide, as Ni [12035-72-2]",
+            "TWA": "0.1 mg/m3(I)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "63969486eae867b96acd50e1763f0450864153b38e38013d34b581e4f6ab31fd"
+        },
+        {
+            "Listing": "67.",
+            "FLE": "8.",
+            "Agent_[CAS_No.]": "Nitrogen dioxide [10102-44-0]",
+            "TWA": "3 ppm",
+            "STEL": "5 ppm",
+            "NOTATION": "",
+            "sha_hash": "4f9aadfac2f252dbe17fa262a77d464eaba63bb757dd7c4248a4c3fafdd2e63b"
+        },
+        {
+            "Listing": "68.",
+            "FLE": "65.",
+            "Agent_[CAS_No.]": "N-Nitrosamines, including n-Nitrosodimethylamine [62-75-9]",
+            "TWA": "(L)",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "d281c952073852492c0499172b3e4ecd4e8b9b727aefe1622a88c277d3f873d9"
+        },
+        {
+            "Listing": "69.",
+            "FLE": "9.",
+            "Agent_[CAS_No.]": "Nitrous oxide [10024-97-2]",
+            "TWA": "25 ppm, or 45 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "98493f15dd6bc1ef6ed92a8143885d1e14c23ddaf6b5061b29b1f6c99d0c1dcf"
+        },
+        {
+            "Listing": "70.",
+            "FLE": "68.",
+            "Agent_[CAS_No.]": "Ozone [10028-15-6]",
+            "TWA": "0.1 ppm, or 0.2 mg/m3",
+            "STEL": "0.3 ppm, or 0.6 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "b58eff656c790bc52d34c67072e50d6a5920ca8df8a5db1393907a0d099eba09"
+        },
+        {
+            "Listing": "71.",
+            "FLE": "69.",
+            "Agent_[CAS_No.]": "Paraquat [4685-14-7]",
+            "TWA": "0.1 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "522b911081d5059effa5d3440b7e17ce4c537caf56aad6967396de443b2f5347"
+        },
+        {
+            "Listing": "72.",
+            "FLE": "70.",
+            "Agent_[CAS_No.]": "Particles (Insoluble or Poorly Soluble) Not Otherwise Specified (PNOS)",
+            "TWA": "10 mg/m3(I), or 3 mg/m3(R)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "b466047f1d536b60c07fa4efe369dfd5d429dfac52f5aadd06f99ee122dda703"
+        },
+        {
+            "Listing": "73.",
+            "FLE": "71.",
+            "Agent_[CAS_No.]": "Penicillin (total dust) [1406-05-9]",
+            "TWA": "0.1 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "dc27c256da26f273d1ed84028d672341a47873ae41acdeceb1b1dc9b29f72bfd"
+        },
+        {
+            "Listing": "74.",
+            "FLE": "101.",
+            "Agent_[CAS_No.]": "Pentaerythritol tetrabenzoate [4196-86-5]",
+            "TWA": "",
+            "STEL": "2 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "713d9f501bd6ed1221ebfdfc982141b88325f73dc40b14579463c5f0f7ec2efd"
+        },
+        {
+            "Listing": "75.",
+            "FLE": "23.",
+            "Agent_[CAS_No.]": "Petroleum coke (total dust) [64741-79-3]",
+            "TWA": "3.5 mg/m3(a)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "ec6596e73a1617534b1fcfc7c68c4dd815518ff40fad0913f8744b04a0f3606a"
+        },
+        {
+            "Listing": "76.",
+            "FLE": "72.",
+            "Agent_[CAS_No.]": "2-Phenoxyethanol [122-99-6]",
+            "TWA": "25 ppm, or 141 mg/m3",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "3f2c07b9ac8b4a481a2c8d2ecf37006c0b2f2323766a78fc98a4ea4b498b4e62"
+        },
+        {
+            "Listing": "77a.",
+            "FLE": "76a.",
+            "Agent_[CAS_No.]": "Platinum[7440-06-4] – Metal",
+            "TWA": "1 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "d03404f1e828da76c6283549d922a61eb3ad8234abe0c71bae703af1afcb0bbb"
+        },
+        {
+            "Listing": "77b.",
+            "FLE": "76b.",
+            "Agent_[CAS_No.]": "Platinum[7440-06-4] – Water-soluble compounds of, including chloroplatinates (as Pt)",
+            "TWA": "0.002 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "f1da75040ee37490ac90273fdd46dc33b8aa1ba9348c69657c204a6712e482f8"
+        },
+        {
+            "Listing": "78.",
+            "FLE": "13.",
+            "Agent_[CAS_No.]": "Polychlorinated biphenyls (PCBs)2",
+            "TWA": "0.05 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "8ef4bb3cc9419741f93ecedef483e1ec8a0f0ddf4e9a541f2c50eb97d5baac6b"
+        },
+        {
+            "Listing": "79.",
+            "FLE": "84.",
+            "Agent_[CAS_No.]": "Poultry dust (total dust)",
+            "TWA": "5 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "b70247269cae0f16c66cfc06d40ec12ec46212dd9c1c52d7ed5e519c60e768cd"
+        },
+        {
+            "Listing": "80.",
+            "FLE": "85.",
+            "Agent_[CAS_No.]": "1,2-Propylene glycol [57-55-6]",
+            "TWA": "50 ppm (V), or 155 mg/m3(V), or 10 mg/m3(H)(b)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "7bd06fa1b2ee942385c4f40ec5441e459bc0dddc2ec2a0fbd5c19aa674039c0e"
+        },
+        {
+            "Listing": "81.",
+            "FLE": "3.",
+            "Agent_[CAS_No.]": "Propylene glycol monomethyl ether acetate [108-65-6]",
+            "TWA": "50 ppm, or 270 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "e12c4f37510867140682bf4fe781125e4248a4ec8e1eb2e63cd4d4223a0054ed"
+        },
+        {
+            "Listing": "82.",
+            "FLE": "88.",
+            "Agent_[CAS_No.]": "Selenium hexafluoride, as Se [7783-79-1]",
+            "TWA": "0.025 ppm, or 0.1 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "bc1ed912b1ddf3a9ee96435183040cc3389a1f23a0cdbe12debd434471c42668"
+        },
+        {
+            "Listing": "83.",
+            "FLE": "82.",
+            "Agent_[CAS_No.]": "Shellac dust (total dust) [9000-59-3]",
+            "TWA": "10 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "f68373fd6199271e1b2637c77fe3466b78e537b13b0b54e7deb1280407b0662a"
+        },
+        {
+            "Listing": "84a.",
+            "FLE": "91a.",
+            "Agent_[CAS_No.]": "*Silica, Crystalline – Quartz/Tripoli [14808-60-7; 1317-95-9]",
+            "TWA": "0.10 mg/m3(R)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "f885e027d5984978594c8552bc7c530785b01a8750be5402c7e5f922b1caae49"
+        },
+        {
+            "Listing": "84b.",
+            "FLE": "91b.",
+            "Agent_[CAS_No.]": "*Silica, Crystalline – Cristobalite [14464-46-1]",
+            "TWA": "0.05 mg/m3(R)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "f38b785dc31e905f64299ffc4ff418f432d4d580ba8b9a800e07bb843e97e906"
+        },
+        {
+            "Listing": "85.",
+            "FLE": "90.",
+            "Agent_[CAS_No.]": "Silica fume [69012-64-2]",
+            "TWA": "2 mg/m3(R)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "fb658ca02acf8144e698d40586b4c688201b54081a59e621e9edb7b3f58a94ac"
+        },
+        {
+            "Listing": "86.",
+            "FLE": "89.",
+            "Agent_[CAS_No.]": "Silica fused [60676-86-0]",
+            "TWA": "0.1 mg/m3(R)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "eb5133a527900908f4053437392cb2364df05f9baf16abc8120021c89b0a437e"
+        },
+        {
+            "Listing": "87a.",
+            "FLE": "92a.",
+            "Agent_[CAS_No.]": "Silicon carbide [409-21-2] – Non-fibrous",
+            "TWA": "10 mg/m3(I)(E), or 3 mg/m3(R)(E)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "2041c6a1a227cb7550828ca3646d207ea9b586469cb47796ab3623dfcfa908ea"
+        },
+        {
+            "Listing": "87b.",
+            "FLE": "92b.",
+            "Agent_[CAS_No.]": "Silicon carbide [409-21-2] – Fibrous (including whiskers)",
+            "TWA": "0.1 f/cc (R)(F)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "c873e2ce6b758beb6967e1bac8c6f383ab2a32bc95ecf17782dd4c45586db73b"
+        },
+        {
+            "Listing": "88.",
+            "FLE": "83.",
+            "Agent_[CAS_No.]": "Sisal dust (total dust)",
+            "TWA": "2 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "99d67d5321630c0887eea4a4e8e239d423c8d9c4dcaf8dd3fd4b0034a790e6ee"
+        },
+        {
+            "Listing": "89.",
+            "FLE": "81.",
+            "Agent_[CAS_No.]": "Soap dust [68918-36-5]",
+            "TWA": "5 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "857c44cbcd7876786977a2142f7e5df2350e915a28fc84529b588b1b5646f5ef"
+        },
+        {
+            "Listing": "90.",
+            "FLE": "95.",
+            "Agent_[CAS_No.]": "Spectinomycin [1695-77-8]",
+            "TWA": "2 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "549ccae84e45b9dd6db5288a55e939ee6e91a6a5150c861afdaae4974c850148"
+        },
+        {
+            "Listing": "91.",
+            "FLE": "93.",
+            "Agent_[CAS_No.]": "Stoddard Solvent –140ºF Flash Aliphatic Solvent, Type of Stoddard Solvent",
+            "TWA": "525 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "67ce0eee91d845a050843203f77d4f37ef3893c7ae3e57baf43497122217f3c3"
+        },
+        {
+            "Listing": "92.",
+            "FLE": "96.",
+            "Agent_[CAS_No.]": "Styrene – monomer [100-42-5]",
+            "TWA": "35 ppm",
+            "STEL": "100 ppm",
+            "NOTATION": "",
+            "sha_hash": "e920530c544cbe3ed4b4fa90ecbca32c0f0090b8dd8d4b521d242da831f69ac9"
+        },
+        {
+            "Listing": "93.",
+            "FLE": "94.",
+            "Agent_[CAS_No.]": "Sulfur dioxide [7446-09-5]",
+            "TWA": "2 ppm, or 5.2 mg/m3",
+            "STEL": "5 ppm, or 10.4 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "027b784cb2b6c593750e87927619b3bdcaaaa6094bc8cc6c167628660c993434"
+        },
+        {
+            "Listing": "94a.",
+            "FLE": "43a.",
+            "Agent_[CAS_No.]": "Synthetic Vitreous Fibres (Man Made Mineral Fibres) – Continuous filament glass fibres",
+            "TWA": "5 mg/m3(I), or 1 f/cc (F)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "aabaf6fe0cab77d831813f9d0227372866d0fc823669035ec591106dbcce6baa"
+        },
+        {
+            "Listing": "94b.",
+            "FLE": "43b.",
+            "Agent_[CAS_No.]": "Synthetic Vitreous Fibres (Man Made Mineral Fibres) – Glass wool fibres",
+            "TWA": "1 f/cc (F)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "1e9840feacd21d615431ce1fcbda7c9a8eb118583d24aa693d4b734511672172"
+        },
+        {
+            "Listing": "94c.",
+            "FLE": "43c.",
+            "Agent_[CAS_No.]": "Synthetic Vitreous Fibres (Man Made Mineral Fibres) – Refractory ceramic fibres",
+            "TWA": "0.5 f/cc (F)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "0d8047cf86c9c3be176632158838010224d7cb96be0021cdf6cf6afeb2d4cbcc"
+        },
+        {
+            "Listing": "94d.",
+            "FLE": "43d.",
+            "Agent_[CAS_No.]": "Synthetic Vitreous Fibres (Man Made Mineral Fibres) – Rock wool fibres",
+            "TWA": "1 f/cc (F)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "4ae4e54ae17d6753ae3f2fe267bb681de6252cdeb7a6f0dbd3f1a32d0b89289a"
+        },
+        {
+            "Listing": "94e.",
+            "FLE": "43e.",
+            "Agent_[CAS_No.]": "Synthetic Vitreous Fibres (Man Made Mineral Fibres) – Slag wool fibres",
+            "TWA": "1 f/cc (F)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "4851e2c3589a34011384137b29a6418e9c5f0698698799b98fb51d9bf3de18f1"
+        },
+        {
+            "Listing": "94f.",
+            "FLE": "43f.",
+            "Agent_[CAS_No.]": "Synthetic Vitreous Fibres (Man Made Mineral Fibres) – Special purpose glass fibres",
+            "TWA": "1 f/cc (F)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "21a3211ef616e55097baff15f68ce00a3eee5408430972cc0e31261aa56056f1"
+        },
+        {
+            "Listing": "94g.",
+            "FLE": "43g.",
+            "Agent_[CAS_No.]": "Synthetic Vitreous Fibres (Man Made Mineral Fibres) – Synthetic Vitreous Fibres, not otherwise classified (excluding fibrous glass dust and mineral wool fibre)",
+            "TWA": "1 f/cc (F)(c)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "5c6ee978482de5a6232303f790983743565baadcacc7abfe770e2839658519bb"
+        },
+        {
+            "Listing": "95.",
+            "FLE": "99.",
+            "Agent_[CAS_No.]": "Talc [14807-96-6],containing no asbestos",
+            "TWA": "2 mg/m3(R)(E), or 2 f/cc (K)",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "611522bf71991ed3d957c8fa0b3ffc8dc0fb373509d953cd22bfdb15cb173eaf"
+        },
+        {
+            "Listing": "96.",
+            "FLE": "100.",
+            "Agent_[CAS_No.]": "Tellurium hexafluoride, as Te [7783-80-4]",
+            "TWA": "0.01 ppm, or 0.1 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "0eb458cbadf6cb8a3417f4320837e2af714103dd4ca02c50b2b9878213be466f"
+        },
+        {
+            "Listing": "97.",
+            "FLE": "6.",
+            "Agent_[CAS_No.]": "Tetrachlorophathalic anhydride [117-08-8]",
+            "TWA": "0.1 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "9491ac47bad5be95fb50fd1b8e8ffd13eadf6140e23441e5065463c911b2e531"
+        },
+        {
+            "Listing": "98.",
+            "FLE": "102.",
+            "Agent_[CAS_No.]": "Tetrachlorophenol [25167-83-3]",
+            "TWA": "0.5 mg/m3",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "d9392125c446776e7b1ebd7edfa3e1a0c67f7dca47f6ce80344fc2fa8d3e742f"
+        },
+        {
+            "Listing": "99.",
+            "FLE": "86.",
+            "Agent_[CAS_No.]": "Tetrasodium pyrophosphate [7722-88-5]",
+            "TWA": "5 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "01be874d82ec7f3da69ab718e00c2916566dfe9d484fcf50ba827305325e0b3d"
+        },
+        {
+            "Listing": "100a.",
+            "FLE": "37a.",
+            "Agent_[CAS_No.]": "Tin, as Sn [7440-31-5] – Metal",
+            "TWA": "2 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "69e495c2779a5c035ac3cbf9458fc11187cda9a8c9dfc1fe8d1f1c3c75f9e1a9"
+        },
+        {
+            "Listing": "100b.",
+            "FLE": "37b.",
+            "Agent_[CAS_No.]": "Tin, as Sn [7440-31-5] – Oxide and inorganic compounds, as Sn, except tin hydride",
+            "TWA": "2 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "78dbdc7ee41d572e810752869c16a0cfca075629ccc58b61bead29a2fc98e15b"
+        },
+        {
+            "Listing": "100c.",
+            "FLE": "37c.",
+            "Agent_[CAS_No.]": "Tin, as Sn [7440-31-5] – Organic compounds, as Sn",
+            "TWA": "0.1 mg/m3",
+            "STEL": "",
+            "NOTATION": "Skin (organic compounds)",
+            "sha_hash": "37f1a2b57b13985ff4027a7d17a256d3cbe6ef14a1a7ca5d8a4781fabeaac9b7"
+        },
+        {
+            "Listing": "101.",
+            "FLE": "105.",
+            "Agent_[CAS_No.]": "o-Tolidine [119-93-7]",
+            "TWA": "(L)",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "4e8ce80020ff1e3f6def6c24f6af5775d7d47338f1f5305f74b805cdfdb3822e"
+        },
+        {
+            "Listing": "102.",
+            "FLE": "106.",
+            "Agent_[CAS_No.]": "Triethanolamine [102-71-6]",
+            "TWA": "0.5 ppm, or 3.1 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "0c405662b1cbc6c89d0fa99590c6b3442f0873ddaa32715406a1ecf044417865"
+        },
+        {
+            "Listing": "103.",
+            "FLE": "107.",
+            "Agent_[CAS_No.]": "Triethylenediamine [280-57-9]",
+            "TWA": "1 ppm, or 4.6 mg/m3",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "2cbae5ec90ca4274500ad6eac587b9ca767f64461e9e3bd45c928249dab7f067"
+        },
+        {
+            "Listing": "104.",
+            "FLE": "108.",
+            "Agent_[CAS_No.]": "Triethylenetetramine [112-24-3]",
+            "TWA": "0.5 ppm, or 3 mg/m3",
+            "STEL": "",
+            "NOTATION": "Skin",
+            "sha_hash": "7479acbe4ef39ee513f7c4d514285ef97b71a5c6f02568ba3106e529b2de2823"
+        },
+        {
+            "Listing": "105.",
+            "FLE": "109.",
+            "Agent_[CAS_No.]": "Trimethoxyvinylsilane [2768-02-7]",
+            "TWA": "",
+            "STEL": "10 ppm, or 60 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "34c62ba5bc3dcc8af10f7e562a686d240bd5f52ef5da6a5226b2d1710279064a"
+        },
+        {
+            "Listing": "106.",
+            "FLE": "75.",
+            "Agent_[CAS_No.]": "Trixylylphosphate [25155-23-1]",
+            "TWA": "0.1 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "112a888271256937616abb6be12272dbb6f193c39cfea1a79be1f3577fcc59f2"
+        },
+        {
+            "Listing": "107.",
+            "FLE": "20.",
+            "Agent_[CAS_No.]": "*Vinyl chloride [75-01-04]",
+            "TWA": "1 ppm",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "f29f947e3eead31f5ed0e3d6fe7ee00e765fda285686edc7694fc9847eb01860"
+        },
+        {
+            "Listing": "108.",
+            "FLE": "80.",
+            "Agent_[CAS_No.]": "Wheat flour dust (total dust)",
+            "TWA": "3 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "8760523a48d45599dcbeb1a32f113020d40a5aa5c4acc83eaba11528a89a6024"
+        },
+        {
+            "Listing": "109a.",
+            "FLE": "78a.",
+            "Agent_[CAS_No.]": "Wood dust – Certain hardwoods as beech and oak",
+            "TWA": "1 mg/m3",
+            "STEL": "",
+            "NOTATION": "",
+            "sha_hash": "ca86823f9e3fbaa6d755e078c89f49982ecf5abc0870a26be21965490efa79d7"
+        },
+        {
+            "Listing": "109b.",
+            "FLE": "78b.",
+            "Agent_[CAS_No.]": "Wood dust  – Softwood",
+            "TWA": "5 mg/m3",
+            "STEL": "10 mg/m3",
+            "NOTATION": "",
+            "sha_hash": "bc559da916813ff0e9b5ccb258fb8c7c141134e7098367e1c0bdb7de209ea2ec"
+        }
+    ]
+}

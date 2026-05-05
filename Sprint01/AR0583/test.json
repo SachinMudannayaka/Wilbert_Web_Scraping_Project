@@ -1,0 +1,156 @@
+{
+    "UniqueIdentity": "AR0583",
+    "region": "North America",
+    "Jurisdiction": "US",
+    "category": "Release/Spill Reporting",
+    "title": "EPA. Chlorophenols (EPCRA 313 Guidance Document - List of Toxic Chemicals Within the Chlorophenols Category as amended through February 2019)",
+    "casKey": "CASRN",
+    "dateAndTime": "2025-07-02 14:43:21",
+    "errors": [],
+    "data": [
+        {
+            "Name": "2-chlorophenol",
+            "CASRN": "95-57-8",
+            "Category": "MONOCHLOROPHENOLS",
+            "sha_hash": "baa2fc9ea1b2e0dc91091b921eeaa4ae9f70652b9e17b121a2daf0fea6d2fe1a"
+        },
+        {
+            "Name": "3-chlorophenol",
+            "CASRN": "108-43-0",
+            "Category": "MONOCHLOROPHENOLS",
+            "sha_hash": "1e2646f5af6e9349e54332dcbdbcb78636f5d94d805d31683493eb28d357a92a"
+        },
+        {
+            "Name": "4-chloroplienol",
+            "CASRN": "106-48-9",
+            "Category": "MONOCHLOROPHENOLS",
+            "sha_hash": "f9e36954b3b2affd33087f3a7f4fb7ebae8d4dc7e2b1bd530eaa63365cd5c685"
+        },
+        {
+            "Name": "3-(or-2)-chlorophenol",
+            "CASRN": "29353-84-2",
+            "Category": "MONOCHLOROPHENOLS",
+            "sha_hash": "66bf5a73ab99bb5043f42a2cad8ad0ba14cfa2c93f1021612850e502b68b0bc2"
+        },
+        {
+            "Name": "Chlorophenol",
+            "CASRN": "25167-80-0",
+            "Category": "MONOCHLOROPHENOLS",
+            "sha_hash": "b040c783575677a3ff2a534eff15c9ad18e7322eb8700cb9ec34ff28cdabfc1a"
+        },
+        {
+            "Name": "2,3-dichlorophenol",
+            "CASRN": "576-24-9",
+            "Category": "DICHLOROPHENOLS",
+            "sha_hash": "c9ac00b2fb8b33cdc6912bc5e2966ab3c6729bf32d03c4b435726bd32bdbe08d"
+        },
+        {
+            "Name": "2,5-dichlorophenol",
+            "CASRN": "593-78-8",
+            "Category": "DICHLOROPHENOLS",
+            "sha_hash": "f87c7f6a221796b1d9db69b322129bb0695587a9e680b13e39d884d807ef311a"
+        },
+        {
+            "Name": "2,6-dichlorophenol",
+            "CASRN": "87-65-0",
+            "Category": "DICHLOROPHENOLS",
+            "sha_hash": "3006230a6d9082e0a311619c72854a7912178b9f12ad5ef3d1a143393e9f5975"
+        },
+        {
+            "Name": "3,4-dichlorophenol",
+            "CASRN": "95-77-2",
+            "Category": "DICHLOROPHENOLS",
+            "sha_hash": "396e445b8404dd511755205c0946b03b86e9e1c3fc54b072d013fa51720bd310"
+        },
+        {
+            "Name": "3,5-dichlorophenol",
+            "CASRN": "591-35-5",
+            "Category": "DICHLOROPHENOLS",
+            "sha_hash": "dd693b6c7acdd19b75547143e3944e71f98a6fc13ecf2a0bb3c9bafa3c8349de"
+        },
+        {
+            "Name": "2,3-(or-3,4)-dichlorophenol",
+            "CASRN": "83700-00-9",
+            "Category": "DICHLOROPHENOLS",
+            "sha_hash": "19c0947984f49ce99754352e95cf449b28b2638d70ce4f79755b0b3ed42f240f"
+        },
+        {
+            "Name": "Dichlorophenol",
+            "CASRN": "25167-81-1",
+            "Category": "DICHLOROPHENOLS",
+            "sha_hash": "e9f3978779d6b3a728d18f177c3a1704217864c5031b667e778dce3e7ebe9af4"
+        },
+        {
+            "Name": "2,3,4-trichlorophenol",
+            "CASRN": "15950-66-0",
+            "Category": "TRICHLOROPHENOLS",
+            "sha_hash": "0c3dc2e0ce1cfae8e69da92aa817663e4ef575e2dbf60baee37de6aec0176a82"
+        },
+        {
+            "Name": "2,3,5-trichlorophenol",
+            "CASRN": "933-78-8",
+            "Category": "TRICHLOROPHENOLS",
+            "sha_hash": "cdac59f0abe21eec03663981dc1cce33ea225539cc4b08af909b1112886a06b1"
+        },
+        {
+            "Name": "2,3,6-trichlorophcnol",
+            "CASRN": "933-75-4",
+            "Category": "TRICHLOROPHENOLS",
+            "sha_hash": "f412050a06b3c5ec77997053ccd8efab3664464c54e2afd7381a8cda7ea3d1ec"
+        },
+        {
+            "Name": "3,4,5-trichlorophenol",
+            "CASRN": "609-19-8",
+            "Category": "TRICHLOROPHENOLS",
+            "sha_hash": "68d27d4df787e6d0f22d7e9be3007cfa694eada1a667b60f63d91c46519fe8df"
+        },
+        {
+            "Name": "2,3,5-(2,3,6-or-2,4,5)-trichlorophenol",
+            "CASRN": "119692-99-8",
+            "Category": "TRICHLOROPHENOLS",
+            "sha_hash": "c0e4ea2da2c55091f5b8a848adc61809f2b43f75ad7cab2c1ecb4b24891ad9c4"
+        },
+        {
+            "Name": "2,4,?-trichlorophenol¹",
+            "CASRN": "95719-03-2",
+            "Category": "TRICHLOROPHENOLS",
+            "sha_hash": "f5ead05c58c651af65da79c6a56f5fb31a19a49630cae84229cca8c18f5a155f"
+        },
+        {
+            "Name": "Trichlorophenol",
+            "CASRN": "25167-82-2",
+            "Category": "TRICHLOROPHENOLS",
+            "sha_hash": "37f58f72324aa1fe2da4f0ef430d0da5fea27b70507e7d58cd269fd5ca48aa26"
+        },
+        {
+            "Name": "2,3,4,5-tetrachlorophenol",
+            "CASRN": "4901-51-3",
+            "Category": "TETRACHLOROPHENOLS",
+            "sha_hash": "a32e605affe769f813222d74dbc60a18b14696ea8a3cb41a56c61ceede0f95bb"
+        },
+        {
+            "Name": "2,3,4,6-tetrachlorophenol",
+            "CASRN": "935-95-5",
+            "Category": "TETRACHLOROPHENOLS",
+            "sha_hash": "a81900184d610c396fe3236be248f47b30978af3fcafc2b379006fc142f2106b"
+        },
+        {
+            "Name": "2,3,5,6-tetrachlorophenol",
+            "CASRN": "58-90-2",
+            "Category": "TETRACHLOROPHENOLS",
+            "sha_hash": "804f1df2ec93eba3aaa9c874c1590fbecc50fb4e33be7e90e5f2b3ab4c61a613"
+        },
+        {
+            "Name": "2,4,?,?-tetrachlorophenol¹",
+            "CASRN": "95719-04-3",
+            "Category": "TETRACHLOROPHENOLS",
+            "sha_hash": "947142e01823d83814b6dc3af1953ce2964dfe64e2c93a3b96c12745a72bc99c"
+        },
+        {
+            "Name": "Tetrachlorophenol",
+            "CASRN": "25167-83-3",
+            "Category": "TETRACHLOROPHENOLS",
+            "sha_hash": "7c34937a8443c12faa8c591274b8f9b65827c2493b9f7ecfce9ca4a0edc69559"
+        }
+    ]
+}

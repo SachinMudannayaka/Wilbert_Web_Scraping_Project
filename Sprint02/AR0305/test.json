@@ -1,0 +1,187 @@
+{
+    "UniqueIdentity": "AR0305",
+    "region": "North America",
+    "Jurisdiction": "CA",
+    "category": "Environment",
+    "title": "Canada. Toronto Municipal Code. Environmental Reporting and Disclosure Bylaw Schedule A to Ch. 423 Priority Substances (as amended through 15 June 2011)",
+    "casKey": "CAS_No.b",
+    "dateAndTime": "2025-07-14 15:34:33",
+    "errors": [],
+    "data": [
+        {
+            "Chemical_Name": "Acetaldehyde",
+            "CAS_No.b": "75-07-0",
+            "Mass_Reporting_Threshold": "100",
+            "Concentration_Threshold": "1.0",
+            "sha_hash": "6ea7b8dea1efcb826c4cc4f2aa0cd01b76a86f4edd695a478ab088585897f653"
+        },
+        {
+            "Chemical_Name": "Acrolein",
+            "CAS_No.b": "107-02-8",
+            "Mass_Reporting_Threshold": "100",
+            "Concentration_Threshold": "1.0",
+            "sha_hash": "89adeee881bdf483aaab3614b34ba2649eeee1ae68e55831e251a5ba66c91242"
+        },
+        {
+            "Chemical_Name": "Benzene",
+            "CAS_No.b": "71-43-2",
+            "Mass_Reporting_Threshold": "100",
+            "Concentration_Threshold": "1.0",
+            "sha_hash": "08cb5d0b0c026b7a9f9e731e7432485f4fe52cf4cbf9c92262955c988a3594fe"
+        },
+        {
+            "Chemical_Name": "1,3-Butadiene",
+            "CAS_No.b": "106-99-0",
+            "Mass_Reporting_Threshold": "100",
+            "Concentration_Threshold": "1.0",
+            "sha_hash": "cc7d24c41b87b66894bf744ede56f3a489ad619e9fe6afd9c3d142a60c17b524"
+        },
+        {
+            "Chemical_Name": "Cadmiuma",
+            "CAS_No.b": "7440-43-9",
+            "Mass_Reporting_Threshold": "1.0",
+            "Concentration_Threshold": "0.1",
+            "sha_hash": "a26de9476f5c835ef08e60a641243ce0c5d7d9afcf65fab39fb540d2d03c9a90"
+        },
+        {
+            "Chemical_Name": "Carbon tetrachloride",
+            "CAS_No.b": "56-23-5",
+            "Mass_Reporting_Threshold": "100",
+            "Concentration_Threshold": "1.0",
+            "sha_hash": "820efd75e7d7155950cb162adeef10eb1c95d57293dfe0fe63da7db4e6354bad"
+        },
+        {
+            "Chemical_Name": "Chloroform (Trichloromethane)",
+            "CAS_No.b": "67-66-3",
+            "Mass_Reporting_Threshold": "100",
+            "Concentration_Threshold": "1.0",
+            "sha_hash": "a9dc6a16cf04c3ec80bd51b73858c5f50a5ed1503d286c13e5c6b9345a9a33c0"
+        },
+        {
+            "Chemical_Name": "Chromium, Hexavalenta",
+            "CAS_No.b": "18540-29-9[Amended2011-06-15 by By-lawNo. 813-2011]",
+            "Mass_Reporting_Threshold": "10",
+            "Concentration_Threshold": "0.1",
+            "sha_hash": "88e1d3c3a8b8d6549812b8fe03163dc80c2dfdc12c96cd5deba6b4f525c4ed90"
+        },
+        {
+            "Chemical_Name": "Chromium, Non-hexavalenta",
+            "CAS_No.b": "",
+            "Mass_Reporting_Threshold": "100",
+            "Concentration_Threshold": "1.0",
+            "sha_hash": "9b146171828c0fd4e589957c753036d7d2e010fe19a3bdf856becb53cbca79ff"
+        },
+        {
+            "Chemical_Name": "1,2-Dibromoethane (Ethylenedibromide) [Amended 2011-06-15 by By-law No. 813-2011]",
+            "CAS_No.b": "106-93-4",
+            "Mass_Reporting_Threshold": "100",
+            "Concentration_Threshold": "1.0",
+            "sha_hash": "0d6d66d70fd9f5bfdadafad87c55d01f6799e996ff2b064987ddaffb5f96692a"
+        },
+        {
+            "Chemical_Name": "1,4-Dichlorobenzene",
+            "CAS_No.b": "106-46-7",
+            "Mass_Reporting_Threshold": "100",
+            "Concentration_Threshold": "1.0",
+            "sha_hash": "d8c000cb6740e985135df7e298ce7a1365e51c6c126af05cc7f852012ad0e481"
+        },
+        {
+            "Chemical_Name": "1,2-Dichloroethane (Ethylenedichloride)",
+            "CAS_No.b": "107-06-2",
+            "Mass_Reporting_Threshold": "100",
+            "Concentration_Threshold": "1.0",
+            "sha_hash": "f9c149aba4cad0fe4e9cbffb68fead99d69ecb043e29faed0b92b69eeca1e398"
+        },
+        {
+            "Chemical_Name": "Dichloromethane (Methylenechloride)",
+            "CAS_No.b": "75-09-2",
+            "Mass_Reporting_Threshold": "100",
+            "Concentration_Threshold": "1.0",
+            "sha_hash": "868761070cef0d6e287b1635039bd2069c4054212c2edcaeb883f1f5dc075377"
+        },
+        {
+            "Chemical_Name": "Formaldehyde",
+            "CAS_No.b": "50-00-0",
+            "Mass_Reporting_Threshold": "100",
+            "Concentration_Threshold": "1.0",
+            "sha_hash": "9860d52059e1beda8142ccb418dd9f3f7a0332ffa738a980e1bba45070c53aff"
+        },
+        {
+            "Chemical_Name": "Leada",
+            "CAS_No.b": "7439-92-1",
+            "Mass_Reporting_Threshold": "10",
+            "Concentration_Threshold": "0.1",
+            "sha_hash": "33a8a081bed3588140485aa95485a98d46fc6b53ad4a5b73d393d7d8444c24bf"
+        },
+        {
+            "Chemical_Name": "Manganesea",
+            "CAS_No.b": "7439-96-5",
+            "Mass_Reporting_Threshold": "10",
+            "Concentration_Threshold": "1.0",
+            "sha_hash": "a81d7afd07b78644f2f31e4fa0661438925570162725cbf33d80c01f8ff4ead5"
+        },
+        {
+            "Chemical_Name": "Mercurya",
+            "CAS_No.b": "7439-97-6",
+            "Mass_Reporting_Threshold": "1.0",
+            "Concentration_Threshold": "0.0",
+            "sha_hash": "86ce065943c1e6a553bfed192628efc5756e6aa0843609a889cbc6266f50eb08"
+        },
+        {
+            "Chemical_Name": "Nickela",
+            "CAS_No.b": "7440-02-0",
+            "Mass_Reporting_Threshold": "100",
+            "Concentration_Threshold": "1.0",
+            "sha_hash": "e0abdedb287672d2ac10767ef07a96279b44ae13aead91b76ab3fdd21d66323c"
+        },
+        {
+            "Chemical_Name": "Tetrachloroethylene(Perchloroethylene)",
+            "CAS_No.b": "127-18-4",
+            "Mass_Reporting_Threshold": "100",
+            "Concentration_Threshold": "1.0",
+            "sha_hash": "58982ee839fb9e34ee8c77f306c444eb0e6b28c37994262450cf0bd85fea2272"
+        },
+        {
+            "Chemical_Name": "Trichloroethylene",
+            "CAS_No.b": "079-01-6",
+            "Mass_Reporting_Threshold": "100",
+            "Concentration_Threshold": "1.0",
+            "sha_hash": "685af97b78e41b5a20c04366d202959810785220d56e28c7defc1f25db27935f"
+        },
+        {
+            "Chemical_Name": "Vinyl chloride",
+            "CAS_No.b": "75-01-4",
+            "Mass_Reporting_Threshold": "100",
+            "Concentration_Threshold": "1.0",
+            "sha_hash": "e2bd72784b0fcf87b85ea39cc6cfa756eef720f5016065ce536ad3092a5396f2"
+        },
+        {
+            "Chemical_Name": "Polycyclic AromaticHydrocarbons (PAHs)",
+            "CAS_No.b": "",
+            "Mass_Reporting_Threshold": "10d",
+            "Concentration_Threshold": "n/ae",
+            "sha_hash": "e53543a97f5945c2eb240130345af1d9a62467293901d62d8ad3419d3a154cc3"
+        },
+        {
+            "Chemical_Name": "Nitrogen Oxidesc (NO )x",
+            "CAS_No.b": "11104-93-1",
+            "Mass_Reporting_Threshold": "200",
+            "Concentration_Threshold": "n/a",
+            "sha_hash": "0b0c5446f312aa2c4bb1bedad6f644366166b61c958baa7ba6f24bbe17b937ff"
+        },
+        {
+            "Chemical_Name": "Particulate Matter 2.5 (PM )2.5",
+            "CAS_No.b": "",
+            "Mass_Reporting_Threshold": "30",
+            "Concentration_Threshold": "n/a",
+            "sha_hash": "d37325b43b6e15185b1f5c87a48297f10a78fd82c68703705f80e47bb338522b"
+        },
+        {
+            "Chemical_Name": "Volatile Organic Compounds(VOCs) total",
+            "CAS_No.b": "",
+            "Mass_Reporting_Threshold": "100",
+            "Concentration_Threshold": "n/a",
+            "sha_hash": "13c30419ec9227113576becc553f8aa256926f5cb19be47e52d520ae732e5988"
+        }
+    ]
+}

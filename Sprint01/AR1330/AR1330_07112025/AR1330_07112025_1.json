@@ -1,0 +1,243 @@
+{
+    "UniqueIdentity": "AR1330",
+    "region": "North America",
+    "Jurisdiction": "US",
+    "category": "Workplace Safety (OELs, BELs, GLP)",
+    "title": "Oregon. Oregon Rules for Air Contaminants, Tables Z-1, Z-2, Z-3 (OAR 437-002-0382; 29 October 2019)",
+    "casKey": null,
+    "dateAndTime": "2025-07-11 11:57:40",
+    "errors": [],
+    "data": [
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Benzene⁽ᶠ⁾ (Z37.40-1969)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "10 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "25 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "50 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "10 min",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "See Annotated Table Z-1",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "See Annotated Table Z-1",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/benzene-2/",
+            "sha_hash": "0f7f9680a4a6a7c8e8f085c0c46a86c86b7831d62cf1d66a868d09ca1b09bd3a"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Beryllium and beryllium compounds⁽ⁱ⁾\n\t\t\t(Z37.29-1970)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "2 µg/m³",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "5 µg/m³",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "25 µg/m³",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "30 min",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "0.2 µg/m³\n\t\t\t(ST) 2 µg/m³\n\t\t\t(C) 25 µg/m³",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "Ca\nSee Appendix A",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/beryllium-and-compounds/",
+            "sha_hash": "12034dc6571b3c9aee3b81cfb7b681533a95ca403757a6c392d9956be5398857"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Cadmium fume⁽ᵍ⁾ (Z37.5-1970)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "0.1 mg/m³",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "0.3 mg/m³",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "See Annotated Table Z-1",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "See Annotated Table Z-1",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/cadmium-and-compounds/",
+            "sha_hash": "a6a806aca06c0077968f95320c253691307e6d268c444a99b0e420a44a2c512f"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Cadmium dust⁽ᵍ⁾ (Z37.5-1970)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "0.2 mg/m³",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "0.6 mg/m³",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "See Annotated Table Z-1",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "See Annotated Table Z-1",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/cadmium-and-compounds/",
+            "sha_hash": "e83af8d020c1d9bf1e86da57c1f4fdd2ce8e376ccd522e146f9b933a197a351c"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Carbon disulfide (Z37.3-1968)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "20 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "30 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "100 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "30 min",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "1 ppm\n\t\t\t(ST) 12 ppm\n\t\t\t(C) 30 ppm",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "1 ppm\n\t\t\t(ST) 10 ppm",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/carbon-disulfide-2/",
+            "sha_hash": "990d666e71ac34c54cc533c9c84b02393d4effff177ae3e2b79ed735ef8e6e28"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Carbon tetrachloride (Z37.17-1967)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "10 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "25 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "200 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "5 min in any 4 hr",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "2 ppm\n\t\t\t(ST) 10 ppm\n\t\t\t(C) 200 ppm",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "Ca\n\t\t\t(ST) 2 ppm\n\t\t\t[60-min]\nSee Appendix A",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/carbon-tetrachloride/",
+            "sha_hash": "c48f37641a1a204586e85f92635d7c2b549ebdf5145a78d81d30e51aff6e01cd"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Chromic acid and chromates⁽ʰ⁾ (Z37-7-1971)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "1 mg/10m³",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "See Chromium (VI) compounds in Annotated Table Z-1",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "See Chromium (VI) compounds in Annotated Table Z-1",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/chromium-and-inorganic-compounds/",
+            "sha_hash": "e4c9ad8331ebb10fbc973cfd83be8f3c81e70c23c2548d322451be4842c98e8c"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Ethylene dibromide (Z37.31-1970)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "20 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "30 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "50 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "5 min",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "(C) 0.13 ppm,\n\t\t\tSee Section 5219",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "Ca\n\t\t\t0.045 ppm\n\t\t\t(C) 0.13 ppm\n\t\t\t[15-min]\nSee Appendix A",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/ethylene-dibromide/",
+            "sha_hash": "ddf55e7e54b40dd9abbf58988ff51d5203724fece572d6a3e3a1845207338adf"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Ethylene dichloride (Z37.21-1969)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "50 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "100 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "200 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "5 min in any 3 hr",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "1 ppm\n\t\t\t(ST) 2 ppm\n\t\t\t(C) 200 ppm",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "Ca\n\t\t\t1 ppm\n\t\t\t(ST) 2 ppm\nSee Appendix A\nSee Appendix C\n\t\t\tChloroethanes",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/ethylene-dichloride/",
+            "sha_hash": "ac858d8a6bc00d1618511dcdc85efdf66f751a3c3598de95b590aa75c7247073"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Fluoride as dust (Z37.28-1969)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "2.5 mg/m³",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "2.5 mg/m³",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "2.5 mg/m³",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/fluorides/",
+            "sha_hash": "0543b5017353734daf44fe62024c763944d2782aa11ab97dcc408709a783ded2"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Formaldehyde\n\t\t\tSee 1910.1048",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "See Annotated Table Z-1",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "See Annotated Table Z-1",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/formaldehyde-2/",
+            "sha_hash": "7e2f228bd05fda02410520d93e3f7c9f2499be0b4c054bf5746313b40de98c54"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Hydrogen fluoride (Z37.28-1969)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "3 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "0.4 ppm as F\n\t\t\t(ST) 1 ppm as F",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "3 ppm\n\t\t\t(C) 6 ppm\n\t\t\t[15-min]",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/hydrogen-fluoride/",
+            "sha_hash": "09109e0ea65453a8f97df57c4390b4a955d41631739cd33803c2b50067906997"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Hydrogen sulfide (Z37.2-1966)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "20 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "50 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "10 min once only if no other measurable exposure occurs.",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "10 ppm\n\t\t\t(ST) 15 ppm\n\t\t\t(C) 50 ppm",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "(C) 10 ppm\n\t\t\t[10-min]",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/hydrogen-sulfide/",
+            "sha_hash": "af21f7da0ce3016f7f08ce8dfb1c08d60059a62f2b35e6cbc5638deff24ddc1f"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Mercury (Z37.8-1971)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "0.1 mg/m³",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "0.025 mg/m³\n\t\t\t(C) 0.1 mg/m³\n\t\t\tfor metallic and inorganic",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "0.05 mg/m³\n\t\t\t(C) 0.1 mg/m³",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/mercury-all-forms-except-alkyl/",
+            "sha_hash": "ef89e071ceb3f70282e138557fbbe9eafc37aae136f673aa15ce9bb2db961658"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Methyl chloride (Z37.18-1969)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "100 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "200 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "300 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "5 min in any 3 hr",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "50 ppm\n\t\t\t(ST) 100 ppm\n\t\t\t(C) 300 ppm",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "Ca\nSee Appendix A",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/methyl-chloride/",
+            "sha_hash": "2817d87d926ec6e574c94cc3929f3bee97a5f53e39233aefc70d96c9bcc309dd"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Methylene Chloride\n\t\t\tSee 1910.1052",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "25 ppm\n\t\t\t(ST) 125 ppm\n\t\t\tSee Section 5202",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "Ca\nSee Appendix A",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/dichloromethane-2/",
+            "sha_hash": "cfe9fc8b72ebc134e3309f7a616e6c4247ff55805b56eb08451b7f720b98c781"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Organo (alkyl) mercury (Z37.30-1969)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "0.01 mg/m³",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "0.04 mg/m³",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "0.01 mg/m³\n\t\t\t(ST) 0.03 mg/m³\n\t\t\t(C) 0.04 mg/m³",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "0.01 mg/m³\n\t\t\t(ST) 0.03 mg/m³",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/mercury-alkyl-compounds/",
+            "sha_hash": "11f1b18f09c1a1903959d9e02b9db2e31c5a1b57bcff50531c12f502248e300a"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Styrene (Z37.15-1969)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "100 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "200 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "600 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "5 min in any 3 hr",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "50 ppm\n\t\t\t(ST) 100 ppm\n\t\t\t(C) 500 ppm",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "50 ppm\n\t\t\t(ST) 100 ppm",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/styrene/",
+            "sha_hash": "4c183e4e7416450ca7dca4f30bcfe0365265af0a4ec23945f9e737f9a2d98e4a"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Tetrachloroethylene",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "100 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "200 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "300 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "5 min in any 3 hr",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "25 ppm\n\t\t\t(ST) 100 ppm\n\t\t\t(C) 300 ppm",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "Ca\nSee Appendix A",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/tetrachloroethylene-2/",
+            "sha_hash": "f66736a1ad8f9420b7dbd28a1a8a2c08661a86941129b9000e5af5dd3afce1d4"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Toluene (Z37.12-1967)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "200 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "300 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "500 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "10 min",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "10 ppm\n\t\t\t(ST) 150 ppm\n\t\t\t(C) 500 ppm",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "100 ppm\n\t\t\t(ST) 150 ppm",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/toluene/",
+            "sha_hash": "187d0306fc1834f0dd57daf106722b81a165073dba775ecdb7259b1e7163d71a"
+        },
+        {
+            "Regulatory_Limits_OSHA_PELs_Substance": "Trichloroethylene (Z37.19-1967)",
+            "Regulatory_Limits_OSHA_PELs_8-hour_Time_Weighted_Average_(TWA)": "100 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_Ceiling_Concentration": "200 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Concentration": "300 ppm",
+            "Regulatory_Limits_OSHA_PELs_Acceptable_maximum_peak_above_the_acceptable_ceiling_concentration_for_an_8-hr_shift_Maximum_Duration": "5 min in any 2 hr",
+            "Regulatory_Limits_OSHA_PELs_Cal/OSHA_PEL_8-hour_TWA(ST)_STEL(C)_Ceiling": "25 ppm\n\t\t\t(ST) 100 ppm\n\t\t\t(C) 300 ppm",
+            "Recommended_Limits_NIOSH_REL_Up_to_10-hour_TWA(ST)_STEL(C)_Ceiling": "Ca\nSee Appendix A\nSee Appendix C",
+            "Recommended_Limits_ACGIH_Complimentary_access_on": "https://www.acgih.org/trichloroethylene/",
+            "sha_hash": "0bd052096ef432d01013777331191626a4fa9d7009c1ac4cc6e7077dd69af13c"
+        }
+    ]
+}
