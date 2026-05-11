@@ -1,0 +1,372 @@
+{
+    "UniqueIdentity": "AR0544",
+    "region": "Central / Eastern Europe",
+    "Jurisdiction": "EE",
+    "category": "Environment",
+    "title": "Estonia. Environmental quality limit values for priority substances, priority hazardous substances and certain other pollutants (Reg. No 28/2019, Table to article 3, as amended through Dec. 31, 2021)",
+    "casKey": "CASi_number1",
+    "dateAndTime": "2025-07-25 19:08:56",
+    "errors": [],
+    "data": [
+        {
+            "Number": "(1)",
+            "CASi_number1": "15972-60-8",
+            "EÜ_number2": "240-110-8",
+            "Prioriteetse_aine_nimetus3": "alakloor",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "084bf05fa75d79f0c9f759fae83e7cb1350c583711e6b023fe112abfb778f95f"
+        },
+        {
+            "Number": "(2)",
+            "CASi_number1": "120-12-7",
+            "EÜ_number2": "204-371-1",
+            "Prioriteetse_aine_nimetus3": "antratseen",
+            "Prioriteetne_ohtlik_aine": "X",
+            "sha_hash": "439c181ffd1ce01fb10bc5be33a56b5c87f2ece1c3411c216163319fa4f69896"
+        },
+        {
+            "Number": "(3)",
+            "CASi_number1": "1912-24-9",
+            "EÜ_number2": "217-617-8",
+            "Prioriteetse_aine_nimetus3": "atrasiin",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "74ff76158f239840a4487734a21bad3da77f051b63a3e58e63ec8625ff56ddf1"
+        },
+        {
+            "Number": "(4)",
+            "CASi_number1": "71-43-2",
+            "EÜ_number2": "200-753-7",
+            "Prioriteetse_aine_nimetus3": "benseen",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "6cb8f7eff331e6f4f36e63b85edea682baa0a31817d739e7b01d2b735b744c91"
+        },
+        {
+            "Number": "(5)",
+            "CASi_number1": "eikohaldata",
+            "EÜ_number2": "eikohaldata",
+            "Prioriteetse_aine_nimetus3": "bromodifenüüleetrid",
+            "Prioriteetne_ohtlik_aine": "4\nX",
+            "sha_hash": "bc9f99be72bf712d763d8589853d375b31bedbb874d757e1575225f059e171af"
+        },
+        {
+            "Number": "(6)",
+            "CASi_number1": "7440-43-9",
+            "EÜ_number2": "231-152-8",
+            "Prioriteetse_aine_nimetus3": "kaadmium ja selle ühendid",
+            "Prioriteetne_ohtlik_aine": "X",
+            "sha_hash": "4c1561cc248d6ea0817b5a491702ddbe180092f19fa7ed97a7609bd52afbc117"
+        },
+        {
+            "Number": "(7)",
+            "CASi_number1": "85535-84-8",
+            "EÜ_number2": "287-476-5",
+            "Prioriteetse_aine_nimetus3": "kloroalkaanid, C10–13",
+            "Prioriteetne_ohtlik_aine": "X",
+            "sha_hash": "b187b45ec1bffb19f4c3368b9f2ac2d3842743add35ca6fa64be7b3b1f39fbc2"
+        },
+        {
+            "Number": "(8)",
+            "CASi_number1": "470-90-6",
+            "EÜ_number2": "207-432-0",
+            "Prioriteetse_aine_nimetus3": "klorofenvinfoss",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "5346c219283317c9eda5691ba90a8ac0efc44b1bf8e3f5becd897fc1d2105b18"
+        },
+        {
+            "Number": "(9)",
+            "CASi_number1": "2921-88-2",
+            "EÜ_number2": "220-864-4",
+            "Prioriteetse_aine_nimetus3": "kloropürifoss (etüülkloropürifoss)",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "e749b29409fe7520c510b73d9d6eda75dbd1a7fa8e32191b16d959fbbe308006"
+        },
+        {
+            "Number": "(10)",
+            "CASi_number1": "107-06-2",
+            "EÜ_number2": "203-458-1",
+            "Prioriteetse_aine_nimetus3": "1,2-dikloroetaan",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "5946edb1d8fd080a13748e75930d3c9d3e91aa61faa6c9b2b51778dc0aff3d61"
+        },
+        {
+            "Number": "(11)",
+            "CASi_number1": "75-09-2",
+            "EÜ_number2": "200-838-9",
+            "Prioriteetse_aine_nimetus3": "diklorometaan",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "aa41ca4ec2a4e307c39ecb6543a31676d25b9bd253cf41dc3cf999c0b13e660b"
+        },
+        {
+            "Number": "(12)",
+            "CASi_number1": "117-81-7",
+            "EÜ_number2": "204-211-0",
+            "Prioriteetse_aine_nimetus3": "di(2-etüül-heksüül)ftalaat (DEHP)",
+            "Prioriteetne_ohtlik_aine": "X",
+            "sha_hash": "88bad302eade158eddbb5efad005e0186288b986fcc2c9c48c52ce1799581737"
+        },
+        {
+            "Number": "(13)",
+            "CASi_number1": "330-54-1",
+            "EÜ_number2": "206-354-4",
+            "Prioriteetse_aine_nimetus3": "Diuroon",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "5798b04192d96a06f77f39cf34b4a4b150ccab83f05b5a53a76ac7d92083ecbe"
+        },
+        {
+            "Number": "(14)",
+            "CASi_number1": "115-29-7",
+            "EÜ_number2": "204-079-4",
+            "Prioriteetse_aine_nimetus3": "endosulfaan",
+            "Prioriteetne_ohtlik_aine": "X",
+            "sha_hash": "5a775623a84e3b9b3d3777786b3156eec54a7b05ea1b6f07e6c240883e5ef27f"
+        },
+        {
+            "Number": "(15)",
+            "CASi_number1": "206-44-0",
+            "EÜ_number2": "205-912-4",
+            "Prioriteetse_aine_nimetus3": "fluoranteen",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "9138a127ece000d26eef8d49a0b1654405ee7fadeec1e53a097827051a8dcd81"
+        },
+        {
+            "Number": "(16)",
+            "CASi_number1": "118-74-1",
+            "EÜ_number2": "204-273-9",
+            "Prioriteetse_aine_nimetus3": "heksaklorobenseen",
+            "Prioriteetne_ohtlik_aine": "X",
+            "sha_hash": "f05035427298a142826e5a3e9852be0ff3c29e3b94e874a46fe80d91b1a697ea"
+        },
+        {
+            "Number": "(17)",
+            "CASi_number1": "87-68-3",
+            "EÜ_number2": "201-765-5",
+            "Prioriteetse_aine_nimetus3": "heksaklorobutadieen",
+            "Prioriteetne_ohtlik_aine": "X",
+            "sha_hash": "61083e2db5bf595083422780a54b831e638bfdd9f69708a89c50d3e12fb8ab73"
+        },
+        {
+            "Number": "(18)",
+            "CASi_number1": "608-73-1",
+            "EÜ_number2": "210-168-9",
+            "Prioriteetse_aine_nimetus3": "heksaklorotsükloheksaan",
+            "Prioriteetne_ohtlik_aine": "X",
+            "sha_hash": "560c4e3f788ffd8441e19520eeb4eb762a5dee00dc23a9809591c9774c71eb6f"
+        },
+        {
+            "Number": "(19)",
+            "CASi_number1": "34123-59-6",
+            "EÜ_number2": "251-835-4",
+            "Prioriteetse_aine_nimetus3": "isoproturoon",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "2561bea3ae120a9f54a3ed3f6f75f7803a898972c7f0bec15f2215a69b3445d2"
+        },
+        {
+            "Number": "(20)",
+            "CASi_number1": "7439-92-1",
+            "EÜ_number2": "231-100-4",
+            "Prioriteetse_aine_nimetus3": "plii ja selle ühendid",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "0868d7032ecd4f7ae91924661a24bb416c78749f83636adb9ec36be2ab48a5e0"
+        },
+        {
+            "Number": "(21)",
+            "CASi_number1": "7439-97-6",
+            "EÜ_number2": "231-106-7",
+            "Prioriteetse_aine_nimetus3": "elavhõbe ja selle ühendid",
+            "Prioriteetne_ohtlik_aine": "X",
+            "sha_hash": "8d572ef4c00a91f35ace4e9286340c2fb029c9e4fa783f5853d701c6c002ee94"
+        },
+        {
+            "Number": "(22)",
+            "CASi_number1": "91-20-3",
+            "EÜ_number2": "202-049-5",
+            "Prioriteetse_aine_nimetus3": "Naftaleen",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "40b6aee17fe6f615f851d2c0d33020fbce6713c9c9e6dc413bba7caf97299da7"
+        },
+        {
+            "Number": "(23)",
+            "CASi_number1": "7440-02-0",
+            "EÜ_number2": "231-111-4",
+            "Prioriteetse_aine_nimetus3": "nikkel ja selle ühendid",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "27412c316b91803d982282db01ab51707c676b65c6264cdec4772ff7f39610b7"
+        },
+        {
+            "Number": "(24)",
+            "CASi_number1": "eikohaldata",
+            "EÜ_number2": "eikohaldata",
+            "Prioriteetse_aine_nimetus3": "nonüülfenoolid",
+            "Prioriteetne_ohtlik_aine": "5\nX",
+            "sha_hash": "0bdfeb7a39e92046ca827aa3512f599e31f7e3729805cdc9db2b8ec6cec6d01b"
+        },
+        {
+            "Number": "(25)",
+            "CASi_number1": "eikohaldata",
+            "EÜ_number2": "eikohaldata",
+            "Prioriteetse_aine_nimetus3": "6\noktüülfenoolid",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "3b3f7007cabb5bd504ef840fdabafa7d4ff6981c493cf47a2583d63b64da9afe"
+        },
+        {
+            "Number": "(26)",
+            "CASi_number1": "608-93-5",
+            "EÜ_number2": "210-172-0",
+            "Prioriteetse_aine_nimetus3": "pentaklorobenseen",
+            "Prioriteetne_ohtlik_aine": "X",
+            "sha_hash": "04ef1c2cc7490d5ba36d6858265eebf890b84ae713cb766efa30a57cce47fc2b"
+        },
+        {
+            "Number": "(27)",
+            "CASi_number1": "87-86-5",
+            "EÜ_number2": "201-778-6",
+            "Prioriteetse_aine_nimetus3": "pentaklorofenool",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "1cb4652021351b5fff51e891b89aa4a8655fd8c70b1354354c76b5b24a64c12f"
+        },
+        {
+            "Number": "(28)",
+            "CASi_number1": "eikohaldata",
+            "EÜ_number2": "eikohaldata",
+            "Prioriteetse_aine_nimetus3": "7\npolüaromaatsed süsivesinikud (PAH)",
+            "Prioriteetne_ohtlik_aine": "X",
+            "sha_hash": "0734e9b5305c14049a2084feec8ebf4a9aeb6ed6f8a8a4b339b1282980966ec9"
+        },
+        {
+            "Number": "(29)",
+            "CASi_number1": "122-34-9",
+            "EÜ_number2": "204-535-2",
+            "Prioriteetse_aine_nimetus3": "Simasiin",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "7391add43758dc95ac0071fdbc6304eda66374fcc97daa596cfebbf40815992d"
+        },
+        {
+            "Number": "(30)",
+            "CASi_number1": "eikohaldata",
+            "EÜ_number2": "eikohaldata",
+            "Prioriteetse_aine_nimetus3": "tributüültina ühendid",
+            "Prioriteetne_ohtlik_aine": "8\nX",
+            "sha_hash": "cb3278fc78892f2bb028541e1914637e0d2a28b7c885b8be951d5d8f5b53add5"
+        },
+        {
+            "Number": "(31)",
+            "CASi_number1": "12002-48-1",
+            "EÜ_number2": "234-413-4",
+            "Prioriteetse_aine_nimetus3": "triklorobenseenid",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "02bc60e4b771f20fbdcab88e9349b077a14b7f997206f528145bb0ffa8808b22"
+        },
+        {
+            "Number": "(32)",
+            "CASi_number1": "67-66-3",
+            "EÜ_number2": "200-663-8",
+            "Prioriteetse_aine_nimetus3": "triklorometaan (kloroform)",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "812883dc9e687c33c70eb3dc37dbe6eaa62d9acc41c48b17003c671ad28dbc56"
+        },
+        {
+            "Number": "(33)",
+            "CASi_number1": "1582-09-8",
+            "EÜ_number2": "216-428-8",
+            "Prioriteetse_aine_nimetus3": "trifluraliin",
+            "Prioriteetne_ohtlik_aine": "X",
+            "sha_hash": "62276aecb77854080e712b9cd9244950b0a61272eb3764c8baa9a75f3993ac58"
+        },
+        {
+            "Number": "(34)",
+            "CASi_number1": "115-32-2",
+            "EÜ_number2": "204-082-0",
+            "Prioriteetse_aine_nimetus3": "Dikofool",
+            "Prioriteetne_ohtlik_aine": "X",
+            "sha_hash": "472d8a8af4a638f966a8ae3db59884cf31d9f4e5e56f8fdb69596883ce7c2080"
+        },
+        {
+            "Number": "(35)",
+            "CASi_number1": "1763-23-1",
+            "EÜ_number2": "217-179-8",
+            "Prioriteetse_aine_nimetus3": "perfluorooktaansulfoonhape ja selle derivaadid\n(PFOS)",
+            "Prioriteetne_ohtlik_aine": "X",
+            "sha_hash": "9503589154545b826153edf857e02d355bd10a285b14b35cc74edbed912fd92c"
+        },
+        {
+            "Number": "(36)",
+            "CASi_number1": "124495-18-7",
+            "EÜ_number2": "eikohaldata",
+            "Prioriteetse_aine_nimetus3": "kinoksüfeen",
+            "Prioriteetne_ohtlik_aine": "X",
+            "sha_hash": "3610f169e364fc5040ef1b7ec145a3e6a7f057bae3e5aad3e40dc1f304117951"
+        },
+        {
+            "Number": "(37)",
+            "CASi_number1": "eikohaldata",
+            "EÜ_number2": "eikohaldata",
+            "Prioriteetse_aine_nimetus3": "dioksiinid ja dioksiinisarnased ühendid",
+            "Prioriteetne_ohtlik_aine": "9\nX",
+            "sha_hash": "3995f7e846c78a52543e54a8b79e18701ade15a9eb1c822b0a94448235616af2"
+        },
+        {
+            "Number": "(38)",
+            "CASi_number1": "74070-46-5",
+            "EÜ_number2": "277-704-1",
+            "Prioriteetse_aine_nimetus3": "aklonifeen",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "00e083826fb8064b590a6295948e54b3cf344a60d7a1a5320c3f9f871425377b"
+        },
+        {
+            "Number": "(39)",
+            "CASi_number1": "42576-02-3",
+            "EÜ_number2": "255-894-7",
+            "Prioriteetse_aine_nimetus3": "Bifenoks",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "888e4330ec6d71681629aa761e604659e5d76115c6b36ec407ffeab0e2d8123d"
+        },
+        {
+            "Number": "(40)",
+            "CASi_number1": "28159-98-0",
+            "EÜ_number2": "248-872-3",
+            "Prioriteetse_aine_nimetus3": "Tsübutriin",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "276c6d0f3ae49323f8df3ce1cb6c64b86e8d27f97db3e1663e607aa352dbfa9c"
+        },
+        {
+            "Number": "(41)",
+            "CASi_number1": "52315-07-8",
+            "EÜ_number2": "257-842-9",
+            "Prioriteetse_aine_nimetus3": "10\ntsüpermetriin",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "d1731540e32c2219f5e51358123c4ba56c31df31c6d9620672fa0fb134fbecf7"
+        },
+        {
+            "Number": "(42)",
+            "CASi_number1": "62-73-7",
+            "EÜ_number2": "200-547-7",
+            "Prioriteetse_aine_nimetus3": "diklorofoss",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "f1b56dbffacfe01afc75f73281dbbdbbb27c3a8917699f93aee45e11ef030f87"
+        },
+        {
+            "Number": "(43)",
+            "CASi_number1": "eikohaldata",
+            "EÜ_number2": "eikohaldata",
+            "Prioriteetse_aine_nimetus3": "heksabromotsüklododekaanid (HBCDD)",
+            "Prioriteetne_ohtlik_aine": "11\nX",
+            "sha_hash": "9b51998099a5b5506d274fd34ea064600b6f1727c02a7fbb9eed1212d885777e"
+        },
+        {
+            "Number": "(44)",
+            "CASi_number1": "76-44-8/1024-57-\n3",
+            "EÜ_number2": "200-962-3/213-\n831-0",
+            "Prioriteetse_aine_nimetus3": "heptakloor ja heptakloorepoksiid",
+            "Prioriteetne_ohtlik_aine": "X",
+            "sha_hash": "a08992d7c870a7a04da9c15037b01cd21e4111521b6d95ca68906b45cf976d96"
+        },
+        {
+            "Number": "(45)",
+            "CASi_number1": "886-50-0",
+            "EÜ_number2": "212-950-5",
+            "Prioriteetse_aine_nimetus3": "Terbutriin",
+            "Prioriteetne_ohtlik_aine": "",
+            "sha_hash": "d1e3638c356f1b119e3a2cb8a4fd205b5c526f3108df182bdce0fe6c301f6299"
+        }
+    ]
+}

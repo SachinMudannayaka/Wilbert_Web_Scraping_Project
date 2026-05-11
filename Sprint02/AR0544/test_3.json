@@ -1,0 +1,196 @@
+{
+    "UniqueIdentity": "AR0544",
+    "region": "Central / Eastern Europe",
+    "Jurisdiction": "EE",
+    "category": "Environment",
+    "title": "Estonia. Environmental quality limit values for priority substances, priority hazardous substances and certain other pollutants (Reg. No 28/2019, Table to article 3, as amended through Dec. 31, 2021)",
+    "casKey": "CASi_number1",
+    "dateAndTime": "2025-07-25 19:08:56",
+    "errors": [],
+    "data": [
+        {
+            "Section": "METALLID",
+            "Nr": "(1)",
+            "Aine_nimetus": "Arseen ja selle ühendid",
+            "CASi_number1": "7440-38-2",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "10",
+            "sha_hash": "98eea92d3d4d7e72894a0cf15ffa89f4cfed566a80b379d123474b3c0990250e"
+        },
+        {
+            "Section": "METALLID",
+            "Nr": "(2)",
+            "Aine_nimetus": "Baarium ja selle ühendid",
+            "CASi_number1": "7440-39-3",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "115",
+            "sha_hash": "b2cc58d61155a6790f5175d1fd6c45885d007608c89022330fdb7f81649696a2"
+        },
+        {
+            "Section": "METALLID",
+            "Nr": "(3)",
+            "Aine_nimetus": "Kroom ja selle ühendid",
+            "CASi_number1": "7440-47-3",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "4,7",
+            "sha_hash": "7a22fd7ac318fd14619d082ad55469c076d2bcde086605320b1f71f492ab5af6"
+        },
+        {
+            "Section": "METALLID",
+            "Nr": "(4)",
+            "Aine_nimetus": "2\nKroom VI",
+            "CASi_number1": "",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "3,4",
+            "sha_hash": "42d469516b73a213c97c54cd4f0ebae16c8ebf70e408794be14bb0c1d151fb6e"
+        },
+        {
+            "Section": "METALLID",
+            "Nr": "(5)",
+            "Aine_nimetus": "Tsink ja selle ühendid",
+            "CASi_number1": "7440-66-6",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "10,9",
+            "sha_hash": "4b9b1f9dc979832609c0f83b5b87c75963b37a4cd9bd762521e9e8e0c195f1a1"
+        },
+        {
+            "Section": "METALLID",
+            "Nr": "(6)",
+            "Aine_nimetus": "Vask ja selle ühendid",
+            "CASi_number1": "7440-50-8",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "7,8",
+            "sha_hash": "4f5f5b0e2ff1e0dca4748c97ccce7f4342e0c775247d9b7b5a092eba2a6c0a76"
+        },
+        {
+            "Section": "ORGAANILISED ÜHENDID",
+            "Nr": "(7)",
+            "Aine_nimetus": "Fenool",
+            "CASi_number1": "108-95-2",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "7,7",
+            "sha_hash": "c5558fc4a6aa578a4618c06168c439bd1ce73539050c04ed47d073f5a41be23e"
+        },
+        {
+            "Section": "ORGAANILISED ÜHENDID",
+            "Nr": "(8)",
+            "Aine_nimetus": "o-kresool",
+            "CASi_number1": "95-48-7",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "3\n100",
+            "sha_hash": "5a9a91abcf65195c4f8eb20c6eef820a28ac3c9b78fff28911d5942c44d01719"
+        },
+        {
+            "Section": "ORGAANILISED ÜHENDID",
+            "Nr": "(9)",
+            "Aine_nimetus": "m-, p-kresool",
+            "CASi_number1": "108-39-4; 106-44-5",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "",
+            "sha_hash": "98248b36893f11760ebe1db29177ed13d6c9d62a6d94c4a3a7880f0ccf8d6b50"
+        },
+        {
+            "Section": "ORGAANILISED ÜHENDID",
+            "Nr": "(10)",
+            "Aine_nimetus": "2,3-dimetüülfenool",
+            "CASi_number1": "526-75-0",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "3\n10,8",
+            "sha_hash": "ac1bf49eaf1af49392ea7e3d0fd5c2699eb096f10339f6691fdf64ea1b95faa0"
+        },
+        {
+            "Section": "ORGAANILISED ÜHENDID",
+            "Nr": "(11)",
+            "Aine_nimetus": "2,6-dimetüülfenool",
+            "CASi_number1": "576-26-1",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "",
+            "sha_hash": "5e7ac4e1d64b216b75b64ef54281fd76b38fc4e56e4c5944bcbb78503ff997ea"
+        },
+        {
+            "Section": "ORGAANILISED ÜHENDID",
+            "Nr": "(12)",
+            "Aine_nimetus": "3,4-dimetüülfenool",
+            "CASi_number1": "95-65-8",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "",
+            "sha_hash": "3fe44e89a329294b6ee7a883d691058c4efacf928d7802be1b70794795f0bb54"
+        },
+        {
+            "Section": "ORGAANILISED ÜHENDID",
+            "Nr": "(13)",
+            "Aine_nimetus": "3,5-dimetüülfenool",
+            "CASi_number1": "108-68-9",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "",
+            "sha_hash": "3a895898ecd640307000fedb8176864a472dfa9a3fb0b7f768c8d74c4feb5fdc"
+        },
+        {
+            "Section": "ORGAANILISED ÜHENDID",
+            "Nr": "(14)",
+            "Aine_nimetus": "Resortsinool",
+            "CASi_number1": "108-46-3",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "17,2",
+            "sha_hash": "85050fef7766bbcdb682e05c8a811fa54110de5f8f029f5bc9f773c0bfe22351"
+        },
+        {
+            "Section": "ORGAANILISED ÜHENDID",
+            "Nr": "(15)",
+            "Aine_nimetus": "4\nNaftasaadused (C10-C40 süsivesinikud)",
+            "CASi_number1": "",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "100",
+            "sha_hash": "78236806c46cec7b546fcbe3959e76352048aa906eb4cc473f5e44e1b8dfa69b"
+        },
+        {
+            "Section": "MUUD ANORGAANILISED ÜHENDID",
+            "Nr": "(16)",
+            "Aine_nimetus": "5\nFluoriidid",
+            "CASi_number1": "",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "1500",
+            "sha_hash": "3b322f5295523f161fbc7ea342c2a5678d7708a1dc1797f57422067eb3bf5172"
+        },
+        {
+            "Section": "TAIMEKAITSEVAHENDID",
+            "Nr": "(17)",
+            "Aine_nimetus": "Glüfosaat",
+            "CASi_number1": "1071-83-6",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "0,1",
+            "sha_hash": "38d317983d0e52660de091940bf3f2bdbb18d64c98b412b068a25e4d7ae48185"
+        },
+        {
+            "Section": "TAIMEKAITSEVAHENDID",
+            "Nr": "(18)",
+            "Aine_nimetus": "MCPA",
+            "CASi_number1": "94-74-6",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "0.5",
+            "sha_hash": "11620f43628c6d90c54be76e5cc18529541b7e537fce4bc9e69ba88e3815660f"
+        },
+        {
+            "Section": "TAIMEKAITSEVAHENDID",
+            "Nr": "(19)",
+            "Aine_nimetus": "Metasakloor",
+            "CASi_number1": "67129-08-2",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "0.08",
+            "sha_hash": "8303f938387b171f7024897b67c8941357df02600d0ef28c2fd9f0dbe91876c7"
+        },
+        {
+            "Section": "TAIMEKAITSEVAHENDID",
+            "Nr": "(20)",
+            "Aine_nimetus": "Tebukonasool",
+            "CASi_number1": "107534-96-3",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "1",
+            "sha_hash": "520f65ed51ce549f41f22bc8696d21ed9046cc4051d03e7fb2833b93873aebc0"
+        },
+        {
+            "Section": "TAIMEKAITSEVAHENDID",
+            "Nr": "(21)",
+            "Aine_nimetus": "Spiroksamiin",
+            "CASi_number1": "118134-30-8",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "0.06",
+            "sha_hash": "7017ccc2c27a8fe82c61241fcae2cd0c6eda88658a87e3ed3d205d40667b5b2f"
+        },
+        {
+            "Section": "TAIMEKAITSEVAHENDID",
+            "Nr": "(22)",
+            "Aine_nimetus": "Mankotseeb",
+            "CASi_number1": "8018-01-7",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "0.22",
+            "sha_hash": "98424d7fa2d32dc566a203d6f4be8ca5db8b4ec4c779f0a3c72b4a753fb66422"
+        },
+        {
+            "Section": "TAIMEKAITSEVAHENDID",
+            "Nr": "(23)",
+            "Aine_nimetus": "AMPA",
+            "CASi_number1": "1066-51-9",
+            "Aasta_keskmine_kvaliteedi_piirväärtus_µg/l": "0,1",
+            "sha_hash": "09b001504b4a147268e03fb80bfb44bb9a1d1fa6fb2b785cf68a66cb59c56ca1"
+        }
+    ]
+}

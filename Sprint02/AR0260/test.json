@@ -1,0 +1,159 @@
+{
+    "UniqueIdentity": "AR0260",
+    "region": "Latin America",
+    "Jurisdiction": "BR",
+    "category": "Controlled Drugs & Precursors",
+    "title": "Brazil. Proscribed Plants and Fungi that can Produce Narcotic and Psychotropic substances (ANVISA Ordinance No. 344/98, Annex I, List E, last updated by RDC No 816 of 15 September 2023",
+    "casKey": null,
+    "dateAndTime": "2025-07-16 11:36:20",
+    "errors": [],
+    "data": [
+        {
+            "Title": "LISTA DE PLANTAS E FUNGOS PROSCRITOS QUE PODEM ORIGINAR SUBSTÂNCIAS ENTORPECENTES E/OU PSICOTRÓPICAS",
+            "Number": "1",
+            "Name_of_the_plant": "Cannabis sativa L.",
+            "Description": "",
+            "sha_hash": "a8852fc8800e4846699d6e86a0fce6b352b7604640a92a3eae1d1d24e445dcfa"
+        },
+        {
+            "Title": "LISTA DE PLANTAS E FUNGOS PROSCRITOS QUE PODEM ORIGINAR SUBSTÂNCIAS ENTORPECENTES E/OU PSICOTRÓPICAS",
+            "Number": "2",
+            "Name_of_the_plant": "Claviceps paspali Stevens & Hall.",
+            "Description": "",
+            "sha_hash": "4af561fa3331cd727a958ee5a0d323d51d1338b8c3777d93110c5e91d7fac543"
+        },
+        {
+            "Title": "LISTA DE PLANTAS E FUNGOS PROSCRITOS QUE PODEM ORIGINAR SUBSTÂNCIAS ENTORPECENTES E/OU PSICOTRÓPICAS",
+            "Number": "3",
+            "Name_of_the_plant": "Datura suaveolens Willd.",
+            "Description": "",
+            "sha_hash": "ac148ba41f85d986d8506c651b4aac9d654c5dd68f4aebe5edb20b7eec60258f"
+        },
+        {
+            "Title": "LISTA DE PLANTAS E FUNGOS PROSCRITOS QUE PODEM ORIGINAR SUBSTÂNCIAS ENTORPECENTES E/OU PSICOTRÓPICAS",
+            "Number": "4",
+            "Name_of_the_plant": "Erythroxylum coca Lam.",
+            "Description": "",
+            "sha_hash": "d1b21649e5556028bda81d76a824e4d49276e1e328c9e2fc956445754e6530a5"
+        },
+        {
+            "Title": "LISTA DE PLANTAS E FUNGOS PROSCRITOS QUE PODEM ORIGINAR SUBSTÂNCIAS ENTORPECENTES E/OU PSICOTRÓPICAS",
+            "Number": "5",
+            "Name_of_the_plant": "Lophophora williamsii Coult.",
+            "Description": "",
+            "sha_hash": "7c7dfaac80c7e56c9fe1534e2039807005b5cf58f1c441440aed34b971056ff8"
+        },
+        {
+            "Title": "LISTA DE PLANTAS E FUNGOS PROSCRITOS QUE PODEM ORIGINAR SUBSTÂNCIAS ENTORPECENTES E/OU PSICOTRÓPICAS",
+            "Number": "6",
+            "Name_of_the_plant": "Mitragyna speciosa",
+            "Description": "",
+            "sha_hash": "86725f320573711c3e7fb5fe9cd858fc2f6925bacfd46ae77d5646894873443c"
+        },
+        {
+            "Title": "LISTA DE PLANTAS E FUNGOS PROSCRITOS QUE PODEM ORIGINAR SUBSTÂNCIAS ENTORPECENTES E/OU PSICOTRÓPICAS",
+            "Number": "7",
+            "Name_of_the_plant": "Papaver somniferum L.",
+            "Description": "",
+            "sha_hash": "f5fd35dfedd5a997873d7f97b2b70f6d5e81d923b54b39d341a699cd7d8fe47e"
+        },
+        {
+            "Title": "LISTA DE PLANTAS E FUNGOS PROSCRITOS QUE PODEM ORIGINAR SUBSTÂNCIAS ENTORPECENTES E/OU PSICOTRÓPICAS",
+            "Number": "8",
+            "Name_of_the_plant": "Prestonia amazonica J. F. Macbr.",
+            "Description": "",
+            "sha_hash": "83b9ef03945fe733f853246030a0ad0d3f99d564b44d4cf33db8c70ec55ffa07"
+        },
+        {
+            "Title": "LISTA DE PLANTAS E FUNGOS PROSCRITOS QUE PODEM ORIGINAR SUBSTÂNCIAS ENTORPECENTES E/OU PSICOTRÓPICAS",
+            "Number": "9",
+            "Name_of_the_plant": "Salvia divinorum",
+            "Description": "",
+            "sha_hash": "75c7654c2e4dbaf14a99a3350ed21a3531c8fd6dd315fa9e12d75824bbdaa988"
+        },
+        {
+            "Title": "ADENDO",
+            "Number": "1",
+            "Name_of_the_plant": "",
+            "Description": "1) ficam proibidas a importação, a exportação, o comércio, a manipulação e o uso dos itens enumerados acima.",
+            "sha_hash": "a16f972cf9389a8cbb0129e1a0d088921b6cec61b6c2dcf4aacafdc812a3c557"
+        },
+        {
+            "Title": "ADENDO",
+            "Number": "2",
+            "Name_of_the_plant": "",
+            "Description": "2) ficam também sob controle, todas as substâncias obtidas a partir dos itens enumerados acima, bem como os sais, isômeros, ésteres e éteres destas substâncias.",
+            "sha_hash": "7d33d676747fde095ff4591c5b7c305f813cdcdf57ef87684cb0d1930932f913"
+        },
+        {
+            "Title": "ADENDO",
+            "Number": "3",
+            "Name_of_the_plant": "",
+            "Description": "3) a planta Lophophora williamsii Coult. é comumente conhecida como cacto peyote.",
+            "sha_hash": "6cf0285ea7ef6e6d5ca5216f9b80ed41d35d87f2c5ed9b84bdfd62c1801c3d56"
+        },
+        {
+            "Title": "ADENDO",
+            "Number": "4",
+            "Name_of_the_plant": "",
+            "Description": "4) excetua-se do controle estabelecido nas Portarias SVS/MS n.º 344/98e 6/99, a importação de semente de dormideira (Papaver somniferum L.) quando, comprovadamente, for utilizada com finalidade alimentícia, devendo, portanto, atender legislação sanitária específica.",
+            "sha_hash": "787218548d9c402187ec6eced4fdfa157a83e71f63cb5f43497c1349160ac64d"
+        },
+        {
+            "Title": "ADENDO",
+            "Number": "5",
+            "Name_of_the_plant": "",
+            "Description": "5) excetuam-se dos controles referentes a esta lista a substância canabidiol obtida sinteticamente, que está relacionada na Lista \"C1\" deste regulamento, e a substância dronabinol obtida sinteticamente, que está relacionada na Lista \"A3\" deste regulamento.",
+            "sha_hash": "7877d5176af5e706632c9e94178763cacf46b226f249eccf24189d3cd4fbac11"
+        },
+        {
+            "Title": "ADENDO",
+            "Number": "6",
+            "Name_of_the_plant": "",
+            "Description": "6) excetua-se das disposições legais deste Regulamento Técnico a substância papaverina, bem como as formulações que a contenham, desde que estas não possuam outras substâncias sujeitas ao controle especial da Portaria SVS/MS nº 344/98.",
+            "sha_hash": "555f3a8084f92305f6699ce768758475a8c7830bb3410ab051d5175210b045ac"
+        },
+        {
+            "Title": "ADENDO",
+            "Number": "7",
+            "Name_of_the_plant": "",
+            "Description": "7) fica permitida a importação de Produto derivado de Cannabis, por pessoa física, para uso próprio, mediante prescrição de profissional legalmente habilitado, para tratamento de saúde, aplicando-se os requisitos estabelecidos pela Resolução da Diretoria Colegiada - RDC nº 660, de 30 de março de 2022, ou norma que vier a substitui-la.",
+            "sha_hash": "db8236003acfd2eafe75d915c5a860ea84c81e81eebf43308a201f8baa0e80f3"
+        },
+        {
+            "Title": "ADENDO",
+            "Number": "8",
+            "Name_of_the_plant": "",
+            "Description": "8) excetuam-se dos controles referentes a esta lista os medicamentos registrados na Anvisa que possuam em sua formulação derivados de Cannabis sativa, em concentração de no máximo 30 mg de tetrahidrocannabinol (THC) por mililitro e 30 mg de canabidiol por mililitro, desde que sejam atendidas as exigências desta Resolução.",
+            "sha_hash": "30966609aa962a8148fcad99185988313677ee1965f52293bd3770c60a2a085c"
+        },
+        {
+            "Title": "ADENDO",
+            "Number": "9",
+            "Name_of_the_plant": "",
+            "Description": "9) excetuam-se dos controles referentes a esta lista os isômeros das substâncias obtidas a partir dos itens enumerados acima não listados nominalmente e que sejam componentes de medicamentos registrados na Anvisa, bem como os medicamentos que os contenham.",
+            "sha_hash": "7d4e857b863eb27cecf503d5e7c4d5b38301b524d446b49be6a01f1ec83602a4"
+        },
+        {
+            "Title": "ADENDO",
+            "Number": "10",
+            "Name_of_the_plant": "",
+            "Description": "10) excetuam-se dos controles referentes a esta lista os Produtos de Cannabis regularizados nos termos da Resolução da Diretoria Colegiada - RDC nº 327, de 09 de dezembro de 2019, os quais estão sujeitos aos controles estabelecidos pelos adendos 8 da Lista \"A3\" e 13 da Lista \"B1\", bem como os insumos farmacêuticos, nas formas de derivado vegetal, fitofármaco e a granel, à base de derivados de Cannabis sativa, a serem utilizados em sua fabricação, os quais estão sujeitos aos controles estabelecidos pelo adendo 7 da Lista \"A3\".",
+            "sha_hash": "ef5c9a8ad14a4d17243b1d77c4343a392a056eaca8d7df1b04ea27762ba56aec"
+        },
+        {
+            "Title": "ADENDO",
+            "Number": "11",
+            "Name_of_the_plant": "",
+            "Description": "11) excetuam-se dos controles referentes a esta Lista os produtos veterinários com finalidade medicinal regularizados junto ao Ministério da Agricultura e Pecuária (MAPA), à base de derivados de Cannabis sativa, assim como os insumos farmacêuticos, nas formas de derivado vegetal, fitofármaco e a granel, à base de derivados de Cannabis sativa, destinados à sua fabricação, os quais estão sujeitos aos controles estabelecidos pelo adendo 09 da Lista A3.",
+            "sha_hash": "92ea3461b70b3255f00635566162b7bd33386821b8bd138c1abb9aa9b9a9de95"
+        },
+        {
+            "Title": "ADENDO",
+            "Number": "12",
+            "Name_of_the_plant": "",
+            "Description": "12) fica permitida a prescrição por profissionais médicos - veterinários, legalmente habilitados pelo Conselho Federal de Medicina Veterinária, com a finalidade medicinal, para uso exclusivamente veterinário, de medicamentos e produtos de Cannabis com Autorização Sanitária, devidamente regularizados para comercialização em território nacional, mediante retenção de receituário de controle especial, nos termos da legislação vigente e do Decreto nº 5.053, de 22 de abril de 2004.",
+            "sha_hash": "5c72cec2e778a1239bedbe5f9db781f3dc38ca2309f383ba4120bcc0115c2017"
+        }
+    ]
+}

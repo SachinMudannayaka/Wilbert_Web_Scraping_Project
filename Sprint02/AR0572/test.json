@@ -1,0 +1,56 @@
+{
+    "UniqueIdentity": "AR0572",
+    "region": "Middle East and Africa",
+    "Jurisdiction": "EG",
+    "category": "Workplace Safety (OELs, BELs, GLP)",
+    "title": "Egypt. OELs. Carcinogens or suspected carcinogens with no threshold limit (prohibited) (Decree No.338, 1995, as amended through Decree No. 710, Annex 8, Table 3, 2012)",
+    "casKey": null,
+    "dateAndTime": "2025-07-22 15:56:19",
+    "errors": [],
+    "data": [
+        {
+            "substance_name": "Amitrole",
+            "sha_hash": "654729b245d5b1da9b7242b77a7a62a8e2e5c93bc1e12fc5baba9b1e486ca7c9"
+        },
+        {
+            "substance_name": "Production of Antimony Trioxide",
+            "sha_hash": "a99d09c53b94d40217ce25abe6dd55b742dab88a2e38adc8314a3883900faa2b"
+        },
+        {
+            "substance_name": "Production of Arsenic Trioxide",
+            "sha_hash": "4442e4e695876181e710adcc66fa6fda2be0761030f4647f65d02246473df41e"
+        },
+        {
+            "substance_name": "Benzol (A) Pyrene",
+            "sha_hash": "ce5512cac47eb7a70c69020fc86cc7a331df48bb0dd68a6ff7a08384e5dbdfb7"
+        },
+        {
+            "substance_name": "Production of Cadmium Oxide",
+            "sha_hash": "87753e8c611ec90c4345dd2e2726ae6ca0b4684b62675985b2d90e3ae5dc481f"
+        },
+        {
+            "substance_name": "3.3 - Dichloro Benzidine",
+            "sha_hash": "2c25a529d608aaa3ef51c5b075765cc1ca45f6014e0039040bb674dcd83c080f"
+        },
+        {
+            "substance_name": "Carbamyl Chloride Dimethyl",
+            "sha_hash": "08f638c3a928f9942a4f6550de046d2580f3e74e2fd90f3e121a795dabe75177"
+        },
+        {
+            "substance_name": "Ethylene Dibromide",
+            "sha_hash": "65139d443ae8bdb75bec9edf6703d33b213ee2c14b6754090ffa40c55f7cf6a5"
+        },
+        {
+            "substance_name": "Phosporamide Hexamethyl",
+            "sha_hash": "8789b8fce9abddbefc09ab43625b5ab64f6c7fdeaf9c632e19122b56dcecf50a"
+        },
+        {
+            "substance_name": "N-Nitrosodimethylamine",
+            "sha_hash": "7b57e105a163988a1ba2df76deca67f703323bb8df1f8c308d10f77086bd69d1"
+        },
+        {
+            "substance_name": "N-Amino Phenyl Beta Naphthol",
+            "sha_hash": "f11cde76b76ed085d43f086972a6e7bf11b6d014d09a71c4296af0ed78d2a077"
+        }
+    ]
+}

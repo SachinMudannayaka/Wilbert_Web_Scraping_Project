@@ -1,0 +1,2118 @@
+{
+    "UniqueIdentity": "AR0848",
+    "region": "Western Europe",
+    "Jurisdiction": "DE",
+    "category": "Disaster Prevention/Hazardous Substances Reporting",
+    "title": "Germany.Foreign Trade Ordinance (AWV), Energetic materials, (Annex I, Part1(A), Item 0008), as amended by Bundesanzeiger (Banz) AT 07.09.2021 V1",
+    "casKey": "CAS_No",
+    "dateAndTime": "2025-07-25 14:34:14",
+    "errors": [],
+    "data": [
+        {
+            "CAS_No": "97096-78-1",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.ADNBF (7-Amino-4,6-dinitrobenzofurazan-1-oxid, Amino-dinitrobenzofuroxan),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "f8cbc919bbb53f467f23c62e3a0ebc8aeffbef8dbc836a046b2568989b61ceb5"
+        },
+        {
+            "CAS_No": "117412-28-9",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "2.BNCP (cis-Bis (5-nitrotetrazolato) tetraminkobalt(III)-perchlorat),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "16e00d13ddc1dd40d658c904f842fdf52305d747b95a3fc31e2510f5791919ad"
+        },
+        {
+            "CAS_No": "117907-74-1",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "3.CL-14 (5,7-Diamino-4,6-dinitrobenzofurazan-1-oxid  oder Diaminodinitrobenzofuroxan),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "bd4474020e5ce2434f3081156445b0b52a4e9adfac6bc2872637f03125e8d467"
+        },
+        {
+            "CAS_No": "135285-90-4",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.CL-20 (HNIW oder Hexanitrohexaazaisowurtzitan), Clathrate von CL-20 (siehe auch Unternummern 0008g3 und g4 für dessen „Vorprodukte“),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "80387e2afab3dbd0dc77ed17ff6c54cd9147755d3e607427b331b63a2b804993"
+        },
+        {
+            "CAS_No": "70247-32-4",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "5.CP (2-(5-Cyanotetrazolato) pentaminkobalt(III)-perchlorat),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "2c98973f1513b8dca466c28c0cacbfa5a8c3dca44fdee70885497e49a7d78618"
+        },
+        {
+            "CAS_No": "145250-81-3",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "6.DADE (1,1-Diamino-2,2-dinitroethylen, FOX-7),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "b20eb7eed0964c7059c0197014f18c1d9ab3b1dfdd936b35e1de481220ed8e36"
+        },
+        {
+            "CAS_No": "1630-08-6",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "7.DATB (Diaminotrinitrobenzol),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "abe160fb43e1e7c08064b697122f19f7de94b96061ac87b853a6829eab8b9ff5"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "8.DDFP (1,4-Dinitrodifurazanopiperazin),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "b733c251a70da111545c3be65e64652414935a28d26ed4112010bccf4d72cc92"
+        },
+        {
+            "CAS_No": "194486-77-6",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "9.DDPO (2,6-Diamino-3,5-dinitropyrazin-1-oxid, PZO),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "c8a236e9017251faf5fe6822eadc26a5b747cc4cbc3436103286a5023173c5dc"
+        },
+        {
+            "CAS_No": "17215-44-0",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "10.DIPAM (Diaminohexanitrodiphenyl),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "3bc9c7502fae53a7de78cde832b4eb683382b363a9b6adcc6582e5ef5526e454"
+        },
+        {
+            "CAS_No": "55510-04-8",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "11.DNGU (DINGU oder Dinitroglycoluril),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "5863dc9fc88eb020797017627aa59a29fbbea70ac0b3f6c2842c4fe81c23969f"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "12.Furazane wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "a)DAAOF (DAAF, DAAFox oder Diaminoazoxyfurazan),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "23f95160641240407221a61657efc4a710215d9d3ac3c85cc0468b687a362702"
+        },
+        {
+            "CAS_No": "78644-90-3",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "12.Furazane wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "b)DAAzF (Diaminoazofurazan),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "b46ad89794da2a4a234fb13a8c87c60ccf3bc04449b14447145b4fad32467d8c"
+        },
+        {
+            "CAS_No": "2691-41-0",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "13.HMX und HMX-Derivate (siehe auch Unternummer 0008g5 für deren „Vorprodukte“) wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "a)HMX (Cyclotetramethylentetranitramin oder Oktogen),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "e3151a34302b7e9d730548a5ccfd920bf1194ead60f6a113342944a3fc5218d2"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "13.HMX und HMX-Derivate (siehe auch Unternummer 0008g5 für deren „Vorprodukte“) wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "b)Difluoramin-Analoge des HMX,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "a73fc73621bcd011fc46e714200051fd16d5127d2e811dc9881665622d49241a"
+        },
+        {
+            "CAS_No": "130256-72-3",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "13.HMX und HMX-Derivate (siehe auch Unternummer 0008g5 für deren „Vorprodukte“) wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "c)K-55 (2,4,6,8-Tetranitro-2,4,6,8-tetraazabicyclo[3,3,0]octanon-3, Tetranitrosemiglycouril oder keto-bicyclisches HMX),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "f1857fae6b47df16a50c8bc19b2deb1bd95725491827b9468c0a1e4206391926"
+        },
+        {
+            "CAS_No": "143850-71-9",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "14.HNAD (Hexanitroadamantan),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "d99aa1a248c9cad898d123b14414545e9dbf4b2344a16a7b2cdce98cee201e81"
+        },
+        {
+            "CAS_No": "20062-22-0",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "15.HNS (Hexanitrostilben),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "8720c0686be87447671374ca79c89999804ff27fbca4d17968232dc15dedfaab"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "16.Imidazole wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "a)BNNII (Octahydro-2,5-bis(nitroimino)imidazo-4,5-d-imidazol),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "21b1d381ee3f0083b32ad5804ae2a41f83cc37bca07f34be170e94f3af81165c"
+        },
+        {
+            "CAS_No": "5213-49-0",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "16.Imidazole wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "b)DNI (2,4-Dinitroimidazol),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "2b2b848151d811b668f30950880d2e7f48db4f83970ad08e0937150920336ab6"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "16.Imidazole wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "c)FDIA (1-Fluor-2,4-dinitroimidazol),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "b7670172ce7d72bc121d196bf89d667bb2cd9536a1fa5e6f69f39b8f26afbf59"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "16.Imidazole wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "d)NTDNIA (N-(2-nitrodiazolo)-2,4-dinitroimidazol),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "5c8152172102bec9b2c06d06aac06169e993314842d24d661d360132e71fe230"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "16.Imidazole wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "e)PTIA (1-Pikryl-2,4,5-trinitroimidazol),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "1256462ddab4ec30ca3b35d9edb4b8f266ba3122b1f9cc5349b4858f075042bb"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "17.NTNMH (1-(2-Nitrotriazolo)-2-dinitromethylenhydrazin),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "94284dd219d1f4b82b302634687d8c652c9f6ce629e2fecc1ec181b8348b8aab"
+        },
+        {
+            "CAS_No": "932-64-9",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "18.NTO (ONTA oder 3-Nitro-1,2,4-triazol-5-on),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "f5e2faf39da25fc977a50506b58b1b713708e0c5d25bcbcef3c395132d77cb84"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "19.Polynitrocubane mit mehr als vier Nitrogruppen,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "214d5c48b8248435e1e4d6c2a5a717088ee95bb505c7226dd9faf0c1a51aaba2"
+        },
+        {
+            "CAS_No": "38082-89-2",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "20.PYX (Pikrylaminodinitropyridin),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "b4759161e2c89eecc9216729f857f785136b0da7b4a3056ee4d3987108077dee"
+        },
+        {
+            "CAS_No": "121-82-4",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "21.RDX und RDX-Derivate wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "a)RDX (Hexogen, Cyclotrimethylentrinitramin),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "50e321a9306b5944e6788361bf8a70b6a395136415ba07d197618f2c1d3a0359"
+        },
+        {
+            "CAS_No": "115029-35-1",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "21.RDX und RDX-Derivate wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "b)Keto-RDX (2,4,6-Trinitro-2,4,6-triazacyclohexanon oder K-6),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "0cfe866fad360f4e7d7351d4edb4e28ded17121175082c0db6ee3d9274613560"
+        },
+        {
+            "CAS_No": "4000-16-2",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "22.TAGN (Triaminoguanidinnitrat),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "380d540117edaa762b8ddf8d844d474fae286ec305d81fc0703672350995e428"
+        },
+        {
+            "CAS_No": "3058-38-6",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "23.TATB (Triaminotrinitrobenzol)  (siehe auch Unternummer 0008g7 für dessen „Vorprodukte“),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "7bbc869d249935c1b165976f7136ed9270684abf58fb8378cab2a3b2949866e8"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "24.TEDDZ (3,3,7,7-Tetra-bis(difluoramin)octahydro-1,5-dinitro-1,5-diazocin),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "62e5c74994cd20530786288df997d9d2d254548a668eb9125912acfd8cdb22ad"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "25.Tetrazole wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "a)NTAT (Nitrotriazol-aminotetrazol),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "42f7ffdcc03440646f76d41359dadd7852ccd58f9b5ef2a2ebbe4cbc9fa2853d"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "25.Tetrazole wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "b)NTNT (1-N-(2-Nitrotriazolo)-4-nitrotetrazol),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "179cf5185291e8738db0ec5e0ec087e0e12166909f1649f5fa7bc7eda14bb250"
+        },
+        {
+            "CAS_No": "479-45-8",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "26.Tetryl (Trinitrophenylmethylnitramin),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "08c9633a8f75bdbe900cac1abb64c214b98beabfde2f00e148c3fcd2170b07aa"
+        },
+        {
+            "CAS_No": "135877-16-6",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "27.TNAD (1,4,5,8-Tetranitro-1,4,5,8-tetraazadecalin)  (siehe auch Unternummer 0008g6 für dessen „Vorprodukte“),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "5c7332ff0a626fd2e858d9c4bf553cbef94354a5761280fbbd6079086987bf94"
+        },
+        {
+            "CAS_No": "97645-24-4",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "28.TNAZ (1,1,3-Trinitroazetidin)  (siehe auch Unternummer 0008g2 für dessen „Vorprodukte“),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "fef2e0ba66ff466f1972f490397aadd59628d11064926cf0fcb89eeef9325ad0"
+        },
+        {
+            "CAS_No": "55510-03-7",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "29.TNGU (Tetranitroglycoluril oder SORGUYL),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "4c5f3a4d89cb8c0603a8a0b2c0c7f4c7e0a81ff9e8ae22d5fcb8158d47a5d467"
+        },
+        {
+            "CAS_No": "229176-04-9",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "30.TNP (1,4,5,8-Tetranitro-pyridazino-4,5-d-pyridazin),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "db4da34d60c28452f7a5365b988379ca022f2db9f3cf4fcec492fa61a6378739"
+        },
+        {
+            "CAS_No": "19899-80-0",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "31.Triazine wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "a)DNAM (2-Oxy-4,6-dinitroamino-s-triazin),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "386fc1ad0bbcead98216e71d11c755356807142bd287a5a5a20cefdf27976d36"
+        },
+        {
+            "CAS_No": "130400-13-4",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "31.Triazine wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "b)NNHT (2-Nitroimino-5-nitro-hexahydro-1,3,5-triazin),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "d7810e83beba463f49273e58acb852bf3f39e831a1faef5018950b268d719a71"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "32.Triazole wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "a)5-Azido-2-nitrotriazol,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "c28c6b5f95294dd718b1930ad30170adf22619587164aa67d2074b93405c6573"
+        },
+        {
+            "CAS_No": "1614-08-0",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "32.Triazole wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "b)ADHTDN (4-Amino-3,5-dihydrazino-1,2,4-triazol-dinitramid),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "7cecf34cef5b00c0c1466d039f44b67f104303440741edea6a394fbb71bc1d8b"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "32.Triazole wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "c)ADNT (1-Amino-3,5-dinitro-1,2,4-triazol),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "730fc1aa3fcf5e3a39d6255921fec1d1e3bd75eccf919222eeccc305bafee806"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "32.Triazole wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "d)BDNTA ((Bis-dinitrotriazol)-amin),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "3c465810a674425bd6c71f730a165906833e3459486fdf28639d817bbe6336b4"
+        },
+        {
+            "CAS_No": "30003-46-4",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "32.Triazole wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "e)DBT (3,3‘-Dinitro-5,5-bis-1,2,4-triazol),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "1c5ad59bec094bf7872cdd46fcbdd21207723a188cf74176b4886d5a9277b52e"
+        },
+        {
+            "CAS_No": "70890-46-9",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "32.Triazole wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "f)DNBT (Dinitrobistriazol),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "3f3a846724fe4cad82e7ce25edcabd4156606a5bbd562508709f92a575149219"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "32.Triazole wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "g)nicht belegt,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "68966a8d0067d4be43475f32b94c36673e815c09c4e168a8c7b93cf8dea868d5"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "32.Triazole wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "h)NTDNT (1-N-(2-Nitrotriazolo)-3,5-dinitrotriazol),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "1e6c419060f6884f7ce2ea908d9d62c15f1572dc62853b16092c957f9f0a3a58"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "32.Triazole wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "i)PDNT (1-Pikryl-3,5-dinitrotriazol),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "237b60cde51559488054f9d7b41734503f07dc6d2e1096398dbf9caee3e1410d"
+        },
+        {
+            "CAS_No": "25243-36-1",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "32.Triazole wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "j)TACOT (Tetranitrobenzotriazolobenzotriazol),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "11358d2808b3ea3b2bc6cf931231f0b45099d755f06507050157c7d6b56c9b5d"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "33.andere als die von Unternummer 0008a erfassten „Explosivstoffe“ und mit einer der folgenden Eigenschaften:",
+            "Name_of_Substances_-_Sub_list_I": "a)Detonationsgeschwindigkeit größer als 8 700 m/s bei maximaler Dichte,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "d269880f0f4bdbf370107083cd1bb44333827bdc4802aafb84194483ec925244"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "33.andere als die von Unternummer 0008a erfassten „Explosivstoffe“ und mit einer der folgenden Eigenschaften:",
+            "Name_of_Substances_-_Sub_list_I": "b)Detonationsdruck größer als 34 GPa (340 kbar),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "e3e4787b7f096b5c2b823ce0e7b00e4ed491958c8c99ddf661cc36f0ed3ed587"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "34.nicht belegt,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "a7783bca4716d6d498d0608a997bafa8c6a4b7c5ceab80ea433948e56aa2b448"
+        },
+        {
+            "CAS_No": "119-27-7",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "35.DNAN (2,4-Dinitroanisol),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "7ea5576aa7ba41b48334c4ea33e23af4f00b88f5d651903f440a4a5e642aecc1"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "36.TEX (4,10-Dinitro-2,6,8,12-tetraoxa-4,10-diazaisowurtzitan),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "40ca58ab08293884c17587b31fdfaf39d3bbdb4d1037c42a8e8f7e311fa372c9"
+        },
+        {
+            "CAS_No": "217464-38-5",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "37.GUDN (Guanylharnstoff-Dinitramid) FOX-12 ),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "f2cdb269594fa543970def1d7e386e4c115924e5affd8ddda520969eccefc274"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "38.Tetrazine wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "a)BTAT (Bis(2,2,2-trinitroethyl)-3,6-diaminotetrazin),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "fda2e852b94469ee01058e27227382f939c9c3f937b843545bc9e742a6dc6479"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "38.Tetrazine wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "b)LAX-112 (3,6-Diamino-1,2,4,5-tetrazine-1,4-dioxid),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "936541366a99947a748b243e697aa67e2dd1a9af28bee7b5f75ec114ee5a6ea3"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "39.ionische energetische Materialien mit einem Schmelzpunkt zwischen 343 K (70 °C) und 373 K",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "87a8b78363f0f4a20f6b24c10a662a9536d9dec07644286b704538db7c29e3a9"
+        },
+        {
+            "CAS_No": "19836-28-3",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "40.BTNEN (Bis(2,2,2-trinitroethyl)-nitramin),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "f95d7b09c3a1a92dd614785c97bcc68105845b1d68a0fef0d91129c037e644a7"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "41.FTDO (5,6-(3',4'-Furazano)-1,2,3,4-tetrazin-1,3-dioxid),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "f3d8bce3f8be167e6d8feefaa598e30a88ecf96e16ec14f9d16ffc9665a3cc29"
+        },
+        {
+            "CAS_No": "505-71-5",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "42.EDNA (Ethylendinitramin),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "1388a49ec9cd5510b34c67eee7f711341a615e4d5c7ffaae331e27f7b4ff5df7"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "a)„Explosivstoffe“ wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "43.TKX-50 (Dihydroxylammonium-5,5'-Bistetrazol-1,1'-diolat);",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "31d59ba2904bc278c8116382aa7fb2cfec8307fd3ad2eb8bcefbe7eee99b2410"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "b)„Treibstoffe“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.alle Feststoff-„Treibstoffe“ mit einem theoretisch erreichbaren spezifischen Impuls (bei Standardbedingungen) von mehr als",
+            "Name_of_Substances_-_Sub_list_I": "a)240 Sekunden bei nichtmetallischen, nichthalogenierten „Treibstoffen“,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "7119f4545b64597d9d88e1f2f0d09b0ca121d14f8023ccf69f1316482468d67f"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "b)„Treibstoffe“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.alle Feststoff-„Treibstoffe“ mit einem theoretisch erreichbaren spezifischen Impuls (bei Standardbedingungen) von mehr als",
+            "Name_of_Substances_-_Sub_list_I": "b)250 Sekunden bei nichtmetallischen, halogenierten „Treibstoffen“",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "623aff13a89f61ab873150c82d6b10b46b50c8240270c11e537bde28373a8b09"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "b)„Treibstoffe“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.alle Feststoff-„Treibstoffe“ mit einem theoretisch erreichbaren spezifischen Impuls (bei Standardbedingungen) von mehr als",
+            "Name_of_Substances_-_Sub_list_I": "c)260 Sekunden bei metallischen „Treibstoffen“,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "613a5276e23c0dd0d15e31c96c191e13c9d53a4b4936aabcb8e2d1c7af8e727b"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "b)„Treibstoffe“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "2.nicht belegt,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "9f869ed6d96919f22691c856139ee3294b8bcdaad34ed8ac59d7cdb9ddb63cef"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "b)„Treibstoffe“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "3.„Treibstoffe“ mit einer theoretischen Force größer als 1 200 kJ/kg,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "ec14305dd880038beb3a79c30690387d7b3aebdc235770ffe17b11e378c66ab3"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "b)„Treibstoffe“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.„Treibstoffe“, die eine stabile, gleichförmige Abbrandgeschwindigkeit von mehr als 38 mm/s unter Standardbedingungen bei 6,89 MPa (68,9 bar) und 294 K (21 °C) (gemessen an einem inhibierten einzelnen Strang) aufweisen,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "9c3491c6d069bff4daaced3811d02bf2c5b6d16a92e5dee5d54141fa6146cbe7"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "b)„Treibstoffe“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "5.elastomermodifizierte, gegossene, zweibasige „Treibstoffe“ (EMCDB), die bei 233 K (40 °C) eine Dehnungsfähigkeit von mehr als 5 % bei größter Beanspruchung aufweisen,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "4560496ec663d0b6a0c118454671a8748f0220855554a42a28e56ea3dc61163b"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "b)„Treibstoffe“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "6.andere „Treibstoffe“, die von Unternummer 0008a erfasste Substanzen enthalten,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "113109d220bf245e4a7eebca697d5eae9a719c2b2a491edde4a13b458631e600"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "b)„Treibstoffe“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "7.„Treibstoffe“, soweit nicht anderweitig von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasst, besonders konstruiert für militärische Zwecke;",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "d2885b1310ebaac12ab038cae9d4144f51830dae80039b021f44ba07c1a840fd"
+        },
+        {
+            "CAS_No": "7784-21-6",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "2.Alan (Aluminiumhydrid),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "7f2bbed75efa1c1ed9524dec4c4bb927bfa1a520726565fb3f560517e1465fd2"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "3.Borane wie folgt und Derivate daraus:",
+            "Name_of_Substances_-_Sub_list_I": "a)Carborane;",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "abeb5b92f611caefaf3ec22c9deea10c86dc78ea9fca4ea7097613974fdbbd29"
+        },
+        {
+            "CAS_No": "17702-41-9",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "3.Borane wie folgt und Derivate daraus:",
+            "Name_of_Substances_-_Sub_list_I": "b)Boranhomologe wie folgt:",
+            "Name_of_Substances_-_Sub_list_II": "1.Decaboran (14),",
+            "sha_hash": "de9b432764636acf3cc374b68d145e5d13f9b87057896c82dfe56e7516a5b982"
+        },
+        {
+            "CAS_No": "19624-22-7",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "3.Borane wie folgt und Derivate daraus:",
+            "Name_of_Substances_-_Sub_list_I": "b)Boranhomologe wie folgt:",
+            "Name_of_Substances_-_Sub_list_II": "2.Pentaboran (9),",
+            "sha_hash": "1a3eb51ebb62f4b93489fd86c58e4eb785b2a2dbf4a866c100572fcefaa4d67f"
+        },
+        {
+            "CAS_No": "18433-84-6",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "3.Borane wie folgt und Derivate daraus:",
+            "Name_of_Substances_-_Sub_list_I": "b)Boranhomologe wie folgt:",
+            "Name_of_Substances_-_Sub_list_II": "3.Pentaboran (11),",
+            "sha_hash": "d84224d627c4dcdcb7d30e2562afe1440d621588f8f183d52b1187024c4e22df"
+        },
+        {
+            "CAS_No": "302-01-2",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Hydrazin und Hydrazin-Derivate wie folgt (siehe auch Unternummern 0008d8 und 0008d9 für oxidierend wirkende Hydrazinderivate):",
+            "Name_of_Substances_-_Sub_list_I": "a)Hydrazin  mit einer Mindestkonzentration von 70 %,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "41321f064417860f96a2ecc475aaeb1c55a618ce86b4666eed570f6a31613291"
+        },
+        {
+            "CAS_No": "60-34-4",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Hydrazin und Hydrazin-Derivate wie folgt (siehe auch Unternummern 0008d8 und 0008d9 für oxidierend wirkende Hydrazinderivate):",
+            "Name_of_Substances_-_Sub_list_I": "b)Monomethylhydrazin,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "0c21dc038d4f5cd58803deeafd4ce77497be82ebb6515ebd1562d5007a7a0b21"
+        },
+        {
+            "CAS_No": "540-73-8",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Hydrazin und Hydrazin-Derivate wie folgt (siehe auch Unternummern 0008d8 und 0008d9 für oxidierend wirkende Hydrazinderivate):",
+            "Name_of_Substances_-_Sub_list_I": "c)symmetrisches Dimethylhydrazin,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "c3b6526267bcc4a55d6616881634358bdb1925ad23e639c27bd0d69f53ee06c2"
+        },
+        {
+            "CAS_No": "57-14-7",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Hydrazin und Hydrazin-Derivate wie folgt (siehe auch Unternummern 0008d8 und 0008d9 für oxidierend wirkende Hydrazinderivate):",
+            "Name_of_Substances_-_Sub_list_I": "d)unsymmetrisches Dimethylhydrazin,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "97e1473643b59b2b91374b2bbeddd91c9b6aabf765140b785376c7b04bf066d7"
+        },
+        {
+            "CAS_No": "7440-41-7",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "5.metallische Brennstoffe, Brennstoff,mischungen‘ oder „pyrotechnische“ ,Mischungen‘ in Partikelform (kugelförmig, staubförmig, flockenförmig oder gemahlen), hergestellt aus Material, das zu mindestens 99 % aus einem der folgenden Materialien besteht:",
+            "Name_of_Substances_-_Sub_list_I": "a)Metalle und ,Mischungen‘ daraus wie folgt:",
+            "Name_of_Substances_-_Sub_list_II": "1.Beryllium  mit einer Partikelgröße kleiner als 60 µm,",
+            "sha_hash": "83f16cb1520db27abf3d316e6bf38416022ae6fc1de38f7a051c7e57c0741ffc"
+        },
+        {
+            "CAS_No": "7439-89-6",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "5.metallische Brennstoffe, Brennstoff,mischungen‘ oder „pyrotechnische“ ,Mischungen‘ in Partikelform (kugelförmig, staubförmig, flockenförmig oder gemahlen), hergestellt aus Material, das zu mindestens 99 % aus einem der folgenden Materialien besteht:",
+            "Name_of_Substances_-_Sub_list_I": "a)Metalle und ,Mischungen‘ daraus wie folgt:",
+            "Name_of_Substances_-_Sub_list_II": "2.Eisenpulver  mit einer Partikelgröße kleiner/gleich 3 µm, hergestellt durch Reduktion von Eisenoxid mit Wasserstoff,",
+            "sha_hash": "cb49015a2199d5fb08551a3dcbe6a0e5d26fe03cc64d04063f4060b58f49a4f5"
+        },
+        {
+            "CAS_No": "7440-67-7",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "5.metallische Brennstoffe, Brennstoff,mischungen‘ oder „pyrotechnische“ ,Mischungen‘ in Partikelform (kugelförmig, staubförmig, flockenförmig oder gemahlen), hergestellt aus Material, das zu mindestens 99 % aus einem der folgenden Materialien besteht:",
+            "Name_of_Substances_-_Sub_list_I": "b),Mischungen‘, die einen der folgenden Stoffe enthalten:",
+            "Name_of_Substances_-_Sub_list_II": "1.Zirkonium, Magnesium  und Legierungen dieser Metalle mit Partikelgrößen kleiner als 60 µm",
+            "sha_hash": "f3be4e1d973c35d4ba24a8a213f1de83056acbe4e5484fa09d289c2a9c30e3af"
+        },
+        {
+            "CAS_No": "7440-42-8",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "5.metallische Brennstoffe, Brennstoff,mischungen‘ oder „pyrotechnische“ ,Mischungen‘ in Partikelform (kugelförmig, staubförmig, flockenförmig oder gemahlen), hergestellt aus Material, das zu mindestens 99 % aus einem der folgenden Materialien besteht:",
+            "Name_of_Substances_-_Sub_list_I": "b),Mischungen‘, die einen der folgenden Stoffe enthalten:",
+            "Name_of_Substances_-_Sub_list_II": "2.Bor  oder Borcarbid  mit einer Reinheit größer/gleich 85 % und einer Partikelgröße kleiner als 60 µm,",
+            "sha_hash": "9ab616f3d76cd5b192c9bfa3ab89c096597c69eb1c3cfa7d5390e21185d49141"
+        },
+        {
+            "CAS_No": "637-12-7",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "6.militärische Materialien, die für die Verwendung in Flammenwerfern oder Brandbomben besonders formulierte Verdicker für Kohlenwasserstoff-Brennstoffe enthalten, wie Metallstearate (z. B. Oktal ) oder -palmitate,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "52a026b80c144e1154eb4f57664a2279a9c9c8868676f07a8a6fd179284967f9"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "7.Perchlorate, Chlorate und Chromate, die mit Metallpulver oder anderen energiereichen Brennstoffen gemischt sind,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "09641a681b72415ec2e4b039e25282c7edc680efae84de92d176524def0fe33d"
+        },
+        {
+            "CAS_No": "7429-90-5",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "8.kugelförmiges oder kugelähnliches Aluminiumpulver  mit einer Partikelgröße kleiner/gleich 60 µm und hergestellt aus Material mit einem Aluminiumgehalt von mindestens 99 %,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "8bf547f98693bcaebfc9b445795c69a4cbc92942f425c0ad89b66473803e4b27"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "9.Titansubhydrid (TiH",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "153298ede378c82bcb0de50cccbbb5dd8e983d2a3d7be3db6fb8c24a20dfad0b"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "10.flüssige Brennstoffe hoher Energiedichte, nicht von Unternummer 0008c1 erfasst, wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "a)Brennstoffgemische mit sowohl festen wie flüssigen Bestandteilen (z. B. Borschlamm), mit einer massespezifischen Energiedichte größer/gleich 40 MJ/kg,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "e838640729ec6cd6e2f883689fefcc02d88ab7a9e7a72bd130d598db9eb8a5e1"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "11.„Pyrotechnische“ und selbstentzündliche Materialien wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "a)„Pyrotechnische“ oder selbstentzündliche Materialien besonders formuliert, um die Produktion von Strahlungsenergie in jedem Bereich des Infrarot(IR)-Spektrums zu erhöhen oder zu steuern,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "323018e5cb1603b22ee2157a9820e4957a2223983c1ccfa40b16f0020899796e"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "11.„Pyrotechnische“ und selbstentzündliche Materialien wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "b)Mischungen von Magnesium, Polyetrafluorethylen (PTFE) und einem Vinylidendifluorid-Hexafluorpropylen-Copolymer (z. B. MTV),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "b044920d13045a8a484d6722427c549de3566f9a7415baf9783e5a98be23ed18"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "12.Brennstoffgemische, „pyrotechnische“ Mischungen oder „energetische Materialien“, soweit nicht anderweitig von Nummer 0008 erfasst, mit allen folgenden Eigenschaften:",
+            "Name_of_Substances_-_Sub_list_I": "a)enthalten mehr als 0,5 % Partikel aus folgenden Materialien:",
+            "Name_of_Substances_-_Sub_list_II": "1.Aluminium,",
+            "sha_hash": "60051d458b62133ef76d3a0f7fe9766c16e5bf197ba9301c319040c93f8042b7"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "12.Brennstoffgemische, „pyrotechnische“ Mischungen oder „energetische Materialien“, soweit nicht anderweitig von Nummer 0008 erfasst, mit allen folgenden Eigenschaften:",
+            "Name_of_Substances_-_Sub_list_I": "a)enthalten mehr als 0,5 % Partikel aus folgenden Materialien:",
+            "Name_of_Substances_-_Sub_list_II": "2.Beryllium,",
+            "sha_hash": "4f2968818d41b6aab22ffb1bddf76b21ac4f2b2963046bb0a0ee9aee2ccb7a45"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "12.Brennstoffgemische, „pyrotechnische“ Mischungen oder „energetische Materialien“, soweit nicht anderweitig von Nummer 0008 erfasst, mit allen folgenden Eigenschaften:",
+            "Name_of_Substances_-_Sub_list_I": "a)enthalten mehr als 0,5 % Partikel aus folgenden Materialien:",
+            "Name_of_Substances_-_Sub_list_II": "3.Bor,",
+            "sha_hash": "4591b4c194d3fdd376b64540c96ce137cad68bf568b00fe7de20ff3e3d745e42"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "12.Brennstoffgemische, „pyrotechnische“ Mischungen oder „energetische Materialien“, soweit nicht anderweitig von Nummer 0008 erfasst, mit allen folgenden Eigenschaften:",
+            "Name_of_Substances_-_Sub_list_I": "a)enthalten mehr als 0,5 % Partikel aus folgenden Materialien:",
+            "Name_of_Substances_-_Sub_list_II": "4.Zirkonium,",
+            "sha_hash": "47abac9c577222af4fbe380631c15640db9ce7c4b543d7e67e368059b3f1b7d2"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "12.Brennstoffgemische, „pyrotechnische“ Mischungen oder „energetische Materialien“, soweit nicht anderweitig von Nummer 0008 erfasst, mit allen folgenden Eigenschaften:",
+            "Name_of_Substances_-_Sub_list_I": "a)enthalten mehr als 0,5 % Partikel aus folgenden Materialien:",
+            "Name_of_Substances_-_Sub_list_II": "5.Magnesium",
+            "sha_hash": "5d55f7ed2eb795af2b9b7722fa6821d58e8c9a5d1474fa3e85437528cc0787f1"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "12.Brennstoffgemische, „pyrotechnische“ Mischungen oder „energetische Materialien“, soweit nicht anderweitig von Nummer 0008 erfasst, mit allen folgenden Eigenschaften:",
+            "Name_of_Substances_-_Sub_list_I": "a)enthalten mehr als 0,5 % Partikel aus folgenden Materialien:",
+            "Name_of_Substances_-_Sub_list_II": "6.Titan,",
+            "sha_hash": "b0c5b6ac88fdb10a679a04c94ed870aeec28e44199c01038365b5de0b396dd39"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "12.Brennstoffgemische, „pyrotechnische“ Mischungen oder „energetische Materialien“, soweit nicht anderweitig von Nummer 0008 erfasst, mit allen folgenden Eigenschaften:",
+            "Name_of_Substances_-_Sub_list_I": "b)von Unternummer 0008c12a erfasste Partikel mit einer Größe kleiner als 200 nm in jeder Richtung",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "3134a59434967f1397a2500e329a154cbde7e1cdcec851edc664a10525cc23bd"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "c)„Pyrotechnika“, Brennstoffe und zugehörige Stoffe wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "12.Brennstoffgemische, „pyrotechnische“ Mischungen oder „energetische Materialien“, soweit nicht anderweitig von Nummer 0008 erfasst, mit allen folgenden Eigenschaften:",
+            "Name_of_Substances_-_Sub_list_I": "c)von Unternummer 0008c12a erfasste Partikel mit einem metallischen Anteil größer/gleich 60 %;",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "a9c8d2a34de00c2edef6b334fee9734ace3a53fae7299d5759594693f3dc64e8"
+        },
+        {
+            "CAS_No": "140456-78-6",
+            "Type_of_Substance": "d)Oxidationsmittel wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.ADN (Ammoniumdinitramid oder SR12),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "e9b9739466ed452f541c79334abaaf8d5c62f3bd2bfa8aa5839507aba6393158"
+        },
+        {
+            "CAS_No": "7790-98-9",
+            "Type_of_Substance": "d)Oxidationsmittel wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "2.AP (Ammoniumperchlorat),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "fdf7ddf69d463e00129d58d4c4ab1c5f5fcf658e057ca04bb5e8421beb89244b"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "d)Oxidationsmittel wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "3.Verbindungen, die aus Fluor und einem oder mehreren der folgenden Elemente zusammengesetzt sind:",
+            "Name_of_Substances_-_Sub_list_I": "a)sonstige Halogene,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "a796bb7a41e31ccd0e8bbfcd080b5e64bd07230fd524f8a36bf8ba394286a513"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "d)Oxidationsmittel wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "3.Verbindungen, die aus Fluor und einem oder mehreren der folgenden Elemente zusammengesetzt sind:",
+            "Name_of_Substances_-_Sub_list_I": "b)Sauerstoff",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "4bf78fcd3c3b4eefbd3cfc4de7793421c13451dcb2a6373ecebc1314d4227616"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "d)Oxidationsmittel wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "3.Verbindungen, die aus Fluor und einem oder mehreren der folgenden Elemente zusammengesetzt sind:",
+            "Name_of_Substances_-_Sub_list_I": "c)Stickstoff,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "127b1de33d54e8bdb1c7ea088ab9582a10547bc2b5f10a603ac0534893b723fe"
+        },
+        {
+            "CAS_No": "78246-06-7",
+            "Type_of_Substance": "d)Oxidationsmittel wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.DNAD (1,3-Dinitro-1,3-diazetidin),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "e4049d5fc658292b367434d992bc01652a4fe54e3b8c18271776dfd0e1913e41"
+        },
+        {
+            "CAS_No": "13465-08-2",
+            "Type_of_Substance": "d)Oxidationsmittel wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "5.HAN (Hydroxylammoniumnitrat),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "74527a4e170ee582e81abecc4faa3bfe6c944d6664cbbbe2867aa2b478106c1a"
+        },
+        {
+            "CAS_No": "15588-62-2",
+            "Type_of_Substance": "d)Oxidationsmittel wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "6.HAP (Hydroxylammoniumperchlorat),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "66dc8026b838fcc0fb25af4a4f838d1fba9a2621b00526c4134a14bbb18ceb16"
+        },
+        {
+            "CAS_No": "20773-28-8",
+            "Type_of_Substance": "d)Oxidationsmittel wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "7.HNF (Hydrazinnitroformiat),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "5ab7e9cfd2162eb0ee2a7a7f423b6257eea5988c8cd9776fc932af0437682195"
+        },
+        {
+            "CAS_No": "37836-27-4",
+            "Type_of_Substance": "d)Oxidationsmittel wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "8.Hydrazinnitrat,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "9c6b760677c4442fa812cc810b5163c9324a0b271e2e66a6b573755b3579de2f"
+        },
+        {
+            "CAS_No": "27978-54-7",
+            "Type_of_Substance": "d)Oxidationsmittel wie folgt und ,Mischungen‘ daraus:",
+            "Anmerkung": "",
+            "Name_of_Substances": "9.Hydrazinperchlorat,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "156ed8df56859d9de1d86860831f973d8b1e94cbaeb9b7fbfe844b081ac12f8e"
+        },
+        {
+            "CAS_No": "90683-29-7",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.AMMO (Azidomethylmethyloxetan)  und seine Polymere (siehe auch Unternummer 0008g1 für dessen „Vorprodukte“),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "e4ea43a4e7e275c4b966b8784310b9fc6c1f4bb5516afaf2e69059fb9e40b995"
+        },
+        {
+            "CAS_No": "17607-20-4",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "2.BAMO (3,3-Bis(azidomethyl)oxetan)  und seine Polymere (siehe auch Unternummer 0008g1 für dessen „Vorprodukte“),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "a701e313125369dd634aee38b6c0d9d59a16e38e5aa39248346d85d1bd291e7a"
+        },
+        {
+            "CAS_No": "5108-69-0",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "3.BDNPA (Bis-(2,2-dinitropropyl)acetal),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "0ebd6d634b9b6030a0cdf4f6f114ea54f55b5b6eea14c8bff7fe13f86b654c36"
+        },
+        {
+            "CAS_No": "5917-61-3",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.BDNPF (Bis-(2,2-dinitropropyl)formal),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "dc5d7481d0b634a13e49545a5a359af14c33ea1f41d223308b11e0da0b9339ab"
+        },
+        {
+            "CAS_No": "6659-60-5",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "5.BTTN (Butantrioltrinitrat)  (siehe auch Unternummer 0008g8 für dessen „Vorprodukte“),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "498b7b3698b1e18ebebbfe6861a3a6ce0cef608e96e9ca9c4ee33da57047a78f"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "6.energetisch wirksame Monomere, energetisch wirksame Plastifiziermittel oder energetisch wirksame Polymere, besonders formuliert für militärische Zwecke, und die eine der folgenden Gruppen enthalten:",
+            "Name_of_Substances_-_Sub_list_I": "a)Nitrogruppen,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "e8e48b7c744b9dc82727fdf07add706bb134c396efc31e9eef58a1d9f9eee600"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "6.energetisch wirksame Monomere, energetisch wirksame Plastifiziermittel oder energetisch wirksame Polymere, besonders formuliert für militärische Zwecke, und die eine der folgenden Gruppen enthalten:",
+            "Name_of_Substances_-_Sub_list_I": "b)Azidogruppen,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "81e76b82600132cc03a90f50d6fb05589508a68af5bab993b3fdf597897de23a"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "6.energetisch wirksame Monomere, energetisch wirksame Plastifiziermittel oder energetisch wirksame Polymere, besonders formuliert für militärische Zwecke, und die eine der folgenden Gruppen enthalten:",
+            "Name_of_Substances_-_Sub_list_I": "c)Nitratgruppen,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "ff54c2d3dd60bf09219c4037cb080f1671d370bdac839fa46b7e2fd62556d1fe"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "6.energetisch wirksame Monomere, energetisch wirksame Plastifiziermittel oder energetisch wirksame Polymere, besonders formuliert für militärische Zwecke, und die eine der folgenden Gruppen enthalten:",
+            "Name_of_Substances_-_Sub_list_I": "d)Nitrazagruppen",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "c2ed8c557a0b50f750713a4b152d927a059fd69ea125e7fe89a45e011192aba8"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "6.energetisch wirksame Monomere, energetisch wirksame Plastifiziermittel oder energetisch wirksame Polymere, besonders formuliert für militärische Zwecke, und die eine der folgenden Gruppen enthalten:",
+            "Name_of_Substances_-_Sub_list_I": "e)Difluoraminogruppen,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "fd4dc01170acea611b1bd975861a0c78c19ce44c4f1592312ff9a05bbc2b8d9d"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "7.FAMAO (3-Difluoraminomethyl-3-azidomethyloxetan) und seine Polymere,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "139a108c574cf15fc90ea7640cc4ad6de6dde7b353ff238cda5db2552e975211"
+        },
+        {
+            "CAS_No": "17003-79-1",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "8.FEFO (Bis(2-fluor-2,2-dinitroethyl)formal),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "1e17d1766aa0b1ae1203e91e7f155ba86f1a44cfca434d9b5de2572ced66d55f"
+        },
+        {
+            "CAS_No": "376-90-9",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "9.FPF-1 (Poly-2,2,3,3,4,4-Hexafluorpentan-1,5-diol-formal),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "e70101d98b64a04c2183827aef72f221eee23b35fdf1ee7ff4c8795d33e5ae97"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "10.FPF-3 (Poly-2,4,4,5,5,6,6-heptafluor-2-trifluormethyl-3-oxaheptan-1,7-diol-formal),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "90ea671777ef3031a4e5bd33183240d8602e7a80e42cfa3740a8fdf87880892a"
+        },
+        {
+            "CAS_No": "143178-24-9",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "11.GAP (Glycidylazidpolymer)  und dessen Derivate,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "ec6eabd144ddd595af13ca999f6f712ceecde733dcaa9a7e5fc17d3fbb81757d"
+        },
+        {
+            "CAS_No": "69102-90-5",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "12.HTPB (hydroxylterminiertes Polybutadien) mit einer Hydroxylfunktionalität größer/gleich 2,2 und kleiner/gleich 2,4, einem Hydroxylwert kleiner als 0,77 meq/g und einer Viskosität bei 303 K (30 °C) kleiner als 47 Poise,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "bb9530cc7ec3acdb9c5ed3adfce87bb6cb096ff6035af774c3c4fbc0b114b3af"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "13.Polyepichlorhydrin mit funktionellen Alkoholgruppen und mit einem Molekulargewicht kleiner als 10 000, wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "a)Polyepichlorhydrindiol,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "8557a4153ff1267efffb79256b281ba0edd2281bfe5d6b0096228f77569fab41"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "13.Polyepichlorhydrin mit funktionellen Alkoholgruppen und mit einem Molekulargewicht kleiner als 10 000, wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "b)Polyepichlorhydrintriol,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "0715bd5abf8de4654150ebeaa670ac1cbb6f7ada246af9c88b8d80a3fd77175f"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "14.NENAs (Nitratoethylnitramin-Verbindungen) (CAS-Nrn. 17096-47-8, 85068-73-1, 82486-83-7,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "8cf4bcf6f871f2bdd7fe76b17184f41ef1561b824c718ed762df8d8506f732e9"
+        },
+        {
+            "CAS_No": "27814-48-8",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "15.PGN (Poly-GLYN, Polyglycidylnitrat oder Poly(nitratomethyloxiran)),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "73bc8d837c5949a3365add33770fb010c8aee2815c2163c87dd5005200e880c9"
+        },
+        {
+            "CAS_No": "84051-81-0",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "16.Poly-NIMMO (Poly(nitratomethylmethyloxetan), Poly-NMMO oder Poly(3-nitratomethyl-3-methyloxetan),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "557a4aa8bcd8122e43fc1741c5acb4beb5f3a84c1aaa9fa030bd9b8d1b43b553"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "17.Polynitroorthocarbonate,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "b572a2bf2bd300379a171067b973a453be8ecff44ca51b90828d5ef4def0ae79"
+        },
+        {
+            "CAS_No": "53159-39-0",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "18.TVOPA (1,2,3-Tris[(1,2-bis-difluoramino)ethoxy]propan),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "b0cba3897aab10bf34e202b01edf5e5efea70fd41c935d1edff40b98149d5713"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "19.4,5-Diazidomethyl-2-methyl-1,2,3-triazol (iso-DAMTR),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "6dd564528cefec1b5b531be54475851cc534545ca2d61051216088629fcecfe9"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "20.PNO (Poly(3-nitrato oxetan)),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "1b65b809c09a274d53cde27b9d1b0c6483380df031a1f853ee00c90c75e5509e"
+        },
+        {
+            "CAS_No": "3032-55-1",
+            "Type_of_Substance": "e)Binder, Plastifiziermittel, Monomere und Polymere wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "21.TMETN (Trimethylolethantrinitrat) ;",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "3847ae9625699f460cea3246bdadf2b961cb563a87ecc33f4166391684c00ad7"
+        },
+        {
+            "CAS_No": "62320-94-9",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.basisches Kupfersalicylat,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "3ebce8b29220439f5d844c46dad05767e4966912d146434c7d2e54284de1c1bf"
+        },
+        {
+            "CAS_No": "17409-41-5",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "2.BHEGA (Bis-(2-hydroxyethyl)glycolamid),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "a0ed67dc1dc9d71be3f83d16f2047f4617781211ee2ab7c8e7ec8f2c87e387d1"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "3.BNO (Butadiennitriloxid),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "3a20d02f5cc6db546c1aacd1a535d7ab3dd781951c7b8ba2e58a2d6220adb603"
+        },
+        {
+            "CAS_No": "125856-62-4",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Ferrocen-Derivate wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "a)Butacen,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "a2268ae4a95d1dcec60607fac39a417bd8006818fe13138f158c4e84c8b190a5"
+        },
+        {
+            "CAS_No": "37206-42-1",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Ferrocen-Derivate wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "b)Catocen (2,2-Bis-ethylferrocenylpropan),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "0e250b4050b3bac2221599bf5dddaa1e998c0e505188e4f5598f9544f9c5b2d6"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Ferrocen-Derivate wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "c)Ferrocencarbonsäuren und Ferrocencarbonsäureester,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "8f47fb088761231150b7e41b05b36aa9ff5217534772a87a740b56703df2e973"
+        },
+        {
+            "CAS_No": "31904-29-7",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Ferrocen-Derivate wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "d)n-Butylferrocen,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "c33f34655f00d90adf6ff298a1d14e979c5bf78aa07deb89a4203466d6200328"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Ferrocen-Derivate wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "e)andere verwandte polymere Ferrocenderivate, nicht anderweitig von Unternummer 0008f4 erfasst,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "0d5e2817a53d327ad2ecbc945f30ee9a4eb966030c0d2d36d56be4727a9c86ec"
+        },
+        {
+            "CAS_No": "1273-89-8",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Ferrocen-Derivate wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "f)Ethylferrocen,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "70b0855d1af8c23aa4fc947e353b78fb485ea763fb98771aeac9af03408b88fb"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Ferrocen-Derivate wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "g)Propylferrocen,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "916ade283671d187f96e2478585afa16f3b7181054c8a98623e7be439abc5aa8"
+        },
+        {
+            "CAS_No": "1274-00-6",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Ferrocen-Derivate wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "h)Pentylferrocen,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "9a086804267297bae408095943984dc64139eae95df1312e02d5bb72502b2c51"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Ferrocen-Derivate wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "i)Dicyclopentylferrocen,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "b7ef563cfb64e823d6cbe1d8c5ce2d32203c9d5cc4b9ee3f27e9445fbab9bad9"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Ferrocen-Derivate wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "j)Dicyclohexylferrocen,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "ebb11b7d330cec32cf2dfbb7655dfd82373d02c60542555fd4b2e07466e8fffd"
+        },
+        {
+            "CAS_No": "1273-97-8",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Ferrocen-Derivate wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "k)Diethylferrocen,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "7259c0a9530429af66b1a64c7fdbf02e3ff3031b46db4fba3b237012e320a110"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Ferrocen-Derivate wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "l)Dipropylferrocen,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "a4c7fb8de5a34d2850b91aa58f749024ecc20ad0901b1a226ee354639ab04733"
+        },
+        {
+            "CAS_No": "1274-08-4",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Ferrocen-Derivate wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "m)Dibutylferrocen,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "5f6357e75c6964c5700eee7899d963e81c136c2e341ac36783815db8c893148f"
+        },
+        {
+            "CAS_No": "93894-59-8",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Ferrocen-Derivate wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "n)Dihexylferrocen,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "dff0b2f33ff3bfa9bfd8b3152c1c5b3a81917a75e66259c7b903799554cebba3"
+        },
+        {
+            "CAS_No": "1271-55-2",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.Ferrocen-Derivate wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "o)Acetylferrocen /1,1'-Diacetylferrocen,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "d9f59df924b41ae2f14f2f2743b0acf0d43333af535436bc91bb8031de1506fe"
+        },
+        {
+            "CAS_No": "20936-32-7",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "5.Blei-ß-resorcylat  oder Kupfer-ß-resorcylat,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "ce7529a9026b81ed7ccb207e880733002cc8addf59d8abbc1c0daa7b8ac2eac2"
+        },
+        {
+            "CAS_No": "14450-60-3",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "6.Bleicitrat,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "dde6f88e8061cd0e5f2e0b8ebb4192d856c7ef0fac89c988a2e352a8f8ca70af"
+        },
+        {
+            "CAS_No": "68411-07-4",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "7.Blei-Kupfer-Chelate von Beta-Resorcylat und/oder Salicylate,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "06e37d5110789ab57a6a9562460e5b8cb1427deadf4cad1c38b89513dd6a9342"
+        },
+        {
+            "CAS_No": "19136-34-6",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "8.Bleimaleat,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "0ea056b4199fbaa4b96c594951fb7c2db6f10442423cbacc1c8b118939a73c81"
+        },
+        {
+            "CAS_No": "15748-73-9",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "9.Bleisalicylat,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "5f7d2680144773bf1aa97bf7e104b54fc947b9f75d6a95c5bf3d78d0aaf5e867"
+        },
+        {
+            "CAS_No": "12036-31-6",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "10.Bleistannat,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "02722804de44aacb1107bea8de5c9b9afa0dee80188f1c936011edb06fecf257"
+        },
+        {
+            "CAS_No": "57-39-6",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "11.MAPO (Tris-1-(2-methyl)aziridinylphosphinoxid), BOBBA 8 (Bis(2-methylaziridinyl)-2-(2-hydroxypropanoxy)-propylaminophosphinoxid) und andere MAPO-Derivate,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "d76d7125049571e7e35c978636f33d4836d3a9e0c8dadfcb242e464a97ca5b44"
+        },
+        {
+            "CAS_No": "85068-72-0",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "12.Methyl-BAPO (Bis(2-methylaziridinyl)-methylaminophosphinoxid),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "2f752d31e646853e06b745ba827642f0005104461b6e63e0c415878f7e314506"
+        },
+        {
+            "CAS_No": "100-15-2",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "13.N-Methyl-p-nitroanilin,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "31e95d21a1302e71ccaf0374823406f7fd489595e038ff6d363a82134ee630a3"
+        },
+        {
+            "CAS_No": "7046-61-9",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "14.3-Nitraza-1,5-pentan-diisocyanat,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "a7eddd1bac1bf65f743ceddb87e6835ebf9d376a561400ca9491e6169b94f1ad"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "15.metallorganische-Kupplungsreagentien wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "a)Titan-IV-2,2-[Bis-2-propenolat-methyl-butanolattris(dioctyl) phosphato] (LICA 12) (CAS-Nr.",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "4be4d89305e7af2cf0584e8893eabbb297f5c408e3f4b4d0e17e6aa2c7c8c3a6"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "15.metallorganische-Kupplungsreagentien wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "b)Titan-IV-((2-Propenolat-1)methyl-n-propenolatomethyl) butanolat-1-tris(dioctyl)-pyrophosphat (KR3538),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "8899c605122f22c64717f977c9d29f49c2cc98c303188d45a502b89b9ad94c3e"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "15.metallorganische-Kupplungsreagentien wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "c)Titan-IV-((2-Propenolat-1)methyl-n-propenolatomethyl) butanolat-1-tris(dioctyl)phosphat,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "29a054c25e39d19b648ccc89fd2bbed23885e3422dc34cb56effcde31432bbe3"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "16.Polycyanodifluoraminoethylenoxid,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "392e6fd84177ef902fe776deb0795c18c307541dac32e06350a5fb54d6071c80"
+        },
+        {
+            "CAS_No": "7722-73-8",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "17.Bindemittel wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "a)1,1R,1S-Trimesoyl-tris(2-ethylaziridin) (HX-868, BITA)",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "2340ccec9ec155e5158422be89556991854ad24939702dcd7e89131a00f8ad0c"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "17.Bindemittel wie folgt:",
+            "Name_of_Substances_-_Sub_list_I": "b)polyfunktionelle Aziridinamide mit Isophthal-, Trimesin-, Isocyanur- oder Trimethyladipin-Grundstrukturen, auch mit einer 2-Methyl- oder 2-Ethyl-Aziridingruppe,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "5d7ac0b3994ae47ab7e9c446c04ba2f0257249bf96418500f8733091a11c181e"
+        },
+        {
+            "CAS_No": "75-55-8",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "18.Propylenimin, 2-Methylaziridin,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "75b68ab9795797c6a632a082cb03c17bbe562310fa183d0d33a882af05853133"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "19.superfeines Eisenoxid (Fe",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "7414e01ceba3aed06152369e3eddfbdd14f011b797a5ac90b88335190b27b624"
+        },
+        {
+            "CAS_No": "68412-45-3",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "20.TEPAN (Tetraethylenpentaminacrylnitril), cyanethylierte Polyamine und ihre Salze,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "c257edb28c441f34d53afc1c8c0aa8098d85e48331972b5bcf09d97dc9f1628a"
+        },
+        {
+            "CAS_No": "68412-46-4",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "21.TEPANOL (Tetraethylenpentaminacrylnitrilglycidol), cyanethylierte Polyamin-Addukte mit Glycidol und ihre Salze,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "af0c6eba89fd91e1eac2cf9c1eec10d08efbf4544a83ca9003e54fa033647100"
+        },
+        {
+            "CAS_No": "603-33-8",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "22.TPB (Triphenylwismut),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "4dec70055de45e8ec97b0651c71d2c9f8d814fa8e858e541474c2efe6c9bf2dc"
+        },
+        {
+            "CAS_No": "90591-48-3",
+            "Type_of_Substance": "f)„Additive“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "23.TEPB (Tris(ethoxyphenyl)wismut ;",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "4d68e73ca31e2775be34d64b7bc254fe4aed8936c337bfc2b98ef005079c9193"
+        },
+        {
+            "CAS_No": "78-71-7",
+            "Type_of_Substance": "g)„Vorprodukte“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.BCMO (3,3-Bis(chlormethyl)oxetan)  (siehe auch Unternummern 0008e1 und 0008e2),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "9b14f188334f2ebd59e90125a01df77c3f3bb7fdc93e41a3a744718207c04c8c"
+        },
+        {
+            "CAS_No": "125735-38-8",
+            "Type_of_Substance": "g)„Vorprodukte“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "2.Dinitroazetidin-t-butylsalz  (siehe auch Unternummer 0008a28),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "decd06860c442f2e3459492eaf09b2217ecb7b5ddf08cce812379c3fda53f5d7"
+        },
+        {
+            "CAS_No": "124782-15-6",
+            "Type_of_Substance": "g)„Vorprodukte“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "3.Hexabenzylhexaazaisowurtzitan-Derivate, einschließlich HBIW (Hexabenzylhexaazaisowurtzitan)  (siehe auch Unternummer 0008a4) und TAIW (Tetraacetyldibenzylhexaazaisowurtzitan)  (siehe auch Unternummer 0008a4),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "a4edbae86f59496820da745430dfb7deefd6d1a6f52c49ff9fbf257520657a7d"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "g)„Vorprodukte“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "4.nicht belegt,",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "d72c028d6e4ca492765ec74250ccf8b4207ce5af268e707e24f5dec05e581804"
+        },
+        {
+            "CAS_No": "41378-98-7",
+            "Type_of_Substance": "g)„Vorprodukte“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "5.TAT (1,3,5,7-Tetraacetyl-1,3,5,7-tetraazacyclooktan)  (siehe auch Unternummer 0008a13),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "5ac9f2ca4eebb0bf095b0fa2ea5c3f67e499c1d1fe59b0543431e743bd8af583"
+        },
+        {
+            "CAS_No": "5409-42-7",
+            "Type_of_Substance": "g)„Vorprodukte“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "6.1,4,5,8-Tetraazadecalin  (siehe auch Unternummer 0008a27),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "eac5ae1a358f0f2c465f872c9f56c076e60829d38628de0983ce4ff11a0267f8"
+        },
+        {
+            "CAS_No": "108-70-3",
+            "Type_of_Substance": "g)„Vorprodukte“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "7.1,3,5-Trichlorbenzol  (siehe auch Unternummer 0008a23),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "368f3d72249ca516d59a9e2ea03d624d192eec8f4dade24074db66eef5a6f279"
+        },
+        {
+            "CAS_No": "3068-00-6",
+            "Type_of_Substance": "g)„Vorprodukte“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "8.1,2,4-Butantriol (1,2,4-Trihydroxybutan)  (siehe auch Unternummer 0008e5),",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "ac873c411789fd9c4041e09e8ee76fbf7657ea62ff07c77a73ab83e5e0ea1868"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "g)„Vorprodukte“ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "9.DADN (1,5-Diacetyl-3,7-dinitro-1,3,5,7-tetraazacyclooctan) (siehe auch Unternummer 0008a13);",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "9eb2068d05bc6262323b2d70d54eaceb15a96cdca7656fc23c67f187c2ac1d13"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "h)Pulver und Formteile aus ,reaktiven Materialien‘ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.Pulver aus einem der folgenden Materialien mit einer Partikelgröße kleiner als 250 μm in jeder Richtung und nicht anderweitig von Nummer 0008 erfasst:",
+            "Name_of_Substances_-_Sub_list_I": "a)Aluminium,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "7bfadbd3eda69e0d9960186784bd5125da374ec09f00b27eb13aa49d360e927e"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "h)Pulver und Formteile aus ,reaktiven Materialien‘ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.Pulver aus einem der folgenden Materialien mit einer Partikelgröße kleiner als 250 μm in jeder Richtung und nicht anderweitig von Nummer 0008 erfasst:",
+            "Name_of_Substances_-_Sub_list_I": "b)Niob,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "b6b1b3bbd17ffc1d99ba658fc5c7623205777e5f92b66edebf0086a042a29c26"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "h)Pulver und Formteile aus ,reaktiven Materialien‘ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.Pulver aus einem der folgenden Materialien mit einer Partikelgröße kleiner als 250 μm in jeder Richtung und nicht anderweitig von Nummer 0008 erfasst:",
+            "Name_of_Substances_-_Sub_list_I": "c)Bor,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "9193c56e7e2e5788834f45463c9b77db4e084de3bffcc4b951300926b149115f"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "h)Pulver und Formteile aus ,reaktiven Materialien‘ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.Pulver aus einem der folgenden Materialien mit einer Partikelgröße kleiner als 250 μm in jeder Richtung und nicht anderweitig von Nummer 0008 erfasst:",
+            "Name_of_Substances_-_Sub_list_I": "d)Zirkonium,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "9b47347dc30779f5eecf881b77d0bfceb545cb989dde34a66e2a11a8d72ef01c"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "h)Pulver und Formteile aus ,reaktiven Materialien‘ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.Pulver aus einem der folgenden Materialien mit einer Partikelgröße kleiner als 250 μm in jeder Richtung und nicht anderweitig von Nummer 0008 erfasst:",
+            "Name_of_Substances_-_Sub_list_I": "e)Magnesium,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "0d3e86f248714652a91bc650cbffcff97f5a2c646727e9a282addaf06229d74a"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "h)Pulver und Formteile aus ,reaktiven Materialien‘ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.Pulver aus einem der folgenden Materialien mit einer Partikelgröße kleiner als 250 μm in jeder Richtung und nicht anderweitig von Nummer 0008 erfasst:",
+            "Name_of_Substances_-_Sub_list_I": "f)Titan,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "277e837a1ed5ccc565435d62cec27789beb90f609f90d1f8f7e9dd0d873fb154"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "h)Pulver und Formteile aus ,reaktiven Materialien‘ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.Pulver aus einem der folgenden Materialien mit einer Partikelgröße kleiner als 250 μm in jeder Richtung und nicht anderweitig von Nummer 0008 erfasst:",
+            "Name_of_Substances_-_Sub_list_I": "g)Tantal,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "c177dc81450ee95650363a2d370b9470cc7408d16f29800f1e2cc9d188786ab3"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "h)Pulver und Formteile aus ,reaktiven Materialien‘ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.Pulver aus einem der folgenden Materialien mit einer Partikelgröße kleiner als 250 μm in jeder Richtung und nicht anderweitig von Nummer 0008 erfasst:",
+            "Name_of_Substances_-_Sub_list_I": "h)Wolfram,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "f74cbbcac412a415ca96ec2262b76a8b1349d2a5936a9158df4fee69754e9753"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "h)Pulver und Formteile aus ,reaktiven Materialien‘ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.Pulver aus einem der folgenden Materialien mit einer Partikelgröße kleiner als 250 μm in jeder Richtung und nicht anderweitig von Nummer 0008 erfasst:",
+            "Name_of_Substances_-_Sub_list_I": "i)Molybdän",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "70ac8a6e811e17e861a7735ef8ea253799d839f8b3984ef7a7ad3877add09aae"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "h)Pulver und Formteile aus ,reaktiven Materialien‘ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "1.Pulver aus einem der folgenden Materialien mit einer Partikelgröße kleiner als 250 μm in jeder Richtung und nicht anderweitig von Nummer 0008 erfasst:",
+            "Name_of_Substances_-_Sub_list_I": "j)Hafnium,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "520afc87934925b5e7d3d14d394aacbf6e58e0ac20dd4bacc2e1db02c78ffd2c"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "h)Pulver und Formteile aus ,reaktiven Materialien‘ wie folgt:",
+            "Anmerkung": "",
+            "Name_of_Substances": "2.Formteile, nicht erfasst von Nummern 0003, 0004, 0012 oder 0016, hergestellt aus von Unternummer 0008h1 erfassten Pulvern.",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "8fef4d945372ea5d01bf9cedff4a2a5b21ecbcaab898c8494518c32918a0f89c"
+        },
+        {
+            "CAS_No": "131-74-8",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "a) Ammoniumpikrat,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "d7c8eac9d4d31f432d905a28c70a0e7d05659a65671024eda7a269782d033913"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "b) Schwarzpulver,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "6ceacf5a140f25f7a412df937d44a870e4721fdf1c211c9d3f4d1f0022cdc52b"
+        },
+        {
+            "CAS_No": "131-73-7",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "c) Hexanitrodiphenylamin,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "949b265be4e2b36b4233e62d3da173ff3840cc8dc4bb62477183b3902307cfdf"
+        },
+        {
+            "CAS_No": "10405-27-3",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "d) Difluoramin (HNF2),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "a6dadd623ecc5e3c23d861d70dca21227bfb96e14235377196277469382ba8a8"
+        },
+        {
+            "CAS_No": "9056-38-6",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "e) Nitrostärke,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "b933ef60a34e296f97b0ee3e653431a768575279a667643c2ad7bbe10070f972"
+        },
+        {
+            "CAS_No": "7757-79-1",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "f) Kaliumnitrat,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "a526a3fedeecab011c5ffd6b5688df7e887da73bf403afeaaf9196293cd8c2fe"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "g) Tetranitronaphthalin,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "6445c79ac74714e0802d4bd38ba5fccbcb98aa4270e4132697897089ad763975"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "h) Trinitroanisol,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "8b60c6e5b2c9f5f498f88c3fdcdcbdb8b3b3d0c894dcb2bd31146ee3170d8bcb"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "i) Trinitronaphthalin,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "0f6b2502e7ca8fdbd4dcb28adee1d59d580d4f8ef01fe536a937241918b4ea09"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "j) Trinitroxylol,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "eeb92367ebfde1fec32a7c507c3c5b75c6eb78168d159938569a5e00dd910c81"
+        },
+        {
+            "CAS_No": "872-50-4",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "k) N-Pyrrolidinon, 1-Methyl-2-pyrrolidinon,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "1d565af7e3618b9ae7491badee6a4abeb6e109a49a501143c9c352c6b1a8bc0a"
+        },
+        {
+            "CAS_No": "142-16-5",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "l) Dioctylmaleat,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "ddbbe46fc32da34d9ad79c08bf24da954987164d249b09d1a6ef6317dbbb9360"
+        },
+        {
+            "CAS_No": "103-11-7",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "m) Ethylhexylacrylat,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "5b3d49c91fa09c856d37fa29dcd085b21ccb98900c589ebab8a2c605a1fbc0f8"
+        },
+        {
+            "CAS_No": "97-93-8",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "n) Triethylaluminium (TEA), Trimethylaluminium (TMA)  und sonstige pyrophore Metallalkyle der Elemente Lithium, Natrium, Magnesium, Zink und Bor sowie Metallaryle derselben Elemente,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "a25a69d8fd962556836993959fee3972ae1bd9d39141f9cc95a7cb79eab0c777"
+        },
+        {
+            "CAS_No": "9004-70-0",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "o) Nitrozellulose,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "39e79c13a93b3d280fe0a8683395d706d56abe2e9130a9146e78cea0798d16bb"
+        },
+        {
+            "CAS_No": "55-63-0",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "p) Nitroglycerin (oder Glycerinnitrat),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "09992449f893ec57df89ec965c9589cdb4f36184aece1e78ffd3fb36e518374e"
+        },
+        {
+            "CAS_No": "118-96-7",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "q) 2,4,6-Trinitrotoluol,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "067be0620ec6effde3e2edc4d677f64b307183969da2f3653aa478975e6c06d6"
+        },
+        {
+            "CAS_No": "20829-66-7",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "r) Ethylendiamindinitrat,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "0ccf25ab659e890cf5363686f01cadc1a5048bf32a5bc5bfc38568375f708498"
+        },
+        {
+            "CAS_No": "78-11-5",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "s) Pentaerythrittetranitrat,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "df9d7bd91bf0ea41ab5b523a6744272258345f0ce9514c302a1fe1226ad70858"
+        },
+        {
+            "CAS_No": "13424-46-9",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "t) Bleiazid, normales Bleistyphnat, basisches Bleistyphnat  und sonstige Anzünder oder Anzündermischungen, die Azide oder komplexe Azide enthalten,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "6fa37303be2c05795d591ccb119181b63beb84ca2b9bbe27781124245b7d1f8b"
+        },
+        {
+            "CAS_No": "111-22-8",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "u) Triethylenglykoldinitrat (TEGDN),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "4f7cc23d612faf515dc947512094d9d0ff7e462bdff734dae1e3211aa6513850"
+        },
+        {
+            "CAS_No": "82-71-3",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "v) 2,4,6-Trinitroresorcin (Styphninsäure),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "85cd18b7a188add32447935c71b15538d400fd5cec27ac9e7994c1669039479e"
+        },
+        {
+            "CAS_No": "85-98-3",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "w) Diethyldiphenylharnstoff, Dimethyldiphenylharnstoff, Methylethyldiphenylharnstoff (Centralite),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "fb0c0271b638ab40fc4b89271f64c79b20b5659b3b3f51e71b36e0349c255f65"
+        },
+        {
+            "CAS_No": "603-54-3",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "x) N,N-Diphenylharnstoff (unsymmetrischer Diphenylharnstoff),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "0b89bbd27570e3ec997155b5450f1a578ab149b5bab49cf8e176a70087feff3c"
+        },
+        {
+            "CAS_No": "13114-72-2",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "y) Methyl-N,N-diphenylharnstoff (unsymmetrischer Methyldiphenylharnstoff),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "d2a4f577ae1aee1124fd9aeeb732ea9b544fb3340bee54494e7284a7fb1f7ff9"
+        },
+        {
+            "CAS_No": "64544-71-4",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "z) Ethyl-N,N-diphenylharnstoff (unsymmetrischer Ethyldiphenylharnstoff),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "30d990112b32c6292a9e9816da86eef40e7f527c788957c003224a9454c11700"
+        },
+        {
+            "CAS_No": "119-75-5",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "aa) 2-Nitrodiphenylamin (2-NDPA),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "11727e0f703e91a27ba9736cb37eb5476d86dc97ebdd8f3cb8e13d01926294bb"
+        },
+        {
+            "CAS_No": "836-30-6",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "bb) 4-Nitrodiphenylamin (4-NDPA),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "439ed8156b6df83377b1bf54304515b5c0afabcb8cfe29ed6c55fc40f68440d5"
+        },
+        {
+            "CAS_No": "918-52-5",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "cc) 2,2-Dinitropropanol,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "9c941b0fdcd18d66808e22b1b1d5b519526e04784f81f110f36b974a820fec3e"
+        },
+        {
+            "CAS_No": "556-88-7",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 1:",
+            "Name_of_Substances": "Nummer 0008 erfasst die nachstehend aufgeführten Stoffe nur dann, wenn sie als Verbindungen oder Mischungen mit in Unternummer 0008a genannten „energetischen Materialien“ oder den in Unternummer 0008c genannten Metallpulvern vorliegen, d. h., sie werden nicht erfasst, wenn sie in reiner Form oder als Mischungen untereinander vorliegen:",
+            "Name_of_Substances_-_Sub_list_I": "dd) zur Erfassung von Nitroguanidin (NQ)  siehe Unternummer 1C011d des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "58dedfe4591a130a91755c9751df9cf4efd956135a293262e68f95558a4a72d1"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 2:",
+            "Name_of_Substances": "Nummer 0008 erfasst nicht Ammoniumperchlorat (Unternummer 0008d2), NTO (Unternummer 0008a18) oder Catocen (Unternummer 0008f4b) mit allen folgenden Eigenschaften:",
+            "Name_of_Substances_-_Sub_list_I": "a) besonders geformt und formuliert für Gaserzeuger für zivile Verwendung,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "0d644b450bdb48c37c4c3fec8acf38b9671151280dc35f967204b1a8acc98d4a"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 2:",
+            "Name_of_Substances": "Nummer 0008 erfasst nicht Ammoniumperchlorat (Unternummer 0008d2), NTO (Unternummer 0008a18) oder Catocen (Unternummer 0008f4b) mit allen folgenden Eigenschaften:",
+            "Name_of_Substances_-_Sub_list_I": "b) liegt als Verbindung oder Mischung mit nichtaktiven warmaushärtenden Bindemitteln oder Weichmachern vor und weist eine Masse von weniger als 250 g auf,",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "3908e6c531f83fbe2cf3a779278ab7dc6abcad672ee3e267b6c687b44fb8afab"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 2:",
+            "Name_of_Substances": "Nummer 0008 erfasst nicht Ammoniumperchlorat (Unternummer 0008d2), NTO (Unternummer 0008a18) oder Catocen (Unternummer 0008f4b) mit allen folgenden Eigenschaften:",
+            "Name_of_Substances_-_Sub_list_I": "c) der Wirkstoff enthält höchstens 80 Masse-% Ammoniumperchlorat (Unternummer 0008d2),",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "b8c2907317fde9ed3b3bf9748b2b64b46323751bfa18847be7c068ff2a6ebbd5"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 2:",
+            "Name_of_Substances": "Nummer 0008 erfasst nicht Ammoniumperchlorat (Unternummer 0008d2), NTO (Unternummer 0008a18) oder Catocen (Unternummer 0008f4b) mit allen folgenden Eigenschaften:",
+            "Name_of_Substances_-_Sub_list_I": "d) enthält nicht mehr als 4 g NTO (Unternummer 0008a18) und",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "04cb78447c1614601a0d430a8f09a3288d6dd17da29e2cc8f12eda3bd96bf3bc"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 2:",
+            "Name_of_Substances": "Nummer 0008 erfasst nicht Ammoniumperchlorat (Unternummer 0008d2), NTO (Unternummer 0008a18) oder Catocen (Unternummer 0008f4b) mit allen folgenden Eigenschaften:",
+            "Name_of_Substances_-_Sub_list_I": "e) enthält nicht mehr als 1 g Catocen (Unternummer 0008f4b).",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "ef225eaf68a261dc121db307eddb1d748baef5f655d3703aab67ba1b8c0af5a8"
+        },
+        {
+            "CAS_No": "",
+            "Type_of_Substance": "",
+            "Anmerkung": "Anmerkung 3:",
+            "Name_of_Substances": "Zur Erfassung von Treibladungspulver als Bestandteil von Munition siehe Nummer 0003.",
+            "Name_of_Substances_-_Sub_list_I": "",
+            "Name_of_Substances_-_Sub_list_II": "",
+            "sha_hash": "3e636bb6d32870063603356bc7540e3e62fafb8adfa91b2d38cc16facff902a7"
+        }
+    ]
+}
